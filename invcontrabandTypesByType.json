@@ -1,0 +1,418 @@
+{
+  "12478": {
+    "500008": {
+      "typeID": 12478, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 7.0, 
+      "factionID": 500008, 
+      "standingLoss": 0.2, 
+      "attackMinSec": 1.1
+    }, 
+    "500003": {
+      "typeID": 12478, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 10.0, 
+      "factionID": 500003, 
+      "standingLoss": 0.3, 
+      "attackMinSec": 1.1
+    }, 
+    "500007": {
+      "typeID": 12478, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 10.0, 
+      "factionID": 500007, 
+      "standingLoss": 0.4, 
+      "attackMinSec": 1.1
+    }
+  }, 
+  "3713": {
+    "500005": {
+      "typeID": 3713, 
+      "confiscateMinSec": 0.4, 
+      "fineByValue": 4.5, 
+      "factionID": 500005, 
+      "standingLoss": 0.2, 
+      "attackMinSec": 1.1
+    }, 
+    "500017": {
+      "typeID": 3713, 
+      "confiscateMinSec": 0.5, 
+      "fineByValue": 1.5, 
+      "factionID": 500017, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }
+  }, 
+  "17796": {
+    "500004": {
+      "typeID": 17796, 
+      "confiscateMinSec": 1.0, 
+      "fineByValue": 0.0, 
+      "factionID": 500004, 
+      "standingLoss": 0.0, 
+      "attackMinSec": 1.1
+    }, 
+    "500001": {
+      "typeID": 17796, 
+      "confiscateMinSec": 1.0, 
+      "fineByValue": 0.0, 
+      "factionID": 500001, 
+      "standingLoss": 0.0, 
+      "attackMinSec": 1.1
+    }, 
+    "500013": {
+      "typeID": 17796, 
+      "confiscateMinSec": 1.0, 
+      "fineByValue": 0.0, 
+      "factionID": 500013, 
+      "standingLoss": 0.0, 
+      "attackMinSec": 1.1
+    }, 
+    "500002": {
+      "typeID": 17796, 
+      "confiscateMinSec": 1.0, 
+      "fineByValue": 0.0, 
+      "factionID": 500002, 
+      "standingLoss": 0.0, 
+      "attackMinSec": 1.1
+    }, 
+    "500016": {
+      "typeID": 17796, 
+      "confiscateMinSec": 1.0, 
+      "fineByValue": 0.0, 
+      "factionID": 500016, 
+      "standingLoss": 0.0, 
+      "attackMinSec": 1.1
+    }, 
+    "500017": {
+      "typeID": 17796, 
+      "confiscateMinSec": 1.0, 
+      "fineByValue": 0.0, 
+      "factionID": 500017, 
+      "standingLoss": 0.0, 
+      "attackMinSec": 1.1
+    }, 
+    "500014": {
+      "typeID": 17796, 
+      "confiscateMinSec": 1.0, 
+      "fineByValue": 0.0, 
+      "factionID": 500014, 
+      "standingLoss": 0.0, 
+      "attackMinSec": 1.1
+    }, 
+    "500006": {
+      "typeID": 17796, 
+      "confiscateMinSec": 1.0, 
+      "fineByValue": 0.0, 
+      "factionID": 500006, 
+      "standingLoss": 0.0, 
+      "attackMinSec": 1.1
+    }
+  }, 
+  "3721": {
+    "500005": {
+      "typeID": 3721, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 5.0, 
+      "factionID": 500005, 
+      "standingLoss": 0.2, 
+      "attackMinSec": 1.1
+    }, 
+    "500004": {
+      "typeID": 3721, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 8.0, 
+      "factionID": 500004, 
+      "standingLoss": 0.3, 
+      "attackMinSec": 1.1
+    }, 
+    "500009": {
+      "typeID": 3721, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 4.0, 
+      "factionID": 500009, 
+      "standingLoss": 0.15, 
+      "attackMinSec": 1.1
+    }, 
+    "500018": {
+      "typeID": 3721, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 5.0, 
+      "factionID": 500018, 
+      "standingLoss": 0.2, 
+      "attackMinSec": 1.1
+    }, 
+    "500006": {
+      "typeID": 3721, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 8.0, 
+      "factionID": 500006, 
+      "standingLoss": 0.0, 
+      "attackMinSec": 1.1
+    }, 
+    "500001": {
+      "typeID": 3721, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 5.0, 
+      "factionID": 500001, 
+      "standingLoss": 0.2, 
+      "attackMinSec": 1.1
+    }, 
+    "500002": {
+      "typeID": 3721, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 10.0, 
+      "factionID": 500002, 
+      "standingLoss": 0.5, 
+      "attackMinSec": 1.1
+    }, 
+    "500016": {
+      "typeID": 3721, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 6.0, 
+      "factionID": 500016, 
+      "standingLoss": 0.3, 
+      "attackMinSec": 1.1
+    }, 
+    "500017": {
+      "typeID": 3721, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 8.0, 
+      "factionID": 500017, 
+      "standingLoss": 0.3, 
+      "attackMinSec": 1.1
+    }, 
+    "500014": {
+      "typeID": 3721, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 5.0, 
+      "factionID": 500014, 
+      "standingLoss": 0.2, 
+      "attackMinSec": 1.1
+    }, 
+    "500015": {
+      "typeID": 3721, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 9.0, 
+      "factionID": 500015, 
+      "standingLoss": 0.4, 
+      "attackMinSec": 1.1
+    }
+  }, 
+  "3729": {
+    "500005": {
+      "typeID": 3729, 
+      "confiscateMinSec": 0.7, 
+      "fineByValue": 2.0, 
+      "factionID": 500005, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500004": {
+      "typeID": 3729, 
+      "confiscateMinSec": 0.4, 
+      "fineByValue": 2.5, 
+      "factionID": 500004, 
+      "standingLoss": 0.15, 
+      "attackMinSec": 1.1
+    }, 
+    "500009": {
+      "typeID": 3729, 
+      "confiscateMinSec": 0.2, 
+      "fineByValue": 1.5, 
+      "factionID": 500009, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500018": {
+      "typeID": 3729, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 2.0, 
+      "factionID": 500018, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500006": {
+      "typeID": 3729, 
+      "confiscateMinSec": 0.4, 
+      "fineByValue": 2.5, 
+      "factionID": 500006, 
+      "standingLoss": 0.0, 
+      "attackMinSec": 1.1
+    }, 
+    "500001": {
+      "typeID": 3729, 
+      "confiscateMinSec": 0.4, 
+      "fineByValue": 2.0, 
+      "factionID": 500001, 
+      "standingLoss": 0.1, 
+      "attackMinSec": 1.1
+    }, 
+    "500002": {
+      "typeID": 3729, 
+      "confiscateMinSec": 0.8, 
+      "fineByValue": 1.1, 
+      "factionID": 500002, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500016": {
+      "typeID": 3729, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 2.0, 
+      "factionID": 500016, 
+      "standingLoss": 0.1, 
+      "attackMinSec": 1.1
+    }, 
+    "500017": {
+      "typeID": 3729, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 2.5, 
+      "factionID": 500017, 
+      "standingLoss": 0.15, 
+      "attackMinSec": 1.1
+    }, 
+    "500014": {
+      "typeID": 3729, 
+      "confiscateMinSec": 1.1, 
+      "fineByValue": 1.2, 
+      "factionID": 500014, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500015": {
+      "typeID": 3729, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 1.1, 
+      "factionID": 500015, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }
+  }, 
+  "9844": {
+    "500008": {
+      "typeID": 9844, 
+      "confiscateMinSec": 0.3, 
+      "fineByValue": 4.0, 
+      "factionID": 500008, 
+      "standingLoss": 0.15, 
+      "attackMinSec": 1.1
+    }, 
+    "500018": {
+      "typeID": 9844, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 3.0, 
+      "factionID": 500018, 
+      "standingLoss": 0.1, 
+      "attackMinSec": 1.1
+    }, 
+    "500014": {
+      "typeID": 9844, 
+      "confiscateMinSec": 0.4, 
+      "fineByValue": 1.1, 
+      "factionID": 500014, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500001": {
+      "typeID": 9844, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 5.0, 
+      "factionID": 500001, 
+      "standingLoss": 0.2, 
+      "attackMinSec": 1.1
+    }, 
+    "500003": {
+      "typeID": 9844, 
+      "confiscateMinSec": 0.5, 
+      "fineByValue": 3.0, 
+      "factionID": 500003, 
+      "standingLoss": 0.1, 
+      "attackMinSec": 1.1
+    }, 
+    "500007": {
+      "typeID": 9844, 
+      "confiscateMinSec": 0.6, 
+      "fineByValue": 1.5, 
+      "factionID": 500007, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }
+  }, 
+  "3727": {
+    "500008": {
+      "typeID": 3727, 
+      "confiscateMinSec": 0.5, 
+      "fineByValue": 1.2, 
+      "factionID": 500008, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500003": {
+      "typeID": 3727, 
+      "confiscateMinSec": 0.6, 
+      "fineByValue": 1.2, 
+      "factionID": 500003, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500005": {
+      "typeID": 3727, 
+      "confiscateMinSec": 0.5, 
+      "fineByValue": 3.0, 
+      "factionID": 500005, 
+      "standingLoss": 0.1, 
+      "attackMinSec": 1.1
+    }, 
+    "500017": {
+      "typeID": 3727, 
+      "confiscateMinSec": 0.4, 
+      "fineByValue": 2.0, 
+      "factionID": 500017, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500007": {
+      "typeID": 3727, 
+      "confiscateMinSec": 0.6, 
+      "fineByValue": 1.2, 
+      "factionID": 500007, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }
+  }, 
+  "11855": {
+    "500009": {
+      "typeID": 11855, 
+      "confiscateMinSec": 0.3, 
+      "fineByValue": 1.2, 
+      "factionID": 500009, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500016": {
+      "typeID": 11855, 
+      "confiscateMinSec": -1.0, 
+      "fineByValue": 1.2, 
+      "factionID": 500016, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500004": {
+      "typeID": 11855, 
+      "confiscateMinSec": 0.8, 
+      "fineByValue": 1.2, 
+      "factionID": 500004, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }, 
+    "500014": {
+      "typeID": 11855, 
+      "confiscateMinSec": 0.2, 
+      "fineByValue": 1.2, 
+      "factionID": 500014, 
+      "standingLoss": 0.05, 
+      "attackMinSec": 1.1
+    }
+  }
+}

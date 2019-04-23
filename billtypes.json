@@ -1,0 +1,51 @@
+[
+  {
+    "dataID": 16510217, 
+    "billTypeID": 1, 
+    "description": "", 
+    "billTypeName": "Market Fine", 
+    "billTypeNameID": 77950
+  }, 
+  {
+    "dataID": 16510218, 
+    "billTypeID": 2, 
+    "description": "", 
+    "billTypeName": "Rental Bill", 
+    "billTypeNameID": 77951
+  }, 
+  {
+    "dataID": 16510219, 
+    "billTypeID": 3, 
+    "description": "", 
+    "billTypeName": "Broker Bill", 
+    "billTypeNameID": 77952
+  }, 
+  {
+    "dataID": 16510220, 
+    "billTypeID": 4, 
+    "description": "", 
+    "billTypeName": "War Bill", 
+    "billTypeNameID": 77953
+  }, 
+  {
+    "dataID": 16510221, 
+    "billTypeID": 5, 
+    "description": "", 
+    "billTypeName": "Alliance Maintenance Bill", 
+    "billTypeNameID": 77954
+  }, 
+  {
+    "dataID": 16510222, 
+    "billTypeID": 6, 
+    "description": "CONCORD sovereignty registrar fee", 
+    "billTypeName": "Sovereignty Bill", 
+    "billTypeNameID": 77955
+  }, 
+  {
+    "dataID": 97054488, 
+    "billTypeID": 7, 
+    "description": "Bill for infrastructure hub", 
+    "billTypeName": "Infrastructure Hub Bill", 
+    "billTypeNameID": 309671
+  }
+]

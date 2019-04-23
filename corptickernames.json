@@ -1,0 +1,2582 @@
+[
+  {
+    "color1": null, 
+    "corporationID": 1000001, 
+    "tickerName": "666", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000002, 
+    "tickerName": "CBDC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000003, 
+    "tickerName": "PD", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000004, 
+    "tickerName": "Y", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000005, 
+    "tickerName": "HC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000006, 
+    "tickerName": "DCMI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000007, 
+    "tickerName": "PMG", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000008, 
+    "tickerName": "M", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000009, 
+    "tickerName": "CP", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000010, 
+    "tickerName": "KC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000011, 
+    "tickerName": "WC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000012, 
+    "tickerName": "TD", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000013, 
+    "tickerName": "RA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000014, 
+    "tickerName": "P", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000015, 
+    "tickerName": "CS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000016, 
+    "tickerName": "ZA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000017, 
+    "tickerName": "NC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000018, 
+    "tickerName": "EE", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000019, 
+    "tickerName": "ISH", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000020, 
+    "tickerName": "LDC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000021, 
+    "tickerName": "ZGRF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000022, 
+    "tickerName": "PRO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000023, 
+    "tickerName": "ED", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000024, 
+    "tickerName": "CBDSD", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000025, 
+    "tickerName": "SC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000026, 
+    "tickerName": "CC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000027, 
+    "tickerName": "EH", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000028, 
+    "tickerName": "CFU", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000029, 
+    "tickerName": "SRB", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000030, 
+    "tickerName": "MF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000031, 
+    "tickerName": "CEP", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000032, 
+    "tickerName": "MC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000033, 
+    "tickerName": "CBT", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000034, 
+    "tickerName": "HR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000035, 
+    "tickerName": "CN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000036, 
+    "tickerName": "IN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000037, 
+    "tickerName": "LDPS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000038, 
+    "tickerName": "IW", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000039, 
+    "tickerName": "HG", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000040, 
+    "tickerName": "POU", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000041, 
+    "tickerName": "SP", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000042, 
+    "tickerName": "WPC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000043, 
+    "tickerName": "CPF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000044, 
+    "tickerName": "SAK", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000045, 
+    "tickerName": "STI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000046, 
+    "tickerName": "S", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000047, 
+    "tickerName": "K", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000048, 
+    "tickerName": "V", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000049, 
+    "tickerName": "B", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000050, 
+    "tickerName": "RP", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000051, 
+    "tickerName": "RF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000052, 
+    "tickerName": "RJD", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000053, 
+    "tickerName": "UM", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000054, 
+    "tickerName": "RSS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000055, 
+    "tickerName": "MMC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000056, 
+    "tickerName": "CCI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000057, 
+    "tickerName": "BC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000058, 
+    "tickerName": "EC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000059, 
+    "tickerName": "SKD", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000060, 
+    "tickerName": "NF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000061, 
+    "tickerName": "FE", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000062, 
+    "tickerName": "TLG", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000063, 
+    "tickerName": "AC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000064, 
+    "tickerName": "C", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000065, 
+    "tickerName": "IA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000066, 
+    "tickerName": "VI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000067, 
+    "tickerName": "ZS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000068, 
+    "tickerName": "NA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000069, 
+    "tickerName": "DF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000070, 
+    "tickerName": "HZOR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000071, 
+    "tickerName": "II", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000072, 
+    "tickerName": "IS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000073, 
+    "tickerName": "ACN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000074, 
+    "tickerName": "JH", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000075, 
+    "tickerName": "N", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000076, 
+    "tickerName": "FU", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000077, 
+    "tickerName": "RIN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000078, 
+    "tickerName": "IC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000079, 
+    "tickerName": "ACS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000080, 
+    "tickerName": "MW", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000081, 
+    "tickerName": "MI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000082, 
+    "tickerName": "MIO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000083, 
+    "tickerName": "ATR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000084, 
+    "tickerName": "AN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000085, 
+    "tickerName": "CO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000086, 
+    "tickerName": "EF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000087, 
+    "tickerName": "KF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000088, 
+    "tickerName": "SF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000089, 
+    "tickerName": "KAF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000090, 
+    "tickerName": "AF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000091, 
+    "tickerName": "TMF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000092, 
+    "tickerName": "CI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000093, 
+    "tickerName": "T", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000094, 
+    "tickerName": "TSS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000095, 
+    "tickerName": "FF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000096, 
+    "tickerName": "IZS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000097, 
+    "tickerName": "MA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000098, 
+    "tickerName": "AMI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000099, 
+    "tickerName": "CH", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000100, 
+    "tickerName": "QC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000101, 
+    "tickerName": "CD", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000102, 
+    "tickerName": "RS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000103, 
+    "tickerName": "AI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000104, 
+    "tickerName": "PP", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000105, 
+    "tickerName": "I", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000106, 
+    "tickerName": "EI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000107, 
+    "tickerName": "TS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000108, 
+    "tickerName": "CT", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000109, 
+    "tickerName": "DL", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000110, 
+    "tickerName": "FM", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000111, 
+    "tickerName": "A", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000112, 
+    "tickerName": "BL", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000113, 
+    "tickerName": "PI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000114, 
+    "tickerName": "GIB", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000115, 
+    "tickerName": "UC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000116, 
+    "tickerName": "PR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000117, 
+    "tickerName": "SE", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000118, 
+    "tickerName": "SU", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000119, 
+    "tickerName": "FA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000120, 
+    "tickerName": "FN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000121, 
+    "tickerName": "FIO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000122, 
+    "tickerName": "FC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000123, 
+    "tickerName": "ATF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000124, 
+    "tickerName": "ARCA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000125, 
+    "tickerName": "CONCO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000126, 
+    "tickerName": "ATC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000127, 
+    "tickerName": "G", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000128, 
+    "tickerName": "MLG", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000129, 
+    "tickerName": "ORE", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000130, 
+    "tickerName": "SEVE", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000131, 
+    "tickerName": "SCT", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000132, 
+    "tickerName": "SCC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000133, 
+    "tickerName": "SAG", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000134, 
+    "tickerName": "TBR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000135, 
+    "tickerName": "SPC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000136, 
+    "tickerName": "GA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000137, 
+    "tickerName": "DED", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000138, 
+    "tickerName": "DOM", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000139, 
+    "tickerName": "FRL", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000140, 
+    "tickerName": "GNL", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000141, 
+    "tickerName": "GUP", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000142, 
+    "tickerName": "IPR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000143, 
+    "tickerName": "ICR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000144, 
+    "tickerName": "IBK", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000145, 
+    "tickerName": "ICM", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000146, 
+    "tickerName": "ISP", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000147, 
+    "tickerName": "ISD", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000148, 
+    "tickerName": "INB", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000149, 
+    "tickerName": "JVN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000150, 
+    "tickerName": "JDR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000151, 
+    "tickerName": "KIV", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000152, 
+    "tickerName": "KTP", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000153, 
+    "tickerName": "KWK", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000154, 
+    "tickerName": "NMA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000155, 
+    "tickerName": "PRP", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000156, 
+    "tickerName": "RKN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000157, 
+    "tickerName": "SPI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000158, 
+    "tickerName": "SPS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000159, 
+    "tickerName": "SAN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000160, 
+    "tickerName": "TMX", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000161, 
+    "tickerName": "TCR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000162, 
+    "tickerName": "TPW", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000163, 
+    "tickerName": "TPT", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000164, 
+    "tickerName": "XSN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000165, 
+    "tickerName": "HU", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000166, 
+    "tickerName": "IAC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000167, 
+    "tickerName": "SWA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000168, 
+    "tickerName": "FNA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000169, 
+    "tickerName": "CAS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000170, 
+    "tickerName": "RMS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000171, 
+    "tickerName": "RUN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000172, 
+    "tickerName": "PTS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000173, 
+    "tickerName": "POLAR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000174, 
+    "tickerName": "POLBU", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000175, 
+    "tickerName": "POLEV", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000176, 
+    "tickerName": "PANNS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000177, 
+    "tickerName": "MAI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000178, 
+    "tickerName": "AAB", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000179, 
+    "tickerName": "IC24", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000180, 
+    "tickerName": "SPROT", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000181, 
+    "tickerName": "FEDEF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000182, 
+    "tickerName": "TLIB", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000193, 
+    "tickerName": "ARK", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000197, 
+    "tickerName": "DRAGO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000198, 
+    "tickerName": "IGRD", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000205, 
+    "tickerName": "ITPL", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000206, 
+    "tickerName": "UHLAN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000207, 
+    "tickerName": "BRAGI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000208, 
+    "tickerName": "ZUMAR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000213, 
+    "tickerName": "OSMON", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000214, 
+    "tickerName": "SEITC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000215, 
+    "tickerName": "ALGCO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000216, 
+    "tickerName": "CRXG", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000217, 
+    "tickerName": "VSOPS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000218, 
+    "tickerName": "COHUS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000219, 
+    "tickerName": "TRONH", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000220, 
+    "tickerName": "SANKE", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000222, 
+    "tickerName": "OSTKA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000223, 
+    "tickerName": "FRSTV", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000224, 
+    "tickerName": "SHFLA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000225, 
+    "tickerName": "PSFOR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000226, 
+    "tickerName": "AMESE", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000227, 
+    "tickerName": "MRLRD", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000228, 
+    "tickerName": "TALRO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000229, 
+    "tickerName": "KAMLO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000230, 
+    "tickerName": "RDSIH", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000231, 
+    "tickerName": "HFSYN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000232, 
+    "tickerName": "KISHO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000233, 
+    "tickerName": "EXPIV", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000234, 
+    "tickerName": "ONIKB", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000235, 
+    "tickerName": "KIRIC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000236, 
+    "tickerName": "STWSF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000237, 
+    "tickerName": "CMDPK", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000238, 
+    "tickerName": "ISTAC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000239, 
+    "tickerName": "INTDA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000240, 
+    "tickerName": "IKOEN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000243, 
+    "tickerName": "NMTRE", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000244, 
+    "tickerName": "MFWAR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000245, 
+    "tickerName": "RSHIS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000246, 
+    "tickerName": "SQLNG", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000247, 
+    "tickerName": "CHTRR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000248, 
+    "tickerName": "EDIWF", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000249, 
+    "tickerName": "KNGLO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000250, 
+    "tickerName": "CNDTR", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000251, 
+    "tickerName": "BRUVA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000252, 
+    "tickerName": "VHRCL", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000253, 
+    "tickerName": "KRULO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000254, 
+    "tickerName": "MIKST", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000255, 
+    "tickerName": "EYNRG", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000256, 
+    "tickerName": "SEBFS", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000257, 
+    "tickerName": "49FYN", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000258, 
+    "tickerName": "SEKEG", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000259, 
+    "tickerName": "KRUCO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000261, 
+    "tickerName": "STPC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000262, 
+    "tickerName": "FEDM", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000263, 
+    "tickerName": "RECO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000270, 
+    "tickerName": "ORDev", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000271, 
+    "tickerName": "ORPro", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000274, 
+    "tickerName": "VI-TY", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000276, 
+    "tickerName": "ORTec", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000277, 
+    "tickerName": "FRSTL", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000279, 
+    "tickerName": "PDISC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000280, 
+    "tickerName": "CONAE", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000281, 
+    "tickerName": "IGCOM", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000282, 
+    "tickerName": "CDIAC", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000283, 
+    "tickerName": "IWRES", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000284, 
+    "tickerName": "SMSTO", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000285, 
+    "tickerName": "FEDSM", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000286, 
+    "tickerName": "RFORD", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000287, 
+    "tickerName": "RDIRH", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000288, 
+    "tickerName": "NAVKA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000289, 
+    "tickerName": "UNOVM", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000290, 
+    "tickerName": "KARYB", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000291, 
+    "tickerName": "SCYLI", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000292, 
+    "tickerName": "CLVEL", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000293, 
+    "tickerName": "CLPER", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000294, 
+    "tickerName": "CLSVA", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }, 
+  {
+    "color1": null, 
+    "corporationID": 1000297, 
+    "tickerName": "COAEG", 
+    "color3": null, 
+    "shape3": null, 
+    "shape2": null, 
+    "shape1": null, 
+    "color2": null
+  }
+]

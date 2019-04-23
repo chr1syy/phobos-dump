@@ -1,0 +1,1220 @@
+[
+  {
+    "typeID": 2272, 
+    "isInput": 1, 
+    "schematicID": 128, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 2400, 
+    "isInput": 0, 
+    "schematicID": 128, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2306, 
+    "isInput": 1, 
+    "schematicID": 129, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 2401, 
+    "isInput": 0, 
+    "schematicID": 129, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2307, 
+    "isInput": 1, 
+    "schematicID": 130, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 9828, 
+    "isInput": 0, 
+    "schematicID": 130, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2073, 
+    "isInput": 1, 
+    "schematicID": 131, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 2393, 
+    "isInput": 0, 
+    "schematicID": 131, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2286, 
+    "isInput": 1, 
+    "schematicID": 132, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 3779, 
+    "isInput": 0, 
+    "schematicID": 132, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2287, 
+    "isInput": 1, 
+    "schematicID": 133, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 2395, 
+    "isInput": 0, 
+    "schematicID": 133, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2288, 
+    "isInput": 1, 
+    "schematicID": 134, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 2396, 
+    "isInput": 0, 
+    "schematicID": 134, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2305, 
+    "isInput": 1, 
+    "schematicID": 135, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 2397, 
+    "isInput": 0, 
+    "schematicID": 135, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2389, 
+    "isInput": 1, 
+    "schematicID": 65, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3645, 
+    "isInput": 1, 
+    "schematicID": 65, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 9838, 
+    "isInput": 0, 
+    "schematicID": 65, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2390, 
+    "isInput": 1, 
+    "schematicID": 66, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3645, 
+    "isInput": 1, 
+    "schematicID": 66, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 9832, 
+    "isInput": 0, 
+    "schematicID": 66, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2389, 
+    "isInput": 1, 
+    "schematicID": 67, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2390, 
+    "isInput": 1, 
+    "schematicID": 67, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 9830, 
+    "isInput": 0, 
+    "schematicID": 67, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2390, 
+    "isInput": 1, 
+    "schematicID": 68, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3683, 
+    "isInput": 1, 
+    "schematicID": 68, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3691, 
+    "isInput": 0, 
+    "schematicID": 68, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2317, 
+    "isInput": 0, 
+    "schematicID": 69, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2392, 
+    "isInput": 1, 
+    "schematicID": 69, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3683, 
+    "isInput": 1, 
+    "schematicID": 69, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2392, 
+    "isInput": 1, 
+    "schematicID": 70, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3697, 
+    "isInput": 0, 
+    "schematicID": 70, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 9828, 
+    "isInput": 1, 
+    "schematicID": 70, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2389, 
+    "isInput": 1, 
+    "schematicID": 71, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2401, 
+    "isInput": 1, 
+    "schematicID": 71, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 9840, 
+    "isInput": 0, 
+    "schematicID": 71, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2328, 
+    "isInput": 0, 
+    "schematicID": 72, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2398, 
+    "isInput": 1, 
+    "schematicID": 72, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3645, 
+    "isInput": 1, 
+    "schematicID": 72, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2398, 
+    "isInput": 1, 
+    "schematicID": 73, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2399, 
+    "isInput": 1, 
+    "schematicID": 73, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3689, 
+    "isInput": 0, 
+    "schematicID": 73, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2398, 
+    "isInput": 1, 
+    "schematicID": 74, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2400, 
+    "isInput": 1, 
+    "schematicID": 74, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3828, 
+    "isInput": 0, 
+    "schematicID": 74, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 44, 
+    "isInput": 0, 
+    "schematicID": 75, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2399, 
+    "isInput": 1, 
+    "schematicID": 75, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2400, 
+    "isInput": 1, 
+    "schematicID": 75, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2400, 
+    "isInput": 1, 
+    "schematicID": 76, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2401, 
+    "isInput": 1, 
+    "schematicID": 76, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 9836, 
+    "isInput": 0, 
+    "schematicID": 76, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2401, 
+    "isInput": 1, 
+    "schematicID": 77, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 9828, 
+    "isInput": 1, 
+    "schematicID": 77, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 9842, 
+    "isInput": 0, 
+    "schematicID": 77, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2393, 
+    "isInput": 1, 
+    "schematicID": 78, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2398, 
+    "isInput": 1, 
+    "schematicID": 78, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2463, 
+    "isInput": 0, 
+    "schematicID": 78, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2329, 
+    "isInput": 0, 
+    "schematicID": 79, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2396, 
+    "isInput": 1, 
+    "schematicID": 79, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2399, 
+    "isInput": 1, 
+    "schematicID": 79, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2327, 
+    "isInput": 0, 
+    "schematicID": 80, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2397, 
+    "isInput": 1, 
+    "schematicID": 80, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 9828, 
+    "isInput": 1, 
+    "schematicID": 80, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2393, 
+    "isInput": 1, 
+    "schematicID": 81, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3775, 
+    "isInput": 0, 
+    "schematicID": 81, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 3779, 
+    "isInput": 1, 
+    "schematicID": 81, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2393, 
+    "isInput": 1, 
+    "schematicID": 82, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2395, 
+    "isInput": 1, 
+    "schematicID": 82, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3693, 
+    "isInput": 0, 
+    "schematicID": 82, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2395, 
+    "isInput": 1, 
+    "schematicID": 83, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3779, 
+    "isInput": 1, 
+    "schematicID": 83, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 15317, 
+    "isInput": 0, 
+    "schematicID": 83, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2395, 
+    "isInput": 1, 
+    "schematicID": 84, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2396, 
+    "isInput": 1, 
+    "schematicID": 84, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3725, 
+    "isInput": 0, 
+    "schematicID": 84, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2396, 
+    "isInput": 1, 
+    "schematicID": 85, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2397, 
+    "isInput": 1, 
+    "schematicID": 85, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3695, 
+    "isInput": 0, 
+    "schematicID": 85, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2319, 
+    "isInput": 0, 
+    "schematicID": 86, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2393, 
+    "isInput": 1, 
+    "schematicID": 86, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3645, 
+    "isInput": 1, 
+    "schematicID": 86, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2312, 
+    "isInput": 0, 
+    "schematicID": 87, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 3683, 
+    "isInput": 1, 
+    "schematicID": 87, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3779, 
+    "isInput": 1, 
+    "schematicID": 87, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2321, 
+    "isInput": 0, 
+    "schematicID": 88, 
+    "quantity": 5
+  }, 
+  {
+    "typeID": 2392, 
+    "isInput": 1, 
+    "schematicID": 88, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2397, 
+    "isInput": 1, 
+    "schematicID": 88, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 3691, 
+    "isInput": 1, 
+    "schematicID": 89, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 9838, 
+    "isInput": 1, 
+    "schematicID": 89, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 17136, 
+    "isInput": 0, 
+    "schematicID": 89, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 2317, 
+    "isInput": 1, 
+    "schematicID": 90, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2344, 
+    "isInput": 0, 
+    "schematicID": 90, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 9832, 
+    "isInput": 1, 
+    "schematicID": 90, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2345, 
+    "isInput": 0, 
+    "schematicID": 91, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 3697, 
+    "isInput": 1, 
+    "schematicID": 91, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 9830, 
+    "isInput": 1, 
+    "schematicID": 91, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2312, 
+    "isInput": 1, 
+    "schematicID": 92, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2319, 
+    "isInput": 1, 
+    "schematicID": 92, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2346, 
+    "isInput": 0, 
+    "schematicID": 92, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 2321, 
+    "isInput": 1, 
+    "schematicID": 94, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 9840, 
+    "isInput": 1, 
+    "schematicID": 94, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 17898, 
+    "isInput": 0, 
+    "schematicID": 94, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 2317, 
+    "isInput": 1, 
+    "schematicID": 95, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2329, 
+    "isInput": 1, 
+    "schematicID": 95, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2348, 
+    "isInput": 0, 
+    "schematicID": 95, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 9838, 
+    "isInput": 1, 
+    "schematicID": 95, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2328, 
+    "isInput": 1, 
+    "schematicID": 96, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2349, 
+    "isInput": 0, 
+    "schematicID": 96, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 9832, 
+    "isInput": 1, 
+    "schematicID": 96, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 9836, 
+    "isInput": 1, 
+    "schematicID": 96, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 3689, 
+    "isInput": 1, 
+    "schematicID": 97, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 9836, 
+    "isInput": 1, 
+    "schematicID": 97, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 9848, 
+    "isInput": 0, 
+    "schematicID": 97, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 2351, 
+    "isInput": 0, 
+    "schematicID": 98, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 3828, 
+    "isInput": 1, 
+    "schematicID": 98, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 9842, 
+    "isInput": 1, 
+    "schematicID": 98, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 44, 
+    "isInput": 1, 
+    "schematicID": 99, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2327, 
+    "isInput": 1, 
+    "schematicID": 99, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2352, 
+    "isInput": 0, 
+    "schematicID": 99, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 2328, 
+    "isInput": 1, 
+    "schematicID": 100, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 9834, 
+    "isInput": 0, 
+    "schematicID": 100, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 9840, 
+    "isInput": 1, 
+    "schematicID": 100, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2329, 
+    "isInput": 1, 
+    "schematicID": 102, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2354, 
+    "isInput": 0, 
+    "schematicID": 102, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 3697, 
+    "isInput": 1, 
+    "schematicID": 102, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2312, 
+    "isInput": 1, 
+    "schematicID": 103, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 3689, 
+    "isInput": 1, 
+    "schematicID": 103, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 9842, 
+    "isInput": 1, 
+    "schematicID": 103, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 9846, 
+    "isInput": 0, 
+    "schematicID": 103, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 2358, 
+    "isInput": 0, 
+    "schematicID": 104, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 2463, 
+    "isInput": 1, 
+    "schematicID": 104, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 3725, 
+    "isInput": 1, 
+    "schematicID": 104, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 3828, 
+    "isInput": 1, 
+    "schematicID": 104, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 3725, 
+    "isInput": 1, 
+    "schematicID": 105, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 3775, 
+    "isInput": 1, 
+    "schematicID": 105, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 28974, 
+    "isInput": 0, 
+    "schematicID": 105, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 2360, 
+    "isInput": 0, 
+    "schematicID": 106, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 3693, 
+    "isInput": 1, 
+    "schematicID": 106, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 3695, 
+    "isInput": 1, 
+    "schematicID": 106, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2321, 
+    "isInput": 1, 
+    "schematicID": 107, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2361, 
+    "isInput": 0, 
+    "schematicID": 107, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 15317, 
+    "isInput": 1, 
+    "schematicID": 107, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2329, 
+    "isInput": 1, 
+    "schematicID": 108, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2463, 
+    "isInput": 1, 
+    "schematicID": 108, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 12836, 
+    "isInput": 0, 
+    "schematicID": 108, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 2312, 
+    "isInput": 1, 
+    "schematicID": 109, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2327, 
+    "isInput": 1, 
+    "schematicID": 109, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 17392, 
+    "isInput": 0, 
+    "schematicID": 109, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 2366, 
+    "isInput": 0, 
+    "schematicID": 110, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 3695, 
+    "isInput": 1, 
+    "schematicID": 110, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 3775, 
+    "isInput": 1, 
+    "schematicID": 110, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 9840, 
+    "isInput": 1, 
+    "schematicID": 110, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2319, 
+    "isInput": 1, 
+    "schematicID": 111, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2367, 
+    "isInput": 0, 
+    "schematicID": 111, 
+    "quantity": 3
+  }, 
+  {
+    "typeID": 3691, 
+    "isInput": 1, 
+    "schematicID": 111, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 3693, 
+    "isInput": 1, 
+    "schematicID": 111, 
+    "quantity": 10
+  }, 
+  {
+    "typeID": 2344, 
+    "isInput": 1, 
+    "schematicID": 112, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2393, 
+    "isInput": 1, 
+    "schematicID": 112, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2870, 
+    "isInput": 0, 
+    "schematicID": 112, 
+    "quantity": 1
+  }, 
+  {
+    "typeID": 9848, 
+    "isInput": 1, 
+    "schematicID": 112, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2351, 
+    "isInput": 1, 
+    "schematicID": 113, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2875, 
+    "isInput": 0, 
+    "schematicID": 113, 
+    "quantity": 1
+  }, 
+  {
+    "typeID": 3645, 
+    "isInput": 1, 
+    "schematicID": 113, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 28974, 
+    "isInput": 1, 
+    "schematicID": 113, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2360, 
+    "isInput": 1, 
+    "schematicID": 114, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2398, 
+    "isInput": 1, 
+    "schematicID": 114, 
+    "quantity": 40
+  }, 
+  {
+    "typeID": 2869, 
+    "isInput": 0, 
+    "schematicID": 114, 
+    "quantity": 1
+  }, 
+  {
+    "typeID": 17136, 
+    "isInput": 1, 
+    "schematicID": 114, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2345, 
+    "isInput": 1, 
+    "schematicID": 115, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2352, 
+    "isInput": 1, 
+    "schematicID": 115, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2361, 
+    "isInput": 1, 
+    "schematicID": 115, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2872, 
+    "isInput": 0, 
+    "schematicID": 115, 
+    "quantity": 1
+  }, 
+  {
+    "typeID": 2346, 
+    "isInput": 1, 
+    "schematicID": 116, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2871, 
+    "isInput": 0, 
+    "schematicID": 116, 
+    "quantity": 1
+  }, 
+  {
+    "typeID": 9834, 
+    "isInput": 1, 
+    "schematicID": 116, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 12836, 
+    "isInput": 1, 
+    "schematicID": 116, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2354, 
+    "isInput": 1, 
+    "schematicID": 117, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2867, 
+    "isInput": 0, 
+    "schematicID": 117, 
+    "quantity": 1
+  }, 
+  {
+    "typeID": 17392, 
+    "isInput": 1, 
+    "schematicID": 117, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 17898, 
+    "isInput": 1, 
+    "schematicID": 117, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2348, 
+    "isInput": 1, 
+    "schematicID": 118, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2366, 
+    "isInput": 1, 
+    "schematicID": 118, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2868, 
+    "isInput": 0, 
+    "schematicID": 118, 
+    "quantity": 1
+  }, 
+  {
+    "typeID": 9846, 
+    "isInput": 1, 
+    "schematicID": 118, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2349, 
+    "isInput": 1, 
+    "schematicID": 119, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2358, 
+    "isInput": 1, 
+    "schematicID": 119, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2367, 
+    "isInput": 1, 
+    "schematicID": 119, 
+    "quantity": 6
+  }, 
+  {
+    "typeID": 2876, 
+    "isInput": 0, 
+    "schematicID": 119, 
+    "quantity": 1
+  }, 
+  {
+    "typeID": 2268, 
+    "isInput": 1, 
+    "schematicID": 121, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 3645, 
+    "isInput": 0, 
+    "schematicID": 121, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2308, 
+    "isInput": 1, 
+    "schematicID": 122, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 2389, 
+    "isInput": 0, 
+    "schematicID": 122, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2309, 
+    "isInput": 1, 
+    "schematicID": 123, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 2390, 
+    "isInput": 0, 
+    "schematicID": 123, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2310, 
+    "isInput": 1, 
+    "schematicID": 124, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 3683, 
+    "isInput": 0, 
+    "schematicID": 124, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2311, 
+    "isInput": 1, 
+    "schematicID": 125, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 2392, 
+    "isInput": 0, 
+    "schematicID": 125, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2267, 
+    "isInput": 1, 
+    "schematicID": 126, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 2398, 
+    "isInput": 0, 
+    "schematicID": 126, 
+    "quantity": 20
+  }, 
+  {
+    "typeID": 2270, 
+    "isInput": 1, 
+    "schematicID": 127, 
+    "quantity": 3000
+  }, 
+  {
+    "typeID": 2399, 
+    "isInput": 0, 
+    "schematicID": 127, 
+    "quantity": 20
+  }
+]

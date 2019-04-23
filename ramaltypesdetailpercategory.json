@@ -1,0 +1,7322 @@
+[
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": null, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 6, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 136, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 137, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 13, 
+    "costMultiplier": null, 
+    "categoryID": 6
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 13, 
+    "costMultiplier": null, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 13, 
+    "costMultiplier": null, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 13, 
+    "costMultiplier": null, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 13, 
+    "costMultiplier": null, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 13, 
+    "costMultiplier": null, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 13, 
+    "costMultiplier": null, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 13, 
+    "costMultiplier": null, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 13, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 17, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 18, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 149, 
+    "costMultiplier": null, 
+    "categoryID": 6
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 149, 
+    "costMultiplier": null, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 149, 
+    "costMultiplier": null, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 149, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 149, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 149, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 149, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 0.95, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 150, 
+    "costMultiplier": null, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 0.9, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 150, 
+    "costMultiplier": null, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 23, 
+    "costMultiplier": null, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 23, 
+    "costMultiplier": null, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 23, 
+    "costMultiplier": null, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 23, 
+    "costMultiplier": null, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 23, 
+    "costMultiplier": null, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 23, 
+    "costMultiplier": null, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 24, 
+    "costMultiplier": null, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 24, 
+    "costMultiplier": null, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 24, 
+    "costMultiplier": null, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 24, 
+    "costMultiplier": null, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 24, 
+    "costMultiplier": null, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 24, 
+    "costMultiplier": null, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 25, 
+    "costMultiplier": null, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 26, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 175, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 31, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 161, 
+    "costMultiplier": null, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": null, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 35, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 36, 
+    "costMultiplier": null, 
+    "categoryID": 6
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 36, 
+    "costMultiplier": null, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 36, 
+    "costMultiplier": null, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 36, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 36, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 36, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 36, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 38, 
+    "costMultiplier": null, 
+    "categoryID": 6
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 38, 
+    "costMultiplier": null, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 38, 
+    "costMultiplier": null, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 38, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 38, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 38, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 38, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 39, 
+    "costMultiplier": null, 
+    "categoryID": 6
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 39, 
+    "costMultiplier": null, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 39, 
+    "costMultiplier": null, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 39, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 39, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 39, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 39, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 40, 
+    "costMultiplier": 1.0, 
+    "categoryID": 6
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 40, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 40, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 40, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 40, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 40, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 40, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 145, 
+    "costMultiplier": null, 
+    "categoryID": 25
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 170, 
+    "costMultiplier": null, 
+    "categoryID": 6
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 170, 
+    "costMultiplier": null, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 170, 
+    "costMultiplier": null, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 170, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 170, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 170, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 170, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 43, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 159, 
+    "costMultiplier": null, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 45, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 0.8, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 0.8, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 46, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 47, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 48, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 172, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 0.6, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 0.6, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 52, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 181, 
+    "costMultiplier": 1.0, 
+    "categoryID": 6
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 181, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 181, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 181, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 181, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 181, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 181, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 54, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 56, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 57, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 58, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 59, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.96, 
+    "assemblyLineTypeID": 60, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.95, 
+    "assemblyLineTypeID": 61, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 0.4, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 0.4, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 62, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 66, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 67, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 68, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 70, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 79, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 80, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 90, 
+    "costMultiplier": 1.0, 
+    "categoryID": 6
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 90, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 90, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 90, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 90, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 90, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 90, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 91, 
+    "costMultiplier": 1.0, 
+    "categoryID": 6
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 91, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 91, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 91, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 91, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 91, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 91, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 92, 
+    "costMultiplier": 1.0, 
+    "categoryID": 6
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 92, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 92, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 92, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 92, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 92, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 92, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 1.0, 
+    "assemblyLineTypeID": 93, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 94, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 95, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 96, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 98, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 99, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 100, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 102, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 103, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 104, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 105, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 106, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 0.8, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 0.8, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 116, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 0.8, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 0.8, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 117, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 0.8, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 0.8, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 118, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 0.6, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 0.6, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 119, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 0.6, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 0.6, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 120, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 0.6, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 0.6, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 121, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 0.4, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 0.4, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 122, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 0.4, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 32
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 0.4, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 123, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.99, 
+    "assemblyLineTypeID": 124, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.98, 
+    "assemblyLineTypeID": 125, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 2
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 4
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 5
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 7
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 8
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 17
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 18
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 20
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 22
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 23
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 39
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 40
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 46
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 65
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 66
+  }, 
+  {
+    "timeMultiplier": 1.0, 
+    "activityID": null, 
+    "materialMultiplier": 0.97, 
+    "assemblyLineTypeID": 126, 
+    "costMultiplier": 1.0, 
+    "categoryID": 87
+  }
+]

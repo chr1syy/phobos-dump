@@ -1,0 +1,3488 @@
+[
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 582
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 583
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 584
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 585
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 586
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 587
+  }, 
+  {
+    "miningTypeID": 3651, 
+    "mediumSlotTypeID": 21857, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": 3636, 
+    "shipTypeID": 588
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 589
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 590
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 591
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 592
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 593
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 594
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 595
+  }, 
+  {
+    "miningTypeID": 3651, 
+    "mediumSlotTypeID": 21857, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": 3634, 
+    "shipTypeID": 596
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 597
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 598
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 599
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 600
+  }, 
+  {
+    "miningTypeID": 3651, 
+    "mediumSlotTypeID": 21857, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": 3638, 
+    "shipTypeID": 601
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 602
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 603
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 605
+  }, 
+  {
+    "miningTypeID": 3651, 
+    "mediumSlotTypeID": 21857, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": 3638, 
+    "shipTypeID": 606
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 607
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 608
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 609
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3452, 
+    "weaponTypeID": null, 
+    "shipTypeID": 613
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3452, 
+    "weaponTypeID": null, 
+    "shipTypeID": 614
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": null, 
+    "weaponTypeID": null, 
+    "shipTypeID": 615
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3452, 
+    "weaponTypeID": null, 
+    "shipTypeID": 616
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 617
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": null, 
+    "weaponTypeID": null, 
+    "shipTypeID": 618
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": null, 
+    "weaponTypeID": null, 
+    "shipTypeID": 619
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 620
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 621
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 622
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 623
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 624
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 625
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 626
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 627
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 628
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 629
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 630
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 631
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 632
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 633
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 634
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 635
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 638
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 639
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 640
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 641
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 642
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 643
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 644
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 645
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3342, 
+    "weaponTypeID": null, 
+    "shipTypeID": 648
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3342, 
+    "weaponTypeID": null, 
+    "shipTypeID": 649
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3340, 
+    "weaponTypeID": null, 
+    "shipTypeID": 650
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 651
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 652
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 653
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3340, 
+    "weaponTypeID": null, 
+    "shipTypeID": 654
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3340, 
+    "weaponTypeID": null, 
+    "shipTypeID": 655
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3340, 
+    "weaponTypeID": null, 
+    "shipTypeID": 656
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3340, 
+    "weaponTypeID": null, 
+    "shipTypeID": 657
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": null, 
+    "weaponTypeID": null, 
+    "shipTypeID": 670
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3344, 
+    "weaponTypeID": null, 
+    "shipTypeID": 671
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 672
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 1233
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 9955, 
+    "weaponTypeID": null, 
+    "shipTypeID": 1896
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 1898
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 1900
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 1902
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 1904
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 1912
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 1914
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 1916
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 1918
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3343, 
+    "weaponTypeID": null, 
+    "shipTypeID": 1944
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 2006
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": 2083, 
+    "shipTypeID": 2078
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 2161
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 2834
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 2836
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3452, 
+    "weaponTypeID": null, 
+    "shipTypeID": 2863
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3452, 
+    "weaponTypeID": null, 
+    "shipTypeID": 2998
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 3514
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 3516
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 3518
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 3532
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 3628
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 3751
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 3753
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 3756
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3345, 
+    "weaponTypeID": null, 
+    "shipTypeID": 3764
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 3766
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 3768
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 4005
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 4302
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 4306
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 4308
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 4310
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3340, 
+    "weaponTypeID": null, 
+    "shipTypeID": 4363
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3340, 
+    "weaponTypeID": null, 
+    "shipTypeID": 4388
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 9955, 
+    "weaponTypeID": null, 
+    "shipTypeID": 9854
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 9955, 
+    "weaponTypeID": null, 
+    "shipTypeID": 9858
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 9955, 
+    "weaponTypeID": null, 
+    "shipTypeID": 9860
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 9955, 
+    "weaponTypeID": null, 
+    "shipTypeID": 9862
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11011
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11019
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11129
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11132
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11134
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11172
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11174
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11176
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11178
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11182
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11184
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11186
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11188
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11190
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11192
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11194
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11196
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11198
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11200
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11202
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11365
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11371
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11373
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11375
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11377
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11379
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11381
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11383
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11387
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11389
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11393
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11400
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3345, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11567
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11936
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11938
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11940
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11942
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11957
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11959
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11961
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11963
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11965
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11969
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11971
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11978
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11985
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11987
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11989
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11993
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11995
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 11999
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12003
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12005
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12011
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12013
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12015
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12017
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12019
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12021
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12023
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12032
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12034
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12036
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12038
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12042
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12044
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3342, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12729
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3342, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12731
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3343, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12733
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12735
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3340, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12743
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3340, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12745
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12747
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3343, 
+    "weaponTypeID": null, 
+    "shipTypeID": 12753
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 13202
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 16227
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 16229
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 16231
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 16233
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 16236
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 16238
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 16240
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 16242
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17360
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17476
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17478
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17480
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17619
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17634
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17636
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17703
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17705
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17707
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17709
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17713
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17715
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17718
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17720
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17722
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17726
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17728
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17732
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17736
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17738
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17740
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17812
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17841
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17843
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17918
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17920
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17922
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17924
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17926
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17928
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17930
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 17932
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 19720
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 19722
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 19724
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 19726
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3343, 
+    "weaponTypeID": null, 
+    "shipTypeID": 19744
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 20125
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 20183
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 20185
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 20187
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 20189
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 21097
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 21628
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22428
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22430
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22436
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22440
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22442
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22444
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22446
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22448
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22452
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22456
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22460
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22464
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22466
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22468
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22470
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22474
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22544
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22546
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22548
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 22852
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 23757
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 23773
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 23911
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 23913
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 23915
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 23917
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 23919
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 24483
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 24688
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 24690
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 24692
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 24694
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 24696
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 24698
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 24700
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 24702
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 25560
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 26840
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 26842
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 27299
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 27301
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 27303
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 27305
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 28352
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 28606
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 28659
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 28661
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 28665
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 28710
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 28844
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 28846
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 28848
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 28850
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29248
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29266
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29328
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29330
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29332
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29334
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29336
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29337
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29340
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29344
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29984
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29986
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29988
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 29990
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 30842
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32207
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32209
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32305
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32307
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32309
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32311
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32788
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32790
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3340, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32811
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32840
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32842
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32844
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32846
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32848
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32872
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32874
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32876
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32878
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32880
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32983
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32985
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32987
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 32989
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33079
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33081
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33083
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33099
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33151
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33153
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33155
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33157
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33190
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": null, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33328
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33395
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33397
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33468
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33470
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33472
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33513
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33553
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33623
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33625
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33627
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33629
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33631
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33633
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33635
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33637
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33639
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33641
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33643
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33645
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33647
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33649
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33651
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33653
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33655
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33657
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33659
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33661
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33663
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33665
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33667
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33669
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33673
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33675
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33677
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33683
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33685
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33687
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3340, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33689
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3342, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33691
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33693
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3343, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33695
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33697
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33816
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33818
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33820
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33869
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33871
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33873
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33875
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33877
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33879
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33881
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 33883
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34118
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34151
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34213
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34215
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34217
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34219
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34221
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34223
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34225
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34227
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34229
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34231
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34233
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34235
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34237
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34239
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34241
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34243
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34245
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34247
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34249
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34251
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34253
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34255
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34257
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34317
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34328
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34339
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34341
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34343
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34345
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34441
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34443
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3332, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34445
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34457
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34459
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34461
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34463
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34465
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3336, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34467
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3338, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34469
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34471
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34473
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34475
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34477
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34479
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34496
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34562
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34590
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 34828
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 35683
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 35779
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3334, 
+    "weaponTypeID": null, 
+    "shipTypeID": 35781
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37135
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37453
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37454
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37455
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37456
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37457
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3330, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37458
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3328, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37459
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3329, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37460
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37480
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37481
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37482
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37483
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37604
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37605
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37606
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 37607
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42124
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42125
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3344, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42126
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42132
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42133
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3345, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42241
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42242
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42243
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3452, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42244
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42245
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42246
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3343, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42654
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 42685
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 44953
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 44993
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 44995
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 44996
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 45530
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 45531
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 45534
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3341, 
+    "weaponTypeID": null, 
+    "shipTypeID": 45645
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 45647
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3345, 
+    "weaponTypeID": null, 
+    "shipTypeID": 45649
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 47269
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 47270
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 47271
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3339, 
+    "weaponTypeID": null, 
+    "shipTypeID": 47466
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 47727
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3337, 
+    "weaponTypeID": null, 
+    "shipTypeID": 47728
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 48635
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 48636
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3331, 
+    "weaponTypeID": null, 
+    "shipTypeID": 49710
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 49711
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3335, 
+    "weaponTypeID": null, 
+    "shipTypeID": 49712
+  }, 
+  {
+    "miningTypeID": null, 
+    "mediumSlotTypeID": null, 
+    "skillTypeID": 3333, 
+    "weaponTypeID": null, 
+    "shipTypeID": 49713
+  }
+]

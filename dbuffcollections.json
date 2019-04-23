@@ -1,0 +1,1581 @@
+{
+  "60": {
+    "displayName": "Agility bonus", 
+    "displayNameID": 522819, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Skirmish Burst: Evasive Maneuvers: Agility", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 70
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "61": {
+    "displayName": "Disallow entosis", 
+    "displayNameID": 522901, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "PANIC: Disallow entosis", 
+    "operationName": "PostAssignment", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 1349, 
+        "skillID": 24242
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "Hide"
+  }, 
+  "24": {
+    "displayName": "Mining Modules: Duration & Capacitor-use bonus", 
+    "displayNameID": 518721, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Mining Burst: Mining Laser Optimization: Mining Capacitor/Duration", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 6, 
+        "skillID": 3386
+      }, 
+      {
+        "dogmaAttributeID": 6, 
+        "skillID": 16281
+      }, 
+      {
+        "dogmaAttributeID": 6, 
+        "skillID": 25544
+      }, 
+      {
+        "dogmaAttributeID": 73, 
+        "skillID": 3386
+      }, 
+      {
+        "dogmaAttributeID": 73, 
+        "skillID": 16281
+      }, 
+      {
+        "dogmaAttributeID": 73, 
+        "skillID": 25544
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "25": {
+    "displayName": "Mining crystal volatility bonus", 
+    "displayNameID": 518722, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Mining Burst: Mining Equipment Preservation: Crystal Volatility", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 783, 
+        "skillID": 3386
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "26": {
+    "displayName": "Targeting Range bonus", 
+    "displayNameID": 519020, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Information Burst: Sensor Optimization: Targeting Range", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 76
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "27": {
+    "displayName": "Stasis Webification speed penalty", 
+    "displayNameID": 519288, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Stasis Webification Burst", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 37
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "20": {
+    "displayName": "Signature Radius bonus", 
+    "displayNameID": 518716, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Skirmish Burst: Evasive Maneuvers: Signature Radius", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 552
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "21": {
+    "displayName": "Propulsion disruption module range bonus", 
+    "displayNameID": 518717, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Skirmish Burst: Interdiction Maneuvers: Tackle Range", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 54, 
+        "skillID": 3435
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "22": {
+    "displayName": "AB/MWD module speed increase bonus", 
+    "displayNameID": 518718, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Skirmish Burst: Rapid Deployment: AB/MWD Speed Increase", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 20, 
+        "skillID": 3450
+      }, 
+      {
+        "dogmaAttributeID": 20, 
+        "skillID": 3454
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "23": {
+    "displayName": "Mining/Survey module range bonus", 
+    "displayNameID": 518720, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Mining Burst: Mining Laser Field Enhancement: Mining/Survey Range", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 54, 
+        "skillID": 3386
+      }, 
+      {
+        "dogmaAttributeID": 54, 
+        "skillID": 16281
+      }, 
+      {
+        "dogmaAttributeID": 54, 
+        "skillID": 25544
+      }, 
+      {
+        "dogmaAttributeID": 197, 
+        "skillID": 3426
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "28": {
+    "displayName": "Turret maximum range penalty", 
+    "displayNameID": 519290, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weapon Disruption Burst: Turret Max Range", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 54, 
+        "skillID": 3300
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "29": {
+    "displayName": "Turret falloff range penalty", 
+    "displayNameID": 519294, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weapon Disruption Burst: Turret Falloff Range", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 158, 
+        "skillID": 3300
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "2": {
+    "locationGroupModifiers": [], 
+    "developerDescription": "[PROTOTYPE]Test Boost Speed", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 37
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "4": {
+    "displayName": "Warp penalty", 
+    "displayNameID": 517444, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Warp penalty", 
+    "operationName": "ModAdd", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 104
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "Hide"
+  }, 
+  "6": {
+    "displayName": "Disallow jump/dock", 
+    "displayNameID": 517825, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Disallow jump/dock", 
+    "operationName": "ModAdd", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 2354
+      }, 
+      {
+        "dogmaAttributeID": 2453
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "Hide"
+  }, 
+  "8": {
+    "displayName": "Shield Resistance", 
+    "displayNameID": 518605, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "PANIC: Shield Resistance", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 271
+      }, 
+      {
+        "dogmaAttributeID": 272
+      }, 
+      {
+        "dogmaAttributeID": 273
+      }, 
+      {
+        "dogmaAttributeID": 274
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "99": {
+    "displayName": "Kinetic Resistance penalty", 
+    "displayNameID": 535078, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weather_caustic_toxin_kinetic_resistance_penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 109
+      }, 
+      {
+        "dogmaAttributeID": 269
+      }, 
+      {
+        "dogmaAttributeID": 273
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "98": {
+    "displayName": "Velocity bonus", 
+    "displayNameID": 534988, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weather_darkness_velocity_bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 37
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "90": {
+    "displayName": "EM Resistance penalty", 
+    "displayNameID": 534977, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weather_electric_storm_EM_resistance_penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 113
+      }, 
+      {
+        "dogmaAttributeID": 267
+      }, 
+      {
+        "dogmaAttributeID": 271
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "93": {
+    "displayName": "Explosive Resistance penalty", 
+    "displayNameID": 534979, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weather_xenon_gas_explosive_resistance_penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 111
+      }, 
+      {
+        "dogmaAttributeID": 268
+      }, 
+      {
+        "dogmaAttributeID": 272
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "92": {
+    "displayName": "Capacitor Recharge bonus", 
+    "displayNameID": 534976, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weather_electric_storm_capacitor_recharge_bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 55
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "95": {
+    "displayName": "Thermal Resistance penalty", 
+    "displayNameID": 534983, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weather_infernal_thermal_resistance_penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 110
+      }, 
+      {
+        "dogmaAttributeID": 270
+      }, 
+      {
+        "dogmaAttributeID": 274
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "94": {
+    "displayName": "Shield HP bonus", 
+    "displayNameID": 534980, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weather_xenon_gas_shield_hp_bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 263
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "97": {
+    "displayName": "Turret Optimal and Falloff Range penalty", 
+    "displayNameID": 534987, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weather_darkness_turret_range_penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 54, 
+        "skillID": 3300
+      }, 
+      {
+        "dogmaAttributeID": 158, 
+        "skillID": 3300
+      }
+    ], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 54
+      }, 
+      {
+        "dogmaAttributeID": 158
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "96": {
+    "displayName": "Armor HP bonus", 
+    "displayNameID": 534982, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weather_infernal_armor_hp_bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 265
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "11": {
+    "displayName": "Shield Repair Modules: Duration & Capacitor-use bonus", 
+    "displayNameID": 518698, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Shield Burst: Active Shielding: Repair Duration/Capacitor", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 6, 
+        "skillID": 3416
+      }, 
+      {
+        "dogmaAttributeID": 6, 
+        "skillID": 3422
+      }, 
+      {
+        "dogmaAttributeID": 73, 
+        "skillID": 3416
+      }, 
+      {
+        "dogmaAttributeID": 73, 
+        "skillID": 3422
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "10": {
+    "displayName": "Shield Resistance Bonus", 
+    "displayNameID": 518688, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Shield Burst: Shield Harmonizing: Shield Resistance", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 271
+      }, 
+      {
+        "dogmaAttributeID": 272
+      }, 
+      {
+        "dogmaAttributeID": 273
+      }, 
+      {
+        "dogmaAttributeID": 274
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "13": {
+    "displayName": "Armor Resistance Bonus", 
+    "displayNameID": 518709, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Armor Burst: Armor Energizing: Armor Resistance", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 267
+      }, 
+      {
+        "dogmaAttributeID": 268
+      }, 
+      {
+        "dogmaAttributeID": 269
+      }, 
+      {
+        "dogmaAttributeID": 270
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "12": {
+    "displayName": "Shield HP Bonus", 
+    "displayNameID": 518699, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Shield Burst: Shield Extension: Shield HP", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 263
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "15": {
+    "displayName": "Armor HP Bonus", 
+    "displayNameID": 518711, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Armor Burst: Armor Reinforcement: Armor HP", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 265
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "58": {
+    "displayName": "Drone damage penalty", 
+    "displayNameID": 522792, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "PANIC: Drone damage penalty", 
+    "operationName": "PostAssignment", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 2580
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "17": {
+    "displayName": "Electronic Warfare modules: Range and Strength bonus", 
+    "displayNameID": 518714, 
+    "locationGroupModifiers": [
+      {
+        "dogmaAttributeID": 54, 
+        "groupID": 201
+      }, 
+      {
+        "dogmaAttributeID": 54, 
+        "groupID": 208
+      }, 
+      {
+        "dogmaAttributeID": 54, 
+        "groupID": 291
+      }, 
+      {
+        "dogmaAttributeID": 54, 
+        "groupID": 379
+      }, 
+      {
+        "dogmaAttributeID": 238, 
+        "groupID": 201
+      }, 
+      {
+        "dogmaAttributeID": 239, 
+        "groupID": 201
+      }, 
+      {
+        "dogmaAttributeID": 240, 
+        "groupID": 201
+      }, 
+      {
+        "dogmaAttributeID": 241, 
+        "groupID": 201
+      }, 
+      {
+        "dogmaAttributeID": 309, 
+        "groupID": 208
+      }, 
+      {
+        "dogmaAttributeID": 349, 
+        "groupID": 291
+      }, 
+      {
+        "dogmaAttributeID": 351, 
+        "groupID": 291
+      }, 
+      {
+        "dogmaAttributeID": 547, 
+        "groupID": 291
+      }, 
+      {
+        "dogmaAttributeID": 554, 
+        "groupID": 379
+      }, 
+      {
+        "dogmaAttributeID": 566, 
+        "groupID": 208
+      }, 
+      {
+        "dogmaAttributeID": 596, 
+        "groupID": 291
+      }, 
+      {
+        "dogmaAttributeID": 767, 
+        "groupID": 291
+      }, 
+      {
+        "dogmaAttributeID": 847, 
+        "groupID": 291
+      }, 
+      {
+        "dogmaAttributeID": 848, 
+        "groupID": 291
+      }, 
+      {
+        "dogmaAttributeID": 2044, 
+        "groupID": 201
+      }, 
+      {
+        "dogmaAttributeID": 2044, 
+        "groupID": 208
+      }, 
+      {
+        "dogmaAttributeID": 2044, 
+        "groupID": 291
+      }, 
+      {
+        "dogmaAttributeID": 2044, 
+        "groupID": 379
+      }
+    ], 
+    "developerDescription": "Information Burst: Electronic Superiority: EWAR Range and Strength", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "16": {
+    "displayName": "Scan Resolution bonus", 
+    "displayNameID": 518713, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Information Burst: Sensor Optimization: Scan Resolution", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 564
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "19": {
+    "displayName": "Remote Sensor Dampener / Remote Weapon Disruption Resistance bonus", 
+    "displayNameID": 518900, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Information Burst: Electronic Hardening: RSD/RWD Resistance", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 2112
+      }, 
+      {
+        "dogmaAttributeID": 2113
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "18": {
+    "displayName": "Sensor Strength bonus", 
+    "displayNameID": 518715, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Information Burst: Electronic Hardening: Sensor Strength", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 208
+      }, 
+      {
+        "dogmaAttributeID": 209
+      }, 
+      {
+        "dogmaAttributeID": 210
+      }, 
+      {
+        "dogmaAttributeID": 211
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "57": {
+    "displayName": "Tether blocked", 
+    "displayNameID": 522788, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Disallow tether", 
+    "operationName": "ModAdd", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 2343
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "Hide"
+  }, 
+  "56": {
+    "displayName": "Mass increase", 
+    "displayNameID": 522787, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "PANIC: Mass increase", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 4
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "51": {
+    "displayName": "Velocity Penalty", 
+    "displayNameID": 522403, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Avatar Effect Generator : Velocity penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 37
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "50": {
+    "displayName": "Kinetic Resistance penalty", 
+    "displayNameID": 521923, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Leviathan Effect Generator : Kinetic resistance penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 109
+      }, 
+      {
+        "dogmaAttributeID": 269
+      }, 
+      {
+        "dogmaAttributeID": 273
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "53": {
+    "displayName": "Remote Armor Repairer Strength Penalty", 
+    "displayNameID": 522405, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Leviathan Effect Generator : Armor RR penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 84, 
+        "skillID": 16069
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "52": {
+    "displayName": "Remote Shield Booster Strength Penalty", 
+    "displayNameID": 522404, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Erebus Effect Generator : Shield RR penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 68, 
+        "skillID": 3422
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "55": {
+    "displayName": "Scan Resolution penalty", 
+    "displayNameID": 522786, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "PANIC: Scan Resolution penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 564
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "54": {
+    "displayName": "Energy and Hybrid Turret Optimal Penalty", 
+    "displayNameID": 522406, 
+    "locationGroupModifiers": [
+      {
+        "dogmaAttributeID": 54, 
+        "groupID": 53
+      }, 
+      {
+        "dogmaAttributeID": 54, 
+        "groupID": 74
+      }
+    ], 
+    "developerDescription": "Ragnarok Effect Generator : Laser and Hybrid Optimal penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "88": {
+    "displayName": "Penalty to Shield Booster shield bonus", 
+    "displayNameID": 533827, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "AOE_Beacon_filament_cloud_shield_booster_shield_bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 68, 
+        "skillID": 3416
+      }
+    ], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 2498
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "89": {
+    "displayName": "Bonus to Shield Booster duration", 
+    "displayNameID": 533828, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "AOE_Beacon_filament_cloud_shield_booster_duration", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 73, 
+        "skillID": 3416
+      }
+    ], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 2495
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "80": {
+    "displayName": "Local Armor Repairer penalty", 
+    "displayNameID": 532902, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "AOE_Beacon_caustic_cloud_local_repair", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 84, 
+        "skillID": 3393
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "81": {
+    "displayName": "Remote Armor Repairer penalty", 
+    "displayNameID": 532901, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "AOE_Beacon_caustic_cloud_remote_repair", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 84, 
+        "skillID": 16069
+      }
+    ], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 84
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "84": {
+    "displayName": "Turret Tracking Speed bonus", 
+    "displayNameID": 532937, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "AOE_Beacon_trig_platform_tracking_speed", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 160, 
+        "skillID": 3300
+      }
+    ], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 160
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "48": {
+    "displayName": "Shield HP bonus", 
+    "displayNameID": 521924, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Leviathan Effect Generator : Shield HP bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 263
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "49": {
+    "displayName": "EM Resistance bonus", 
+    "displayNameID": 521922, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Leviathan Effect Generator : EM resistance bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 113
+      }, 
+      {
+        "dogmaAttributeID": 267
+      }, 
+      {
+        "dogmaAttributeID": 271
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "46": {
+    "displayName": "Thermal Resistance bonus", 
+    "displayNameID": 521919, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Ragnarok Effect Generator : Thermal resistance bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 110
+      }, 
+      {
+        "dogmaAttributeID": 270
+      }, 
+      {
+        "dogmaAttributeID": 274
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "47": {
+    "displayName": "Explosive Resistance penalty", 
+    "displayNameID": 521920, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Ragnarok Effect Generator : Explosive resistance penaly", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 111
+      }, 
+      {
+        "dogmaAttributeID": 268
+      }, 
+      {
+        "dogmaAttributeID": 272
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "44": {
+    "displayName": "Thermal Resistance penalty", 
+    "displayNameID": 521918, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Erebus Effect Generator : Thermal resistance penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 110
+      }, 
+      {
+        "dogmaAttributeID": 270
+      }, 
+      {
+        "dogmaAttributeID": 274
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "45": {
+    "displayName": "Signature Radius bonus", 
+    "displayNameID": 521921, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Ragnarok Effect Generator : Signature Radius bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 552
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "42": {
+    "displayName": "Armor HP bonus", 
+    "displayNameID": 521916, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Erebus Effect Generator : Armor HP bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 265
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "43": {
+    "displayName": "Explosive Resistance bonus", 
+    "displayNameID": 521917, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Erebus Effect Generator : Explosive resistance bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 111
+      }, 
+      {
+        "dogmaAttributeID": 268
+      }, 
+      {
+        "dogmaAttributeID": 272
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "40": {
+    "displayName": "Kinetic Resistance bonus", 
+    "displayNameID": 521912, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Avatar Effect Generator : Kinetic resistance bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 109
+      }, 
+      {
+        "dogmaAttributeID": 269
+      }, 
+      {
+        "dogmaAttributeID": 273
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "41": {
+    "displayName": "EM Resistance penalty", 
+    "displayNameID": 521913, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Avatar Effect Generator : EM resistance penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 113
+      }, 
+      {
+        "dogmaAttributeID": 267
+      }, 
+      {
+        "dogmaAttributeID": 271
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowInverted"
+  }, 
+  "1": {
+    "locationGroupModifiers": [
+      {
+        "dogmaAttributeID": 20, 
+        "groupID": 46
+      }, 
+      {
+        "dogmaAttributeID": 105, 
+        "groupID": 52
+      }
+    ], 
+    "developerDescription": "[PROTOTYPE]Test Multi Buff", 
+    "operationName": "PostMul", 
+    "locationModifiers": [
+      {
+        "dogmaAttributeID": 68
+      }, 
+      {
+        "dogmaAttributeID": 84
+      }
+    ], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 6, 
+        "skillID": 3427
+      }, 
+      {
+        "dogmaAttributeID": 54, 
+        "skillID": 3305
+      }
+    ], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 37
+      }, 
+      {
+        "dogmaAttributeID": 76
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "3": {
+    "displayName": "Velocity penalty", 
+    "displayNameID": 517442, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Velocity penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 37
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "5": {
+    "displayName": "Disallow Cloak", 
+    "displayNameID": 517760, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Disallow Cloak", 
+    "operationName": "ModAdd", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 2454
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "Hide"
+  }, 
+  "7": {
+    "displayName": "QA Anti-targeting debuff", 
+    "displayNameID": 517856, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "QA Anti-targeting debuff", 
+    "operationName": "PostAssignment", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 192
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "9": {
+    "displayName": "Shield recharge time bonus", 
+    "displayNameID": 518606, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "PANIC: Shield Recharge time", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 479
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "100": {
+    "displayName": "Scan Resolution bonus", 
+    "displayNameID": 535079, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weather_caustic_toxin_scan_resolution_bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 564
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "79": {
+    "displayName": "Signature Radius penalty", 
+    "displayNameID": 532898, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "AOE_Beacon_bioluminescence_cloud", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 552
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "39": {
+    "displayName": "Capacitor Recharge bonus", 
+    "displayNameID": 521911, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Avatar Effect Generator : Capacitor Recharge bonus", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 55
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "38": {
+    "displayName": "Maximum target penalty", 
+    "displayNameID": 519329, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "ECM Burst", 
+    "operationName": "PostAssignment", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 192
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "14": {
+    "displayName": "Armor Repair Modules: Duration & Capacitor-use bonus", 
+    "displayNameID": 518710, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Armor Burst: Rapid Repair: Repair Duration/Capacitor", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 6, 
+        "skillID": 3393
+      }, 
+      {
+        "dogmaAttributeID": 6, 
+        "skillID": 16069
+      }, 
+      {
+        "dogmaAttributeID": 73, 
+        "skillID": 3393
+      }, 
+      {
+        "dogmaAttributeID": 73, 
+        "skillID": 16069
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "33": {
+    "displayName": "Missile Explosion Velocity penalty", 
+    "displayNameID": 519292, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weapon Disruption Burst: Missile Explosion Velocity", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 653, 
+        "skillID": 3319
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "32": {
+    "displayName": "Missile duration penalty", 
+    "displayNameID": 519298, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weapon Disruption Burst: Missile Duration", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 281, 
+        "skillID": 3319
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "31": {
+    "displayName": "Missile velocity penalty", 
+    "displayNameID": 519295, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weapon Disruption Burst: Missile Velocity", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 37, 
+        "skillID": 3319
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "30": {
+    "displayName": "Turret tracking speed penalty", 
+    "displayNameID": 519291, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weapon Disruption Burst: Turret Tracking", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 160, 
+        "skillID": 3300
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "37": {
+    "displayName": "Signature radius penalty", 
+    "displayNameID": 519299, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Target Illumination Burst", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 552
+      }
+    ], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "36": {
+    "displayName": "Targeting Range penalty", 
+    "displayNameID": 519297, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Sensor Dampening Burst: Max Target Range", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 76
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "35": {
+    "displayName": "Scan Resolution penalty", 
+    "displayNameID": 519296, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Sensor Dampening Burst: Scan Resolution penalty", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [], 
+    "itemModifiers": [
+      {
+        "dogmaAttributeID": 564
+      }
+    ], 
+    "aggregateMode": "Minimum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "34": {
+    "displayName": "Missile Explosion Radius penalty", 
+    "displayNameID": 519293, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "Weapon Disruption Burst: Missile Explosion Radius", 
+    "operationName": "PostPercent", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 654, 
+        "skillID": 3319
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "ShowNormal"
+  }, 
+  "59": {
+    "displayName": "Disallow weapons", 
+    "displayNameID": 522815, 
+    "locationGroupModifiers": [], 
+    "developerDescription": "PANIC: Disallow weapons", 
+    "operationName": "PostAssignment", 
+    "locationModifiers": [], 
+    "locationRequiredSkillModifiers": [
+      {
+        "dogmaAttributeID": 1349, 
+        "skillID": 3300
+      }, 
+      {
+        "dogmaAttributeID": 1349, 
+        "skillID": 3319
+      }, 
+      {
+        "dogmaAttributeID": 1349, 
+        "skillID": 3421
+      }
+    ], 
+    "itemModifiers": [], 
+    "aggregateMode": "Maximum", 
+    "showOutputValueInUI": "Hide"
+  }
+}

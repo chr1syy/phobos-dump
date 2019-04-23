@@ -1,0 +1,182 @@
+{
+  "11": {
+    "groupIDs": [
+      485, 
+      547, 
+      883, 
+      1538
+    ], 
+    "categoryIDs": [], 
+    "name": "Capital Ships"
+  }, 
+  "10": {
+    "groupIDs": [
+      898, 
+      900, 
+      902
+    ], 
+    "categoryIDs": [], 
+    "name": "Large T2 Ships"
+  }, 
+  "13": {
+    "groupIDs": [
+      873
+    ], 
+    "categoryIDs": [], 
+    "name": "Capital Components"
+  }, 
+  "12": {
+    "groupIDs": [
+      536, 
+      1136
+    ], 
+    "categoryIDs": [
+      23, 
+      39, 
+      40, 
+      65, 
+      66
+    ], 
+    "name": "Structures"
+  }, 
+  "15": {
+    "groupIDs": [
+      913
+    ], 
+    "categoryIDs": [], 
+    "name": "Advanced Capital Components"
+  }, 
+  "14": {
+    "groupIDs": [
+      332, 
+      334, 
+      716, 
+      964
+    ], 
+    "categoryIDs": [], 
+    "name": "Components"
+  }, 
+  "17": {
+    "groupIDs": [
+      712
+    ], 
+    "categoryIDs": [], 
+    "name": "Biochemical Reactions"
+  }, 
+  "16": {
+    "groupIDs": [
+      974
+    ], 
+    "categoryIDs": [], 
+    "name": "Hybrid Reactions"
+  }, 
+  "18": {
+    "groupIDs": [
+      428, 
+      429
+    ], 
+    "categoryIDs": [], 
+    "name": "Composite Reactions"
+  }, 
+  "1": {
+    "groupIDs": [], 
+    "categoryIDs": [
+      18, 
+      87
+    ], 
+    "name": "Drones/Fighters"
+  }, 
+  "3": {
+    "groupIDs": [], 
+    "categoryIDs": [
+      6, 
+      32
+    ], 
+    "name": "Ships"
+  }, 
+  "2": {
+    "groupIDs": [
+      12, 
+      340, 
+      448, 
+      649
+    ], 
+    "categoryIDs": [
+      7, 
+      20, 
+      22
+    ], 
+    "name": "Equipment"
+  }, 
+  "5": {
+    "groupIDs": [
+      25, 
+      31, 
+      420
+    ], 
+    "categoryIDs": [], 
+    "name": "Small T1 Ships"
+  }, 
+  "4": {
+    "groupIDs": [], 
+    "categoryIDs": [
+      8
+    ], 
+    "name": "Charges"
+  }, 
+  "7": {
+    "groupIDs": [
+      26, 
+      28, 
+      419, 
+      463, 
+      1201
+    ], 
+    "categoryIDs": [], 
+    "name": "Medium T1 Ships"
+  }, 
+  "6": {
+    "groupIDs": [
+      324, 
+      541, 
+      830, 
+      831, 
+      834, 
+      893, 
+      1283, 
+      1305, 
+      1527, 
+      1534
+    ], 
+    "categoryIDs": [], 
+    "name": "Small T2 Ships"
+  }, 
+  "9": {
+    "groupIDs": [
+      27, 
+      513, 
+      941
+    ], 
+    "categoryIDs": [], 
+    "name": "Large T1 Ships"
+  }, 
+  "8": {
+    "groupIDs": [
+      358, 
+      380, 
+      540, 
+      543, 
+      832, 
+      833, 
+      894, 
+      906, 
+      963, 
+      1202, 
+      1972
+    ], 
+    "categoryIDs": [
+      32
+    ], 
+    "name": "Medium T2 Ships"
+  }
+}

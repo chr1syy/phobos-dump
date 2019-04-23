@@ -1,0 +1,788 @@
+{
+  "51": {
+    "filterName": "NPC Entity Drone Targets", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "Drones type that are eligible for NPC drone hate during combat", 
+    "includedCategoryIDs": [
+      18
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [
+      101, 
+      1159, 
+      97, 
+      299, 
+      470
+    ], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "43": {
+    "filterName": "Small AOEs", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [
+      47436, 
+      47439, 
+      47620
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "53": {
+    "filterName": "Mutaplasmid Abnormal", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "All mutaplasmids of abnormal quality", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [
+      47845, 
+      47837, 
+      47843, 
+      47835, 
+      47841, 
+      47839
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "52": {
+    "filterName": "Mutaplasmid Decayed", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "All mutaplasmids of decayed quality", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [
+      47754, 
+      47750, 
+      47746, 
+      47299, 
+      47742, 
+      47737, 
+      47816, 
+      47774, 
+      47829, 
+      47786, 
+      47805, 
+      47813, 
+      47770, 
+      47825, 
+      47782, 
+      47801, 
+      47809, 
+      47766, 
+      47821, 
+      47778, 
+      47797, 
+      47699, 
+      47733, 
+      47729, 
+      47790
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "85": {
+    "filterName": "Soft Penalty", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "List of non-refinable asteroids that are used in the Soft Penalty mining operations.", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [
+      28617, 
+      28618, 
+      28619, 
+      28620, 
+      28621, 
+      28622, 
+      28623, 
+      28624, 
+      28625, 
+      28626
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "24": {
+    "filterName": "FleetEvaluationIsSubCapital", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "", 
+    "includedCategoryIDs": [
+      6
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [
+      30, 
+      485, 
+      513, 
+      547, 
+      659, 
+      883, 
+      902, 
+      1538
+    ], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "27": {
+    "filterName": "IsPlayerPilotable", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "The TypeID is pilotable by a player, and therefore can be used in Ghost Fitting.", 
+    "includedCategoryIDs": [
+      6, 
+      65
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [
+      1876
+    ], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "20": {
+    "filterName": "FleetEvaluationIsFleetShip", 
+    "excludedTypeIDs": [
+      582, 
+      590, 
+      592, 
+      599, 
+      620, 
+      625, 
+      631, 
+      634
+    ], 
+    "filterDescription": "List used for Fleet Evaluation. Types are could be part of LONG RANGE or SHORT RANGE fleet types.", 
+    "includedCategoryIDs": [
+      6
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [
+      29, 
+      31, 
+      513, 
+      832, 
+      883, 
+      902, 
+      1527, 
+      1538
+    ], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "21": {
+    "filterName": "FleetEvaluationFleetWeaponsTurrets", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "List used for Fleet Evaluation.", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      53, 
+      55, 
+      74
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "22": {
+    "filterName": "FleetEvaluationFleetWeaponsLaunchers", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "List used for Fleet Evaluation.", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      506, 
+      507, 
+      508, 
+      509, 
+      510, 
+      511, 
+      771, 
+      1245
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "49": {
+    "filterName": "Large Structure AOEs", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "Large Structure AOE list for abyssal deadspace content", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [
+      47438, 
+      47470
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "46": {
+    "filterName": "AoE Point Defense Targets", 
+    "excludedTypeIDs": [
+      48265, 
+      48264, 
+      48263, 
+      48262
+    ], 
+    "filterDescription": "", 
+    "includedCategoryIDs": [
+      87, 
+      18, 
+      8
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      1997
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "23": {
+    "filterName": "FleetEvaluationNeutTargetModules", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "A list of logistics modules used for fleet evaulation (neut targets)", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      41, 
+      67, 
+      325, 
+      585, 
+      899, 
+      1697, 
+      1698
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "44": {
+    "filterName": "Medium AOEs", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [
+      47440, 
+      47437, 
+      47469, 
+      47467, 
+      47472
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "45": {
+    "filterName": "Large AOEs", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [
+      47438, 
+      47441, 
+      47473, 
+      47470, 
+      47468
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "42": {
+    "filterName": "Player Ships, Drones, Fighters & Structures, NOT Freighters", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "", 
+    "includedCategoryIDs": [
+      6, 
+      18, 
+      87, 
+      65
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [
+      513, 
+      902
+    ], 
+    "includedGroupIDs": [
+      361
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "29": {
+    "filterName": "ResourceWarsPirateEnemies", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "The valid targets for pirates attackers with in the resources wars feature", 
+    "includedCategoryIDs": [
+      6, 
+      18
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [
+      29
+    ], 
+    "includedGroupIDs": [
+      1803, 
+      1813, 
+      1814, 
+      1896, 
+      1909
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "41": {
+    "filterName": "Ships only - NOT Capsules", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "List of all ships but no drones or capsules", 
+    "includedCategoryIDs": [
+      6
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [
+      29
+    ], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "0": {
+    "filterName": "NonContractableItems", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "List of items that are not contractable privately or publicly", 
+    "includedCategoryIDs": [
+      24
+    ], 
+    "includedTypeIDs": [
+      32250, 
+      34151, 
+      34153, 
+      43630, 
+      49756, 
+      43680
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      307, 
+      535, 
+      835, 
+      836, 
+      1951, 
+      29, 
+      1324
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "4": {
+    "filterName": "ShipyardStructureTargets", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [
+      27674
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "7": {
+    "filterName": "BehaviourStructureAOEWeaponModules", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "AEO Weapon Modules for Behaviour Structures", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      1328
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "6": {
+    "filterName": "BehaviourStructureWeaponModules", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "Weapon Modules for Behaviour Structures", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      1327, 
+      1562
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "8": {
+    "filterName": "BehaviourStructureEWarModules", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "EWar Modules for Behaviour Structures", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      1329, 
+      1332, 
+      1441, 
+      1442, 
+      1719
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "18": {
+    "filterName": "FleetEvaluationIsCapital", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "List used for Fleet Evaluation. Types are counted as a CAPITAL fleet. This excludes Force Auxiliaries as they are counted as the SUPPORT type.", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      30, 
+      485, 
+      547, 
+      659
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "77": {
+    "filterName": "Capital Ships", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      30, 
+      659, 
+      547, 
+      485, 
+      1538, 
+      883
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "92": {
+    "filterName": "Abyssal Deadspace Fleet - Allowed Frigates", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "A list of ships that are allowed to enter co-op abyssal deadspace in fleets", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      324, 
+      25, 
+      831, 
+      1527, 
+      830, 
+      893, 
+      834, 
+      1283
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "32": {
+    "filterName": "MiningLaserModules", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "All modules that mine ore", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      54, 
+      483
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "11": {
+    "filterName": "AllowedInSMACargoholds", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "Items are allowed inside the cargohold of ships within other ships", 
+    "includedCategoryIDs": [
+      8, 
+      32
+    ], 
+    "includedTypeIDs": [
+      16273, 
+      16275
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      303
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "10": {
+    "filterName": "KillreportEligable", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "Items that generate kill reports on death", 
+    "includedCategoryIDs": [
+      6, 
+      22, 
+      23, 
+      46, 
+      65, 
+      87
+    ], 
+    "includedTypeIDs": [
+      41030, 
+      43681
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      1876, 
+      1878, 
+      1879, 
+      1880
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "39": {
+    "filterName": "Ships and Drones - NOT Capsules", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "List of all ships and drones but no capsules", 
+    "includedCategoryIDs": [
+      6, 
+      18
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [
+      29
+    ], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "38": {
+    "filterName": "CannotBeDroppedAsLoot", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "Items that cannot be dropped as loot even if in cargo.", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      1951
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "15": {
+    "filterName": "BehaviourStructureAntiLogiEWarModules", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "Anti Logistics EWar Modules for Behaviour Structures", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      1329, 
+      1332, 
+      1719
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "58": {
+    "filterName": "Mobile Warp Disruptor objects", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      361, 
+      1273
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "19": {
+    "filterName": "FleetEvaluationIsFighter", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "List used for Fleet Evaluation. Types are counted as a FIGHTER fleet.", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      1537, 
+      1652, 
+      1653
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "54": {
+    "filterName": "Mutaplasmid Gravid", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "All mutaplasmids of gravid quality", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [
+      47756, 
+      47752, 
+      47748, 
+      47744, 
+      47741, 
+      47739, 
+      47819, 
+      47776, 
+      47831, 
+      47788, 
+      47807, 
+      47815, 
+      47772, 
+      47827, 
+      47784, 
+      47803, 
+      47811, 
+      47768, 
+      47823, 
+      47780, 
+      47799, 
+      47701, 
+      47735, 
+      47731, 
+      47792
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "57": {
+    "filterName": "Abyssal Deadspace Solo - Allowed Cruisers", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "A list of ships that are allowed to activate abyssal filaments solo", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      26, 
+      833, 
+      906, 
+      358, 
+      894, 
+      832
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "30": {
+    "filterName": "ResourceWarsEmpireEnemies", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "The valid targets for empire defenders with in the resources wars feature", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      1803, 
+      1813, 
+      1814, 
+      1909
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "37": {
+    "filterName": "CannotBeAddedToContainer", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "Items that cannot be placed into containers.", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "36": {
+    "filterName": "NonTradableItems", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "Items that cannot be placed into a Trade window", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "35": {
+    "filterName": "Stargate - Stations - Structures", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "", 
+    "includedCategoryIDs": [
+      65
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      10, 
+      15
+    ], 
+    "excludedCategoryIDs": []
+  }, 
+  "34": {
+    "filterName": "Asteroids", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "", 
+    "includedCategoryIDs": [
+      25
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "55": {
+    "filterName": "Mutaplasmid Unstable", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "All mutaplasmids of unstable quality", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [
+      47755, 
+      47751, 
+      47747, 
+      47743, 
+      47297, 
+      47738, 
+      47818, 
+      47775, 
+      47830, 
+      47787, 
+      47806, 
+      47814, 
+      47771, 
+      47826, 
+      47783, 
+      47802, 
+      47810, 
+      47767, 
+      47822, 
+      47779, 
+      47798, 
+      47700, 
+      47734, 
+      47730, 
+      47791
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "48": {
+    "filterName": "Medium Structure AOEs", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "Medium Structure AOE list for abyssal deadspace content", 
+    "includedCategoryIDs": [], 
+    "includedTypeIDs": [
+      47437, 
+      47469
+    ], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [], 
+    "excludedCategoryIDs": []
+  }, 
+  "50": {
+    "filterName": "Abyssal Filament Proximity Restrictions", 
+    "excludedTypeIDs": [], 
+    "filterDescription": "This is a list of types that prevent players from activating abyssal filaments within a certain distance", 
+    "includedCategoryIDs": [
+      65, 
+      40, 
+      23, 
+      3, 
+      22
+    ], 
+    "includedTypeIDs": [], 
+    "excludedGroupIDs": [], 
+    "includedGroupIDs": [
+      10, 
+      925, 
+      6, 
+      995, 
+      366, 
+      988
+    ], 
+    "excludedCategoryIDs": []
+  }
+}

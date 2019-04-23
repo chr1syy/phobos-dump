@@ -1,0 +1,92 @@
+[
+  {
+    "descriptionID": 66822, 
+    "activityID": 0, 
+    "iconNo": null, 
+    "description": "No activity", 
+    "activityName": "None", 
+    "published": true, 
+    "activityNameID": 66838
+  }, 
+  {
+    "descriptionID": 66823, 
+    "activityID": 1, 
+    "iconNo": "18_02", 
+    "description": "Manufacturing", 
+    "activityName": "Manufacturing", 
+    "published": true, 
+    "activityNameID": 66839
+  }, 
+  {
+    "descriptionID": 66824, 
+    "activityID": 2, 
+    "iconNo": "33_02", 
+    "description": "Technological research", 
+    "activityName": "Researching Technology", 
+    "published": false, 
+    "activityNameID": 66840
+  }, 
+  {
+    "descriptionID": 66825, 
+    "activityID": 3, 
+    "iconNo": "33_02", 
+    "description": "Researching time efficiency", 
+    "activityName": "Researching Time Efficiency", 
+    "published": true, 
+    "activityNameID": 66841
+  }, 
+  {
+    "descriptionID": 66826, 
+    "activityID": 4, 
+    "iconNo": "33_02", 
+    "description": "Researching material efficiency", 
+    "activityName": "Researching Material Efficiency", 
+    "published": true, 
+    "activityNameID": 66842
+  }, 
+  {
+    "descriptionID": 66827, 
+    "activityID": 5, 
+    "iconNo": "33_02", 
+    "description": "Copying", 
+    "activityName": "Copying", 
+    "published": true, 
+    "activityNameID": 66843
+  }, 
+  {
+    "descriptionID": 66828, 
+    "activityID": 6, 
+    "iconNo": null, 
+    "description": "The process of creating an item, by studying an already existing item.", 
+    "activityName": "Duplicating", 
+    "published": false, 
+    "activityNameID": 66844
+  }, 
+  {
+    "descriptionID": 66830, 
+    "activityID": 7, 
+    "iconNo": "33_02", 
+    "description": "The process of creating a blueprint from an item.", 
+    "activityName": "Reverse Engineering", 
+    "published": true, 
+    "activityNameID": 66846
+  }, 
+  {
+    "descriptionID": 66829, 
+    "activityID": 8, 
+    "iconNo": "33_02", 
+    "description": "The process of creating a more advanced item based on an existing item", 
+    "activityName": "Invention", 
+    "published": true, 
+    "activityNameID": 66845
+  }, 
+  {
+    "descriptionID": 315742, 
+    "activityID": 11, 
+    "iconNo": "18_02", 
+    "description": "The process of combining raw and intermediate materials to create advanced components", 
+    "activityName": "Reactions", 
+    "published": true, 
+    "activityNameID": 315741
+  }
+]

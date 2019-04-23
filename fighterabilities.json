@@ -1,0 +1,372 @@
+{
+  "24": {
+    "displayName": "Blaster Cannon", 
+    "displayNameID": 514402, 
+    "turretGraphicID": 21846, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1047, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516667, 
+    "tooltipText": "Standard short range attack"
+  }, 
+  "25": {
+    "displayName": "Railgun", 
+    "displayNameID": 514403, 
+    "turretGraphicID": 21847, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1311, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516664, 
+    "tooltipText": "Standard medium range attack"
+  }, 
+  "26": {
+    "displayName": "Autocannon", 
+    "displayNameID": 514404, 
+    "turretGraphicID": 21849, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1287, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516665, 
+    "tooltipText": "Standard short range attack"
+  }, 
+  "27": {
+    "displayName": "Artillery", 
+    "displayNameID": 514405, 
+    "turretGraphicID": 21848, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1288, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516668, 
+    "tooltipText": "Standard medium range attack"
+  }, 
+  "20": {
+    "displayName": "Torpedo Salvo", 
+    "displayNameID": 514398, 
+    "turretGraphicID": 11516, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1346, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516662, 
+    "tooltipText": "Powerful special attack effective against large targets.\r\nMust be rearmed periodically."
+  }, 
+  "21": {
+    "displayName": "Torpedo Salvo", 
+    "displayNameID": 514399, 
+    "turretGraphicID": 11518, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1348, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516663, 
+    "tooltipText": "Powerful special attack effective against large targets.\r\nMust be rearmed periodically."
+  }, 
+  "22": {
+    "displayName": "Pulse Cannon", 
+    "displayNameID": 514400, 
+    "turretGraphicID": 21843, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1139, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516666, 
+    "tooltipText": "Standard short range attack"
+  }, 
+  "23": {
+    "displayName": "Beam Cannon", 
+    "displayNameID": 514401, 
+    "turretGraphicID": 21842, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1145, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516669, 
+    "tooltipText": "Standard medium range attack"
+  }, 
+  "44": {
+    "displayName": "Blaster Cannon", 
+    "displayNameID": 529305, 
+    "turretGraphicID": 21844, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1047, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 529306, 
+    "tooltipText": "Standard short range attack"
+  }, 
+  "45": {
+    "displayName": "Railgun", 
+    "displayNameID": 529307, 
+    "turretGraphicID": 21845, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1311, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 529308, 
+    "tooltipText": "Standard short range attack"
+  }, 
+  "29": {
+    "displayName": "Micro Missile Swarm", 
+    "displayNameID": 514412, 
+    "turretGraphicID": 11515, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1352, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516670, 
+    "tooltipText": "Standard attack effective against fighters and drones"
+  }, 
+  "1": {
+    "disallowInLowSec": false, 
+    "displayName": "Attack Turret", 
+    "displayNameID": 513536, 
+    "targetMode": "itemTargeted", 
+    "disallowInHighSec": false, 
+    "iconID": 1386
+  }, 
+  "3": {
+    "disallowInLowSec": false, 
+    "displayName": "Target paint", 
+    "displayNameID": 513538, 
+    "targetMode": "itemTargeted", 
+    "disallowInHighSec": false, 
+    "iconID": 2983
+  }, 
+  "2": {
+    "displayName": "Stasis Webifier", 
+    "displayNameID": 513537, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1284, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516650, 
+    "tooltipText": "Reduces the speed of the target"
+  }, 
+  "5": {
+    "displayName": "Micro Jump Drive", 
+    "displayNameID": 513540, 
+    "targetMode": "pointTargeted", 
+    "iconID": 20971, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516652, 
+    "tooltipText": "Teleports the squadron 100km"
+  }, 
+  "4": {
+    "displayName": "Microwarpdrive", 
+    "displayNameID": 513542, 
+    "targetMode": "untargeted", 
+    "iconID": 10149, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516651, 
+    "tooltipText": "Temporarily increases squadron speed and signature radius"
+  }, 
+  "7": {
+    "displayName": "Launch bomb", 
+    "displayNameID": 513544, 
+    "targetMode": "pointTargeted", 
+    "iconID": 3282, 
+    "disallowInLowSec": true, 
+    "disallowInHighSec": true, 
+    "tooltipTextID": 516653, 
+    "tooltipText": "Fires an unguided projectile that deals area damage"
+  }, 
+  "6": {
+    "disallowInLowSec": false, 
+    "displayName": "Damage boost", 
+    "displayNameID": 513541, 
+    "targetMode": "untargeted", 
+    "disallowInHighSec": false, 
+    "iconID": 10934
+  }, 
+  "9": {
+    "displayName": "Afterburner", 
+    "displayNameID": 514051, 
+    "targetMode": "untargeted", 
+    "iconID": 96, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516654, 
+    "tooltipText": "Temporarily increases squadron speed"
+  }, 
+  "38": {
+    "displayName": "True Sacrifice", 
+    "displayNameID": 515664, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1386, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516678, 
+    "tooltipText": "Collides with target, destroying the squadron and dealing significant damage"
+  }, 
+  "11": {
+    "displayName": "Energy Neutralizer", 
+    "displayNameID": 514053, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1283, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516656, 
+    "tooltipText": "Disrupts the capacitor of target ship"
+  }, 
+  "10": {
+    "displayName": "Warp Disruptor", 
+    "displayNameID": 514052, 
+    "targetMode": "itemTargeted", 
+    "iconID": 111, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516655, 
+    "tooltipText": "Prevents target from warping"
+  }, 
+  "13": {
+    "displayName": "Evasive Maneuvers", 
+    "displayNameID": 514055, 
+    "targetMode": "untargeted", 
+    "iconID": 84, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516658, 
+    "tooltipText": "Temporarily increases squadron speed and defense"
+  }, 
+  "12": {
+    "displayName": "ECM", 
+    "displayNameID": 514054, 
+    "targetMode": "itemTargeted", 
+    "iconID": 109, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516657, 
+    "tooltipText": "Has a chance to disrupt target sensors and prevent locking"
+  }, 
+  "14": {
+    "disallowInLowSec": false, 
+    "displayName": "Missile", 
+    "displayNameID": 514056, 
+    "targetMode": "itemTargeted", 
+    "disallowInHighSec": false, 
+    "iconID": 191
+  }, 
+  "17": {
+    "disallowInLowSec": false, 
+    "displayName": "Attack Missile", 
+    "displayNameID": 514168, 
+    "targetMode": "itemTargeted", 
+    "disallowInHighSec": false, 
+    "iconID": 1386
+  }, 
+  "16": {
+    "displayName": "Tackle", 
+    "displayNameID": 514167, 
+    "targetMode": "itemTargeted", 
+    "iconID": 3433, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516659, 
+    "tooltipText": "Reduces target speed, prevents warping and microwarpdrive activation.\r\nOnly effective against fighter and drone targets."
+  }, 
+  "19": {
+    "displayName": "Torpedo Salvo", 
+    "displayNameID": 514397, 
+    "turretGraphicID": 11517, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1347, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516661, 
+    "tooltipText": "Powerful special attack effective against large targets\r\nMust be rearmed periodically"
+  }, 
+  "18": {
+    "displayName": "Torpedo Salvo", 
+    "displayNameID": 514396, 
+    "turretGraphicID": 11515, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1349, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516660, 
+    "tooltipText": "Powerful special attack effective against large targets.\r\nMust be rearmed periodically."
+  }, 
+  "31": {
+    "displayName": "Micro Missile Swarm", 
+    "displayNameID": 514414, 
+    "turretGraphicID": 11516, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1350, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516672, 
+    "tooltipText": "Standard attack effective against fighters and drones"
+  }, 
+  "30": {
+    "displayName": "Micro Missile Swarm", 
+    "displayNameID": 514413, 
+    "turretGraphicID": 11517, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1351, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516671, 
+    "tooltipText": "Standard attack effective against fighters and drones"
+  }, 
+  "36": {
+    "displayName": "Heavy Rocket Salvo", 
+    "displayNameID": 514420, 
+    "turretGraphicID": 11518, 
+    "targetMode": "itemTargeted", 
+    "iconID": 186, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516677, 
+    "tooltipText": "Powerful special attack\r\nMust be rearmed periodically"
+  }, 
+  "35": {
+    "displayName": "Heavy Rocket Salvo", 
+    "displayNameID": 514419, 
+    "turretGraphicID": 11516, 
+    "targetMode": "itemTargeted", 
+    "iconID": 189, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516676, 
+    "tooltipText": "Powerful special attack\r\nMust be rearmed periodically"
+  }, 
+  "34": {
+    "displayName": "Heavy Rocket Salvo", 
+    "displayNameID": 514418, 
+    "turretGraphicID": 11517, 
+    "targetMode": "itemTargeted", 
+    "iconID": 188, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516675, 
+    "tooltipText": "Powerful special attack\r\nMust be rearmed periodically"
+  }, 
+  "33": {
+    "displayName": "Heavy Rocket Salvo", 
+    "displayNameID": 514417, 
+    "turretGraphicID": 11515, 
+    "targetMode": "itemTargeted", 
+    "iconID": 187, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516674, 
+    "tooltipText": "Powerful special attack\r\nMust be rearmed periodically"
+  }, 
+  "32": {
+    "displayName": "Micro Missile Swarm", 
+    "displayNameID": 514415, 
+    "turretGraphicID": 11518, 
+    "targetMode": "itemTargeted", 
+    "iconID": 1353, 
+    "disallowInLowSec": false, 
+    "disallowInHighSec": false, 
+    "tooltipTextID": 516673, 
+    "tooltipText": "Standard attack effective against fighters and drones"
+  }
+}

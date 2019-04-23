@@ -1,0 +1,2900 @@
+{
+  "49532": {
+    "descriptionID": 542598, 
+    "typeID": 49532, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543023, 
+        "description": ""
+      }
+    }, 
+    "nameID": 542599, 
+    "name": "Nov Imp E BPC Crate"
+  }, 
+  "49533": {
+    "descriptionID": 542600, 
+    "typeID": 49533, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543024, 
+        "description": ""
+      }
+    }, 
+    "nameID": 542601, 
+    "name": "Nov Imp S BPC Crate"
+  }, 
+  "49531": {
+    "descriptionID": 542596, 
+    "typeID": 49531, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "EVE/UI/Crate/Descriptions:542596", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543022, 
+        "description": ""
+      }
+    }, 
+    "nameID": 542597, 
+    "name": "Nov Imp A BPC Crate"
+  }, 
+  "44128": {
+    "descriptionID": 523607, 
+    "typeID": 44128, 
+    "lootTable": {
+      "byCharacterRace": {
+        "gallente": 10264, 
+        "caldari": 10263, 
+        "amarr": 10262, 
+        "minmatar": 10265
+      }
+    }, 
+    "description": "You have been enlisted as a Naval Capsuleer.\r\nStandard equipment is issued to all naval capsuleers and your combat ship and gear is included in this container.\r\nOnce opened, this container will self-destruct.\r\nGear is delivered to your Item Hangar while your frigates will be safely delivered to your Ship Hangar for your immediate use.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 524571, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/EVEStarterPack.png", 
+      "width": 624, 
+      "height": 512
+    }, 
+    "nameID": 523608, 
+    "name": "Naval Capsuleer Starter Pack"
+  }, 
+  "45584": {
+    "descriptionID": 526448, 
+    "typeID": 45584, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This Hyasyoda Research Lab Technical Data Chip holds specifications and proprietary nano-assembler instructions for upgraded Hyasyoda corporation research facilities.\r\n\r\nIt should theoretically be possible for a talented capsuleer to interface with this data chip and recover usable blueprint data.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSBronze.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 526449, 
+    "name": "Technical Data Chip"
+  }, 
+  "46825": {
+    "descriptionID": 531242, 
+    "typeID": 46825, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "Handle with care.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531244, 
+        "description": "This package contains fireworks. Handle with care."
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 531243, 
+    "name": "Yoiul Festival Fireworks Package"
+  }, 
+  "45585": {
+    "descriptionID": 526466, 
+    "typeID": 45585, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This Thukker Capital Component Manufacturing Technical Data Chip holds specifications and proprietary nano-assembler instructions for advanced black market Thukker capital component manufacturing upgrades.\r\n\r\nIt should theoretically be possible for a talented capsuleer to interface with this data chip and recover usable blueprint data.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSBronze.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 526467, 
+    "name": "Technical Data Chip"
+  }, 
+  "46601": {
+    "descriptionID": 530125, 
+    "typeID": 46601, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This armored and electromagnetically hardened data cache is normally integrated into the Guristas shipyard facilities, providing a high level of security and protection from corruption while building Loggerhead-class Force Auxiliaries.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the Loggerhead blueprint data recovered.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530131, 
+        "description": ""
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 530126, 
+    "name": "Guristas Loggerhead Blueprint Armored Cache"
+  }, 
+  "46454": {
+    "descriptionID": 529660, 
+    "typeID": 46454, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This pack contains a Caldari Cormorant destroyer and a selection of modules.\r\n\r\nThe Cormorant is the only State-produced space vessel whose design has come from a third party. \r\nRumors abound, of course, but the designer's identity has remained a tightly-kept secret in the State's inner circle.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531079, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 529661, 
+    "name": "Cormorant Destroyer Battle Pack "
+  }, 
+  "46455": {
+    "descriptionID": 529662, 
+    "typeID": 46455, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This pack contains a Gallente Catalyst destroyer and a selection of modules.\r\n\r\nIdeally suited for both skirmish warfare and fleet support, the Catalyst is touted as one of the best anti-frigate platforms out there. \r\nFaced with its top-of-the-line tracking equipment, not many can argue.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531080, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 529663, 
+    "name": "Catalyst Destroyer Battle Pack"
+  }, 
+  "46456": {
+    "descriptionID": 529664, 
+    "typeID": 46456, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This pack contains a Minmatar Thrasher destroyer and a selection of modules.\r\n\r\nEngineered as a supplement to its big brother the Cyclone, the Thrasher's tremendous turret capabilities and advanced tracking computers allow it to protect its larger counterpart from smaller, faster menaces.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531081, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 529665, 
+    "name": "Thrasher Destroyer Battle Pack"
+  }, 
+  "46457": {
+    "descriptionID": 529668, 
+    "typeID": 46457, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your swift and decisive actions on behalf of the State Military Stockpile corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530398, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_CaldariCaracal.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Caldari.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529669, 
+    "name": "Caracal State Military Stockpile Pack"
+  }, 
+  "46450": {
+    "descriptionID": 529652, 
+    "typeID": 46450, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your just and righteous actions on behalf of the Imperial War Reserves corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530396, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_AmarrApocalypse.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Amarr.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529653, 
+    "name": "Apocalypse Imperial War Reserves Pack"
+  }, 
+  "46451": {
+    "descriptionID": 529654, 
+    "typeID": 46451, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This pack contains a Venture mining frigate and a selection of modules.\r\n\r\nRecognizing the dire need for a ship capable of fast operation in unsafe territories, ORE created the Venture.\r\nIt was conceived as a vessel primed and ready for any capsuleer, no matter how new to the dangers of New Eden they might be, who wishes to engage in the respectable trade of mining.\r\n\r\nThe Venture has amazing abilities to quickly drill through to the ores and gases it's after, harvesting them at the speed necessary for mining in hostile space, and getting out relatively unscathed.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531075, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 529655, 
+    "name": "Venture Mining Pack"
+  }, 
+  "46452": {
+    "descriptionID": 529656, 
+    "typeID": 46452, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This pack contains a Procurer and a selection of modules that can be equipped to mining barges.\r\n\r\nMining barges are the next step up from the Venture, with much higher mining yields, larger ore bays and/or a stronger tank. \r\nAlso, in contrast to the Venture, the mining barges can fit strip miners (with much higher yield than normal mining modules) and ice miners. \r\n\r\nThere are three mining barges, each optimized for a different role: The Procurer, the Covetor and the Retriever.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531076, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 529657, 
+    "name": "Procurer Mining Barge Pack"
+  }, 
+  "46453": {
+    "descriptionID": 529658, 
+    "typeID": 46453, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This pack contains an Amarr Coercer destroyer and a selection of modules.\r\n\r\nNoticing the alarming increase in Minmatar frigate fleets, the Imperial Navy made its plans for the Coercer, a vessel designed specifically to seek and destroy the droves of fast-moving frigate rebels.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531078, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 529659, 
+    "name": "Coercer Destroyer Battle Pack"
+  }, 
+  "46756": {
+    "descriptionID": 530565, 
+    "typeID": 46756, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This crate contains one random SKIN license from the following:\r\n\r\n<url=showinfo:46707>Magnate Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46708>Omen Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46712>Merlin Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46713>Caracal Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46717>Tristan Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46718>Vexor Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46722>Slasher Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46723>Rupture Headhunter SKIN (Permanent)</url>", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530567, 
+        "description": "This crate contains one random SKIN license from the following:\r\n\r\n<url=showinfo:46707>Magnate Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46708>Omen Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46712>Merlin Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46713>Caracal Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46717>Tristan Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46718>Vexor Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46722>Slasher Headhunter SKIN (Permanent)</url>\r\n<url=showinfo:46723>Rupture Headhunter SKIN (Permanent)</url>"
+      }
+    }, 
+    "nameID": 530566, 
+    "name": "Headhunter SKIN Crate"
+  }, 
+  "46458": {
+    "descriptionID": 529670, 
+    "typeID": 46458, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your swift and decisive actions on behalf of the State Military Stockpile corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530399, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_CaldariDrake.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Caldari.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529671, 
+    "name": "Drake State Military Stockpile Pack"
+  }, 
+  "46459": {
+    "descriptionID": 529672, 
+    "typeID": 46459, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your swift and decisive actions on behalf of the State Military Stockpile corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530400, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_CaldariRaven.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Caldari.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529673, 
+    "name": "Raven State Military Stockpile Pack"
+  }, 
+  "46580": {
+    "descriptionID": 529912, 
+    "typeID": 46580, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This armored and electromagnetically hardened data cache is normally integrated into the Guristas facilities, providing a high level of security and protection from corruption.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the blueprint data recovered.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 529914, 
+        "description": ""
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 529913, 
+    "name": "Guristas Standup Module Blueprint Armored Cache"
+  }, 
+  "49746": {
+    "descriptionID": 543401, 
+    "typeID": 49746, 
+    "lootTable": {
+      "byCharacterRace": {
+        "gallente": 10490, 
+        "caldari": 10485, 
+        "amarr": 10484, 
+        "minmatar": 10486
+      }
+    }, 
+    "description": "This military surplus crate contains a quantity of ammunition rated for small weapons appropriate to your race.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543403, 
+        "description": ""
+      }
+    }, 
+    "nameID": 543402, 
+    "name": "Small Navy Ammunition Crate"
+  }, 
+  "49748": {
+    "descriptionID": 543401, 
+    "typeID": 49748, 
+    "lootTable": {
+      "byCharacterRace": {
+        "gallente": 10493, 
+        "caldari": 10488, 
+        "amarr": 10487, 
+        "minmatar": 10489
+      }
+    }, 
+    "description": "This military surplus crate contains a quantity of ammunition rated for small weapons appropriate to your race.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543403, 
+        "description": ""
+      }
+    }, 
+    "nameID": 543404, 
+    "name": "Large Faction Ammunition Crate"
+  }, 
+  "44192": {
+    "descriptionID": 523831, 
+    "typeID": 44192, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 523832, 
+    "name": "YC119 Yoiul Festival Day 6"
+  }, 
+  "44191": {
+    "descriptionID": 523829, 
+    "typeID": 44191, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 523830, 
+    "name": "YC119 Yoiul Festival Day 5"
+  }, 
+  "44190": {
+    "descriptionID": 523827, 
+    "typeID": 44190, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 523828, 
+    "name": "YC119 Yoiul Festival Day 4"
+  }, 
+  "44197": {
+    "descriptionID": 523837, 
+    "typeID": 44197, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 523838, 
+    "name": "YC119 Yoiul Festival Day 10"
+  }, 
+  "44195": {
+    "descriptionID": 523835, 
+    "typeID": 44195, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 523836, 
+    "name": "YC119 Yoiul Festival Day 9"
+  }, 
+  "44194": {
+    "descriptionID": 523833, 
+    "typeID": 44194, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 523834, 
+    "name": "YC119 Yoiul Festival Day 8"
+  }, 
+  "44199": {
+    "descriptionID": 523841, 
+    "typeID": 44199, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 523842, 
+    "name": "YC119 Yoiul Festival Day 12"
+  }, 
+  "44198": {
+    "descriptionID": 523839, 
+    "typeID": 44198, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 523840, 
+    "name": "YC119 Yoiul Festival Day 11"
+  }, 
+  "48379": {
+    "descriptionID": 537913, 
+    "typeID": 48379, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 537915, 
+        "description": "This is the Federation Grand Prix Gold Package awarded to pilots for supreme piloting skill and endurance in New Eden's premiere capsuleer ship racing event."
+      }
+    }, 
+    "nameID": 537914, 
+    "name": "Federation Grand Prix Gold Package"
+  }, 
+  "48378": {
+    "descriptionID": 537904, 
+    "typeID": 48378, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 537912, 
+        "description": "Sponsored by Quafe – In The Heat of The Moment – this package has a chance to contain a selection of Gallente Federation Grand Prix commemorative items."
+      }
+    }, 
+    "nameID": 537905, 
+    "name": "Federation Grand Prix Quafe Package"
+  }, 
+  "46483": {
+    "descriptionID": 529724, 
+    "typeID": 46483, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your fierce and loyal actions on behalf of the Republic Fleet Ordnance corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateMinmatar.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Minmatar.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529725, 
+    "name": "Republic Fleet Ordnance Package 10"
+  }, 
+  "46482": {
+    "descriptionID": 529722, 
+    "typeID": 46482, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your fierce and loyal actions on behalf of the Republic Fleet Ordnance corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateMinmatar.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Minmatar.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529723, 
+    "name": "Republic Fleet Ordnance Package 9"
+  }, 
+  "46481": {
+    "descriptionID": 529720, 
+    "typeID": 46481, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your fierce and loyal actions on behalf of the Republic Fleet Ordnance corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateMinmatar.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Minmatar.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529721, 
+    "name": "Republic Fleet Ordnance Package 8"
+  }, 
+  "46480": {
+    "descriptionID": 529718, 
+    "typeID": 46480, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your fierce and loyal actions on behalf of the Republic Fleet Ordnance corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateMinmatar.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Minmatar.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529719, 
+    "name": "Republic Fleet Ordnance Package 7"
+  }, 
+  "48377": {
+    "descriptionID": 537902, 
+    "typeID": 48377, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 537911, 
+        "description": "This is the Federation Grand Prix Silver Package awarded to pilots for special achievement in New Eden's premiere capsuleer ship racing event."
+      }
+    }, 
+    "nameID": 537903, 
+    "name": "Federation Grand Prix Silver Package"
+  }, 
+  "48376": {
+    "descriptionID": 537900, 
+    "typeID": 48376, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 537910, 
+        "description": "Sponsored by the leading drone research and development corporation CreoDron, this package has a chance to contain a selection of Gallente Federation Grand Prix commemorative items."
+      }
+    }, 
+    "nameID": 537901, 
+    "name": "Federation Grand Prix CreoDron Package"
+  }, 
+  "48375": {
+    "descriptionID": 537898, 
+    "typeID": 48375, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 537909, 
+        "description": "This is the Federation Grand Prix Bronze Package awarded to pilots for notable participation in New Eden's premiere capsuleer ship racing event."
+      }
+    }, 
+    "nameID": 537899, 
+    "name": "Federation Grand Prix Bronze Package"
+  }, 
+  "48374": {
+    "descriptionID": 537896, 
+    "typeID": 48374, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 537906, 
+        "description": "Sponsored by the holo industry giant Impetus, this package has a chance to contain a selection of Gallente Federation Grand Prix commemorative items.\r\n\r\n"
+      }
+    }, 
+    "nameID": 537897, 
+    "name": "Federation Grand Prix Impetus Package"
+  }, 
+  "44188": {
+    "descriptionID": 523823, 
+    "typeID": 44188, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 523824, 
+    "name": "YC119 Yoiul Festival Day 2"
+  }, 
+  "44189": {
+    "descriptionID": 523825, 
+    "typeID": 44189, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 523826, 
+    "name": "YC119 Yoiul Festival Day 3"
+  }, 
+  "44187": {
+    "descriptionID": 523821, 
+    "typeID": 44187, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        0.4627450980392157, 
+        0.5686274509803921, 
+        0.8431372549019608, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 523822, 
+    "name": "YC119 Yoiul Festival Day 1"
+  }, 
+  "43698": {
+    "descriptionID": 522119, 
+    "typeID": 43698, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522120, 
+    "name": "Salvation Angels Strong Box"
+  }, 
+  "43695": {
+    "descriptionID": 522111, 
+    "typeID": 43695, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522112, 
+    "name": "True Creations Strong Box"
+  }, 
+  "43697": {
+    "descriptionID": 522115, 
+    "typeID": 43697, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522116, 
+    "name": "Guristas Production Strong Box"
+  }, 
+  "43696": {
+    "descriptionID": 522113, 
+    "typeID": 43696, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522114, 
+    "name": "Blood Raider Strong Box"
+  }, 
+  "43691": {
+    "descriptionID": 522094, 
+    "typeID": 43691, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522095, 
+    "name": "Minmatar Mining Corporation Strong Box"
+  }, 
+  "43690": {
+    "descriptionID": 522092, 
+    "typeID": 43690, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522093, 
+    "name": "Allotek Industries Strong Box"
+  }, 
+  "43693": {
+    "descriptionID": 522098, 
+    "typeID": 43693, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522099, 
+    "name": "Thukker Mix Strong Box"
+  }, 
+  "43692": {
+    "descriptionID": 522096, 
+    "typeID": 43692, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522097, 
+    "name": "Vherokior Tribe Strong Box"
+  }, 
+  "48761": {
+    "descriptionID": 540086, 
+    "typeID": 48761, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This Triglavian trinary data vault was obtained by inputting Triglavian survey data into a <b>Bioadaptive Cache</b> in Abyssal Deadspace. The contents of the output data vault seem to vary according to some inscrutable formula that presumably depends on the contents of the inputted survey data. Alternatively, the output may simply be determined by a probabilistic exchange algorithm that only a Triglavian would understand.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "nameID": 540087, 
+    "name": "Triglavian Cache Data Vault"
+  }, 
+  "45677": {
+    "descriptionID": 526754, 
+    "typeID": 45677, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This armored and electromagnetically hardened data cache is normally integrated into the Blood Raider Covenant's shipyard facilities, providing a high level of security and protection from corruption while building Molok-class Titans.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the Molok blueprint data recovered.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 526765, 
+        "description": ""
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 526755, 
+    "name": "Blood Raider Molok Blueprint Armored Cache"
+  }, 
+  "46260": {
+    "descriptionID": 528644, 
+    "typeID": 46260, 
+    "lootTable": {
+      "byCharacterRace": {
+        "gallente": 10256, 
+        "caldari": 10255, 
+        "amarr": 10254, 
+        "minmatar": 10257
+      }
+    }, 
+    "description": "This package has been awarded to you by your mentor to accelerate your capsuleer training.\r\nInside you will find skill books that when trained, will allow you to operate various ships.\r\n\r\nThis meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 528646, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/EVEStarterPack.png", 
+      "width": 624, 
+      "height": 512
+    }, 
+    "nameID": 528645, 
+    "name": "Inception Skill Package"
+  }, 
+  "46267": {
+    "descriptionID": 528718, 
+    "typeID": 46267, 
+    "lootTable": {
+      "byCharacterRace": {
+        "gallente": 10279, 
+        "caldari": 10276, 
+        "amarr": 10278, 
+        "minmatar": 10277
+      }
+    }, 
+    "description": "This crate contains an industrial ship. It's packed really really well.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 528720, 
+        "description": "This crate has:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 528719, 
+    "name": "A3 Industrial Package"
+  }, 
+  "46266": {
+    "descriptionID": 528667, 
+    "typeID": 46266, 
+    "lootTable": {
+      "byCharacterRace": {
+        "gallente": 10283, 
+        "caldari": 10280, 
+        "amarr": 10282, 
+        "minmatar": 10281
+      }
+    }, 
+    "description": "This crate contains a destroyer ship. It's packed really really well.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 528669, 
+        "description": "This crate has:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 528668, 
+    "name": "A3 Destroyer Package"
+  }, 
+  "46269": {
+    "descriptionID": 528724, 
+    "typeID": 46269, 
+    "lootTable": {
+      "byCharacterRace": {
+        "gallente": 10274, 
+        "caldari": 10271, 
+        "amarr": 10273, 
+        "minmatar": 10272
+      }
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 528726, 
+        "description": "This crate has:"
+      }
+    }, 
+    "nameID": 528725, 
+    "name": "A3 Combat Gear"
+  }, 
+  "46268": {
+    "descriptionID": 528721, 
+    "typeID": 46268, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 528723, 
+        "description": "This crate has:"
+      }
+    }, 
+    "nameID": 528722, 
+    "name": "A3 Industrial Gear"
+  }, 
+  "45679": {
+    "descriptionID": 526758, 
+    "typeID": 45679, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This armored and electromagnetically hardened data cache is normally integrated into the Blood Raider Covenant's shipyard facilities, providing a high level of security and protection from corruption while building Dagon-class Force Auxiliaries.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the Dagon blueprint data recovered.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 526764, 
+        "description": ""
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 526759, 
+    "name": "Blood Raider Dagon Blueprint Armored Cache"
+  }, 
+  "45678": {
+    "descriptionID": 526756, 
+    "typeID": 45678, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This armored and electromagnetically hardened data cache is normally integrated into the Blood Raider Covenant's shipyard facilities, providing a high level of security and protection from corruption while building Chemosh-class Dreadnoughts.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the Chemosh blueprint data recovered.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 526763, 
+        "description": ""
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 526757, 
+    "name": "Blood Raider Chemosh Blueprint Armored Cache"
+  }, 
+  "45996": {
+    "descriptionID": 527157, 
+    "typeID": 45996, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This is a reward from CONCORD's Project Discovery for participating in their Exoplanets Hunter program.<br><br>This container is hermetically sealed with an electronic locking mechanism, ensuring preservation of its contents in a variety of environments.<br><br>Compromising the seal will cause the container to fully disintegrate while giving access to the items it holds.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/ProjectDiscovery.png", 
+      "width": 512, 
+      "height": 400
+    }, 
+    "nameID": 527158, 
+    "name": "Exoplanets Hunter Reward Crate"
+  }, 
+  "48928": {
+    "descriptionID": 541093, 
+    "typeID": 48928, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This contains 1x 'Subverted' JVN-UC49 Blueprint. It guarantees tampering with the blueprint and enables it to be traded on the market, even though it is just a copy with 5 runs.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 541095, 
+        "description": ""
+      }
+    }, 
+    "nameID": 541094, 
+    "name": "'Subverted' JVN-UC49 Blueprint Crate"
+  }, 
+  "47154": {
+    "descriptionID": 531493, 
+    "typeID": 47154, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "Galaxy Pack - Spectral contains a spectacular selection of valuable and attractive items for all galactic explorers.\r\n\r\nThis special delivery crate includes:\r\n\r\nTwo Multiple Pilot Training Certificates\r\nFive Skill Extractors\r\nSpectral Shift SKINs for SOE ships\r\nA Men's SOE Expeditionary Suit\r\nA Women's SOE Expeditionary Suit", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531763, 
+        "description": "The Galaxy Pack contains:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSGold.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 531494, 
+    "name": "Galaxy Pack - Spectral"
+  }, 
+  "43688": {
+    "descriptionID": 522088, 
+    "typeID": 43688, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522089, 
+    "name": "Astral Mining Inc. Strong Box"
+  }, 
+  "43689": {
+    "descriptionID": 522090, 
+    "typeID": 43689, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522091, 
+    "name": "Material Acquisition Strong Box"
+  }, 
+  "43686": {
+    "descriptionID": 522084, 
+    "typeID": 43686, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522085, 
+    "name": "Poksu Mineral Group Strong Box"
+  }, 
+  "43687": {
+    "descriptionID": 522086, 
+    "typeID": 43687, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522087, 
+    "name": "Minedrill Strong Box"
+  }, 
+  "43684": {
+    "descriptionID": 522080, 
+    "typeID": 43684, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522081, 
+    "name": "HZO Refinery Strong Box"
+  }, 
+  "43685": {
+    "descriptionID": 522082, 
+    "typeID": 43685, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522083, 
+    "name": "Deep Core Mining Inc. Strong Box"
+  }, 
+  "43682": {
+    "descriptionID": 522043, 
+    "typeID": 43682, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522044, 
+    "name": "Ducia Foundry Strong Box"
+  }, 
+  "43683": {
+    "descriptionID": 522078, 
+    "typeID": 43683, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522079, 
+    "name": "Joint Harvesting Strong Box"
+  }, 
+  "42229": {
+    "descriptionID": 517738, 
+    "typeID": 42229, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "You have been rewarded by the Scope Network.<br><br>This meticulously constructed Ouroboros container is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.<br><br>However, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.<br><br>Despite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSBronze.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 517734, 
+    "name": "Copper Ouroboros"
+  }, 
+  "46151": {
+    "descriptionID": 528616, 
+    "typeID": 46151, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "The Independent Gaming Commission has issued suits specially designed to endure most environments.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 529067, 
+        "description": "This crate contains:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 528617, 
+    "name": "IGC Garment Keeper"
+  }, 
+  "47482": {
+    "descriptionID": 534410, 
+    "typeID": 47482, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This CONCORD Directive Intelligence Agency supply crate contains nanocoatings useful in carrying out military training training exercises where one side takes the role of Blueforce and the other the role of Redforce.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 534412, 
+        "description": "This crate contains SKIN Licenses."
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 534411, 
+    "name": "CDIA Training Exercise Supply Crate"
+  }, 
+  "46469": {
+    "descriptionID": 529694, 
+    "typeID": 46469, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your selfless and remarkable actions on behalf of the Federal Strategic Materiel corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateGallente.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Gallente.webm", 
+      "width": 1280, 
+      "height": 7
+    }, 
+    "nameID": 529695, 
+    "name": "Federal Strategic Materiel Package 5"
+  }, 
+  "46468": {
+    "descriptionID": 529692, 
+    "typeID": 46468, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your selfless and remarkable actions on behalf of the Federal Strategic Materiel corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530404, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_GallenteMegathron.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Gallente.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529693, 
+    "name": "Megathron Federal Strategic Materiel Pack"
+  }, 
+  "46465": {
+    "descriptionID": 529684, 
+    "typeID": 46465, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your swift and decisive actions on behalf of the State Military Stockpile corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateCaldari.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Caldari.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529685, 
+    "name": "State Military Stockpile Package 10"
+  }, 
+  "46464": {
+    "descriptionID": 529682, 
+    "typeID": 46464, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your swift and decisive actions on behalf of the State Military Stockpile corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateCaldari.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Caldari.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529683, 
+    "name": "State Military Stockpile Package 9"
+  }, 
+  "46467": {
+    "descriptionID": 529690, 
+    "typeID": 46467, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your selfless and remarkable actions on behalf of the Federal Strategic Materiel corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530403, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_GallenteBrutix.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Gallente.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529691, 
+    "name": "Brutix Federal Strategic Materiel Pack"
+  }, 
+  "46466": {
+    "descriptionID": 529688, 
+    "typeID": 46466, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your selfless and remarkable actions on behalf of the Federal Strategic Materiel corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530402, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_GallenteThorax.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Gallente.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529689, 
+    "name": "Thorax Federal Strategic Materiel Pack"
+  }, 
+  "46461": {
+    "descriptionID": 529676, 
+    "typeID": 46461, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your swift and decisive actions on behalf of the State Military Stockpile corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateCaldari.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Caldari.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529677, 
+    "name": "State Military Stockpile Package 6"
+  }, 
+  "46460": {
+    "descriptionID": 529674, 
+    "typeID": 46460, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your swift and decisive actions on behalf of the State Military Stockpile corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateCaldari.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Caldari.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529675, 
+    "name": "State Military Stockpile Package 5"
+  }, 
+  "46463": {
+    "descriptionID": 529680, 
+    "typeID": 46463, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your swift and decisive actions on behalf of the State Military Stockpile corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateCaldari.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Caldari.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529681, 
+    "name": "State Military Stockpile Package 8"
+  }, 
+  "46462": {
+    "descriptionID": 529678, 
+    "typeID": 46462, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your swift and decisive actions on behalf of the State Military Stockpile corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateCaldari.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Caldari.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529679, 
+    "name": "State Military Stockpile Package 7"
+  }, 
+  "48642": {
+    "descriptionID": 539491, 
+    "typeID": 48642, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This mutaplasmid repository contains an Unstable Mutaplasmid that has been experimentally adapted for use with armor repairers or shield boosters of the 'Ancillary' type. Whoever is behind the experimentation program with mutaplasmids appears to have successfully applied Triglavian biotechnology to variants of defensive systems only developed recently in New Eden.\r\n\r\nThis repository contains one random selection of the following:\r\n<url=showinfo:47841>Unstable Small Ancillary Armor Repairer Mutaplasmid</url>\r\n<url=showinfo:47843>Unstable Medium Ancillary Armor Repairer Mutaplasmid</url>\r\n<url=showinfo:47845>Unstable Large Ancillary Armor Repairer Mutaplasmid</url>\r\n<url=showinfo:47835>Unstable Medium Ancillary Shield Booster Mutaplasmid</url>\r\n<url=showinfo:47837>Unstable Large Ancillary Shield Booster Mutaplasmid</url>\r\n<url=showinfo:47839>Unstable X-Large Ancillary Shield Booster Mutaplasmid</url>", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 539493, 
+        "description": "This contains one randomly selected Unstable Mutaplasmid for Ancillary Armor Repairers or Ancillary Shield Boosters."
+      }
+    }, 
+    "nameID": 539492, 
+    "name": "Experimental Mutaplasmid Repository"
+  }, 
+  "42230": {
+    "descriptionID": 517737, 
+    "typeID": 42230, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "You have been rewarded by the Scope Network.<br><br>This meticulously constructed Ouroboros container is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.<br><br>However, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.<br><br>Despite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 517732, 
+    "name": "Silver Ouroboros"
+  }, 
+  "42231": {
+    "descriptionID": 517736, 
+    "typeID": 42231, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "You have been rewarded by the Scope Network.<br><br>This meticulously constructed Ouroboros container is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.<br><br>However, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.<br><br>Despite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSGold.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "color": [
+        1.0, 
+        1.0, 
+        1.0, 
+        1.0
+      ], 
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashBGLoop.webm", 
+      "height": 720, 
+      "width": 1280
+    }, 
+    "nameID": 517735, 
+    "name": "Gold Ouroboros"
+  }, 
+  "46381": {
+    "descriptionID": 529447, 
+    "typeID": 46381, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This support drop contains one dose of a random Agency booster compound. It has a chance to contain one of the following:\r\n\r\nAgency 'Hardshell' TB3 Dose I\r\nAgency 'Hardshell' TB5 Dose II\r\nAgency 'Hardshell' TB7 Dose III\r\nAgency 'Overclocker' SB3 Dose I\r\nAgency 'Overclocker' SB5 Dose II\r\nAgency 'Overclocker' SB7 Dose III\r\nAgency 'Pyrolancea' DB3 Dose I\r\nAgency 'Pyrolancea' DB5 Dose II\r\nAgency 'Pyrolancea' DB7 Dose III", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 529449, 
+        "description": "This support drop contains one dose of a random Agency booster compound. It has a chance to contain one of the following:\r\n\r\nAgency 'Hardshell' TB3 Dose I\r\nAgency 'Hardshell' TB5 Dose II\r\nAgency 'Hardshell' TB7 Dose III\r\nAgency 'Overclocker' SB3 Dose I\r\nAgency 'Overclocker' SB5 Dose II\r\nAgency 'Overclocker' SB7 Dose III\r\nAgency 'Pyrolancea' DB3 Dose I\r\nAgency 'Pyrolancea' DB5 Dose II\r\nAgency 'Pyrolancea' DB7 Dose III"
+      }
+    }, 
+    "nameID": 529448, 
+    "name": "Agency Support Drop"
+  }, 
+  "47963": {
+    "descriptionID": 536162, 
+    "typeID": 47963, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "The XV Anniversary Gift Box was created by the Society of Conscious Thought to commemorate 15 years of Capsuleers in New Eden. This box contains the following:\r\n\r\n1x <a href=showinfo:29266>Apotheosis</a>\r\n1x <a href=showinfo:42685>Sunesis</a>\r\n1x <a href=showinfo:3756>Gnosis</a>\r\n1x <a href=showinfo:47466>Praxis</a>\r\n1x <a href=showinfo:44265>Wings of Victory Firework</a>\r\n1x <a href=showinfo:47190>Men's Capsuleer Elite XV T-Shirt</a>\r\n1x <a href=showinfo:47191>Men's Capsuleer Elite XV Cap</a>\r\n1x <a href=showinfo:47192>Women's Capsuleer Elite XV T-Shirt</a>\r\n1x <a href=showinfo:47193>Women's Capsuleer Elite XV Cap</a>\r\n1x <a href=showinfo:47647>Apotheosis Capsuleer Elite XV SKIN (Permanent)</a>\r\n1x <a href=showinfo:47648>Sunesis Capsuleer Elite XV SKIN (Permanent)</a>\r\n1x <a href=showinfo:47649>Gnosis Capsuleer Elite XV SKIN (Permanent)</a>\r\n1x <a href=showinfo:47650>Praxis Capsuleer Elite XV SKIN (Permanent)</a>\r\n1x <a href=showinfo:47651>Capsule Capsuleer Elite XV SKIN (Permanent)</a>", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 536164, 
+        "description": "The XV Anniversary Gift Box commemorates 15 years of Capsuleers in New Eden."
+      }
+    }, 
+    "nameID": 536163, 
+    "name": "XV Anniversary Gift Box (Omega)"
+  }, 
+  "47962": {
+    "descriptionID": 536159, 
+    "typeID": 47962, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "The XV Anniversary Gift Box was created by the Society of Conscious Thought to commemorate 15 years of Capsuleers in New Eden. This box contains the following:\r\n\r\n1x <a href=showinfo:29266>Apotheosis</a>\r\n1x <a href=showinfo:44265>Wings of Victory Firework</a>\r\n1x <a href=showinfo:47190>Men's Capsuleer Elite XV T-Shirt</a>\r\n1x <a href=showinfo:47191>Men's Capsuleer Elite XV Cap</a>\r\n1x <a href=showinfo:47192>Women's Capsuleer Elite XV T-Shirt</a>\r\n1x <a href=showinfo:47193>Women's Capsuleer Elite XV Cap</a>\r\n1x <a href=showinfo:47647>Apotheosis Capsuleer Elite XV SKIN (Permanent)</a>\r\n1x <a href=showinfo:47651>Capsule Capsuleer Elite XV SKIN (Permanent)</a>", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 536161, 
+        "description": "The XV Anniversary Gift Box commemorates 15 years of Capsuleers in New Eden. "
+      }
+    }, 
+    "nameID": 536160, 
+    "name": "XV Anniversary Gift Box (Alpha)"
+  }, 
+  "47961": {
+    "descriptionID": 536156, 
+    "typeID": 47961, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This palm-sized capsule contains a single 'Core Augmentation' implant. Some speculation about the age of the containers suggests that Genolution may have kept these to be given out at a later time, however there is no doubt that the contents have been well-protected.\r\n\r\nThis randomly contains one of the following four implants:\r\n<a href=showinfo:2053>Genolution Core Augmentation CA-1</a>\r\n<a href=showinfo:2589>Genolution Core Augmentation CA-2</a>\r\n<a href=showinfo:33393>Genolution Core Augmentation CA-3</a>\r\n<a href=showinfo:33394>Genolution Core Augmentation CA-4</a>", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 536158, 
+        "description": "This contains one randomly selected implant."
+      }
+    }, 
+    "nameID": 536157, 
+    "name": "Genolution CA-X"
+  }, 
+  "47253": {
+    "descriptionID": 531771, 
+    "typeID": 47253, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "Galaxy Pack - Crystal contains a spectacular selection of valuable and attractive items for all galactic explorers.\r\n\r\nThis special delivery crate includes:\r\n\r\nTwo Multiple Pilot Training Certificates\r\nFive Skill Extractors\r\nCrystal Blast SKINs for SOE ships\r\nA Men's SOE Expeditionary Suit\r\nA Women's SOE Expeditionary Suit", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531773, 
+        "description": "The Galaxy Pack contains:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSGold.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 531772, 
+    "name": "Galaxy Pack - Crystal"
+  }, 
+  "46602": {
+    "descriptionID": 530127, 
+    "typeID": 46602, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This armored and electromagnetically hardened data cache is normally integrated into the Guristas shipyard facilities, providing a high level of security and protection from corruption while building Caiman-class Dreadnoughts.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the Caiman blueprint data recovered.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530132, 
+        "description": ""
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 530128, 
+    "name": "Guristas Caiman Blueprint Armored Cache"
+  }, 
+  "46478": {
+    "descriptionID": 529714, 
+    "typeID": 46478, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your fierce and loyal actions on behalf of the Republic Fleet Ordnance corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateMinmatar.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Minmatar.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529715, 
+    "name": "Republic Fleet Ordnance Package 5"
+  }, 
+  "46479": {
+    "descriptionID": 529716, 
+    "typeID": 46479, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your fierce and loyal actions on behalf of the Republic Fleet Ordnance corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateMinmatar.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Minmatar.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529717, 
+    "name": "Republic Fleet Ordnance Package 6"
+  }, 
+  "46476": {
+    "descriptionID": 529710, 
+    "typeID": 46476, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your fierce and loyal actions on behalf of the Republic Fleet Ordnance corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530407, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_MinmatarHurricane.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Minmatar.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529711, 
+    "name": "Hurricane Republic Fleet Ordnance Pack"
+  }, 
+  "46477": {
+    "descriptionID": 529712, 
+    "typeID": 46477, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your fierce and loyal actions on behalf of the Republic Fleet Ordnance corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530408, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_MinmatarTempest.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Minmatar.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529713, 
+    "name": "Tempest Republic Fleet Ordnance Pack"
+  }, 
+  "46474": {
+    "descriptionID": 529704, 
+    "typeID": 46474, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your selfless and remarkable actions on behalf of the Federal Strategic Materiel corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateGallente.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Gallente.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529705, 
+    "name": "Federal Strategic Materiel Package 10"
+  }, 
+  "46475": {
+    "descriptionID": 529708, 
+    "typeID": 46475, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your fierce and loyal actions on behalf of the Republic Fleet Ordnance corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530406, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_MinmatarRupture.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Minmatar.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529709, 
+    "name": "Rupture Republic Fleet Ordnance Pack"
+  }, 
+  "46472": {
+    "descriptionID": 529700, 
+    "typeID": 46472, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your selfless and remarkable actions on behalf of the Federal Strategic Materiel corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateGallente.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Gallente.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529701, 
+    "name": "Federal Strategic Materiel Package 8"
+  }, 
+  "46473": {
+    "descriptionID": 529702, 
+    "typeID": 46473, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your selfless and remarkable actions on behalf of the Federal Strategic Materiel corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateGallente.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Gallente.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529703, 
+    "name": "Federal Strategic Materiel Package 9"
+  }, 
+  "46470": {
+    "descriptionID": 529696, 
+    "typeID": 46470, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your selfless and remarkable actions on behalf of the Federal Strategic Materiel corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateGallente.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Gallente.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529697, 
+    "name": "Federal Strategic Materiel Package 6"
+  }, 
+  "46471": {
+    "descriptionID": 529698, 
+    "typeID": 46471, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your selfless and remarkable actions on behalf of the Federal Strategic Materiel corporation.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/crateGallente.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Gallente.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529699, 
+    "name": "Federal Strategic Materiel Package 7"
+  }, 
+  "49709": {
+    "descriptionID": 543131, 
+    "typeID": 49709, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This sealed containment crate holds a Fierce Abyssal Filament of a random weather type that can transport you to an Abyssal Deadspace pocket.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543133, 
+        "description": ""
+      }
+    }, 
+    "nameID": 543132, 
+    "name": "Fierce Abyssal Filaments Crate"
+  }, 
+  "46603": {
+    "descriptionID": 530129, 
+    "typeID": 46603, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This armored and electromagnetically hardened data cache is normally integrated into the Guristas shipyard facilities, providing a high level of security and protection from corruption while building Komodo-class Titans.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the Komodo blueprint data recovered.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530133, 
+        "description": ""
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 530130, 
+    "name": "Guristas Komodo Blueprint Armored Cache"
+  }, 
+  "49705": {
+    "descriptionID": 543120, 
+    "typeID": 49705, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This container contains a special gift set of female and male versions of the 'Domino Turqoise' Facial Augmentation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543125, 
+        "description": ""
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/Icons/Inventory/FacialAugmentsPackBlue.png", 
+      "width": 375, 
+      "height": 300
+    }, 
+    "nameID": 543121, 
+    "name": "'Domino Turqoise' Augmentation Crate"
+  }, 
+  "49706": {
+    "descriptionID": 543122, 
+    "typeID": 49706, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This container contains a special gift set of female and male versions of the 'Eico Flamjaw' Facial Augmentation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543124, 
+        "description": ""
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/Icons/Inventory/FacialAugmentsPackOrange.png", 
+      "width": 375, 
+      "height": 300
+    }, 
+    "nameID": 543123, 
+    "name": "'Eico Flamjaw' Augmentation Crate"
+  }, 
+  "49419": {
+    "descriptionID": 542438, 
+    "typeID": 49419, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "Contains a 3 run BPC for the November Module", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543021, 
+        "description": ""
+      }
+    }, 
+    "nameID": 542439, 
+    "name": "November Module BPC Crate"
+  }, 
+  "46579": {
+    "descriptionID": 529910, 
+    "typeID": 46579, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This armored and electromagnetically hardened data cache is normally integrated into the Blood Raider facilities, providing a high level of security and protection from corruption.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the blueprint data recovered.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 529915, 
+        "description": ""
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/SOTSSilver.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 529911, 
+    "name": "Blood Raider Standup Module Blueprint Armored Cache"
+  }, 
+  "46449": {
+    "descriptionID": 529650, 
+    "typeID": 46449, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your just and righteous actions on behalf of the Imperial War Reserves corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530395, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_AmarrHarbinger.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Amarr.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529651, 
+    "name": "Harbinger Imperial War Reserves Pack"
+  }, 
+  "46448": {
+    "descriptionID": 529648, 
+    "typeID": 46448, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your just and righteous actions on behalf of the Imperial War Reserves corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530394, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_AmarrOmen.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Amarr.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529649, 
+    "name": "Omen Imperial War Reserves Pack"
+  }, 
+  "46447": {
+    "descriptionID": 529706, 
+    "typeID": 46447, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your fierce and loyal actions on behalf of the Republic Fleet Ordnance corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530405, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_MinmatarRifter.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Minmatar.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529707, 
+    "name": "Rifter Republic Fleet Ordnance Pack"
+  }, 
+  "46446": {
+    "descriptionID": 529686, 
+    "typeID": 46446, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your selfless and remarkable actions on behalf of the Federal Strategic Materiel corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530401, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_GallenteIncursus.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Gallente.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529687, 
+    "name": "Incursus Federal Strategic Materiel Pack"
+  }, 
+  "46445": {
+    "descriptionID": 529666, 
+    "typeID": 46445, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your swift and decisive actions on behalf of the State Military Stockpile corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530397, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_CaldariMerlin.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Caldari.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529667, 
+    "name": "Merlin State Military Stockpile Pack"
+  }, 
+  "46444": {
+    "descriptionID": 529646, 
+    "typeID": 46444, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your just and righteous actions on behalf of the Imperial War Reserves corporation.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 530393, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/resourceWars_AmarrPunisher.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "animatedSplash": {
+      "resPath": "res:/UI/Texture/classes/EmpireSelection/Flare_Amarr.webm", 
+      "width": 1280, 
+      "height": 720
+    }, 
+    "nameID": 529647, 
+    "name": "Punisher Imperial War Reserves Pack"
+  }, 
+  "49718": {
+    "descriptionID": 543356, 
+    "typeID": 49718, 
+    "lootTable": {
+      "byCharacterRace": {
+        "gallente": 10491, 
+        "caldari": 10477, 
+        "amarr": 10476, 
+        "minmatar": 10480
+      }
+    }, 
+    "description": "This military surplus crate contains a quantity of ammunition rated for medium weapons appropriate to your race.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543358, 
+        "description": ""
+      }
+    }, 
+    "nameID": 543357, 
+    "name": "Medium Navy Ammunition Crate"
+  }, 
+  "49719": {
+    "descriptionID": 543359, 
+    "typeID": 49719, 
+    "lootTable": {
+      "byCharacterRace": {
+        "gallente": 10492, 
+        "caldari": 10482, 
+        "amarr": 10481, 
+        "minmatar": 10483
+      }
+    }, 
+    "description": "This crate from the black market in military supplies contains a quantity of ammunition rated for medium weapons appropriate to your race.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543361, 
+        "description": "Contains ammunition appropriate for your character's race."
+      }
+    }, 
+    "nameID": 543360, 
+    "name": "Medium Faction Ammunition Crate"
+  }, 
+  "46771": {
+    "descriptionID": 531235, 
+    "typeID": 46771, 
+    "lootTable": {
+      "byCharacterRace": {
+        "gallente": 10348, 
+        "caldari": 10347, 
+        "amarr": 10346, 
+        "minmatar": 10349
+      }
+    }, 
+    "description": "To support their general efforts to build up capsuleer capabilities the core empires have sponsored operations against emergent threats through the Agency's Arms Race program.\r\n\r\nThis special one-shot assembler contains nanite feedstock, templates and a dedicated processor that will build a standard battlecruiser when activated.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531237, 
+        "description": "This contains a skill book and a ship: Battlecruiser."
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 531236, 
+    "name": "Arms Race Battlecruiser Assembler"
+  }, 
+  "46772": {
+    "descriptionID": 531239, 
+    "typeID": 46772, 
+    "lootTable": {
+      "byCharacterRace": {
+        "gallente": 10352, 
+        "caldari": 10351, 
+        "amarr": 10350, 
+        "minmatar": 10353
+      }
+    }, 
+    "description": "To support their general efforts to build up capsuleer capabilities the core empires have sponsored operations against emergent threats through the Agency's Arms Race program.\r\n\r\nThis special one-shot assembler contains nanite feedstock, templates and a dedicated processor that will build a standard battleship when activated.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531241, 
+        "description": "This contains a skill book and a ship: Battleship."
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 531240, 
+    "name": "Arms Race Battleship Assembler"
+  }, 
+  "43930": {
+    "descriptionID": 522559, 
+    "typeID": 43930, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your just and righteous actions on behalf of the Amarr Empire.\r\n\r\nThis meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 532603, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/empireReward_Amarr.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522560, 
+    "name": "Amarr Inception Package"
+  }, 
+  "43931": {
+    "descriptionID": 522561, 
+    "typeID": 43931, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your swift and decisive actions on behalf of the Caldari State.\r\n\r\nThis meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 532604, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/empireReward_Caldari.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522562, 
+    "name": "Caldari Inception Package"
+  }, 
+  "43932": {
+    "descriptionID": 522563, 
+    "typeID": 43932, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your selfless and remarkable actions on behalf of the Gallente Federation.\r\n\r\nThis meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 532605, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/empireReward_Gallente.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522564, 
+    "name": "Gallente Inception Package"
+  }, 
+  "43933": {
+    "descriptionID": 522565, 
+    "typeID": 43933, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This package has been awarded for your fierce and loyal actions on behalf of the Minmatar Republic.\r\n\r\nThis meticulously constructed strong box is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.\r\n\r\nHowever, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.\r\n\r\nDespite that, the integrity of the items held within is retained, keeping them safe for future use.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 532606, 
+        "description": "Items:"
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/empireReward_Minmatar.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 522566, 
+    "name": "Minmatar Inception Package"
+  }, 
+  "48535": {
+    "descriptionID": 538762, 
+    "typeID": 48535, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 538764, 
+        "description": ""
+      }
+    }, 
+    "nameID": 538763, 
+    "name": "Republic Silver Crate"
+  }, 
+  "48534": {
+    "descriptionID": 538759, 
+    "typeID": 48534, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 538761, 
+        "description": ""
+      }
+    }, 
+    "nameID": 538760, 
+    "name": "Republic Bronze Crate"
+  }, 
+  "48536": {
+    "descriptionID": 538765, 
+    "typeID": 48536, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 538767, 
+        "description": ""
+      }
+    }, 
+    "nameID": 538766, 
+    "name": "Republic Gold Crate"
+  }, 
+  "48531": {
+    "descriptionID": 538750, 
+    "typeID": 48531, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 538752, 
+        "description": ""
+      }
+    }, 
+    "nameID": 538751, 
+    "name": "Frigate SKIN Crate"
+  }, 
+  "48533": {
+    "descriptionID": 538756, 
+    "typeID": 48533, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 538758, 
+        "description": ""
+      }
+    }, 
+    "nameID": 538757, 
+    "name": "Battleship SKIN Crate"
+  }, 
+  "48532": {
+    "descriptionID": 538753, 
+    "typeID": 48532, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 538755, 
+        "description": ""
+      }
+    }, 
+    "nameID": 538754, 
+    "name": "Cruiser SKIN Crate"
+  }, 
+  "46050": {
+    "descriptionID": 528335, 
+    "typeID": 46050, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This is a reward from CONCORD's Project Discovery for participating in their Exoplanets Hunter program.<br><br>This container is hermetically sealed with an electronic locking mechanism, ensuring preservation of its contents in a variety of environments.<br><br>Compromising the seal will cause the container to fully disintegrate while giving access to the items it holds.", 
+    "lootPresentation": {
+      "hacking": {}
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/ProjectDiscovery.png", 
+      "width": 512, 
+      "height": 400
+    }, 
+    "nameID": 528336, 
+    "name": "Superior Exoplanets Hunter Reward Crate"
+  }, 
+  "46766": {
+    "descriptionID": 531012, 
+    "typeID": 46766, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This festival box has a chance to contain a Glacial Drift SKIN in celebration of the Yoiul Festival.\r\n\r\nCelebrate the ending of one year and the start of a new one by wearing the Glacial Drift SKIN!", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 531238, 
+        "description": "This contains a Glacial Drift SKIN."
+      }
+    }, 
+    "staticSplash": {
+      "resPath": "res:/UI/Texture/classes/ItemPacks/SplashImages/holidayCrate.png", 
+      "width": 512, 
+      "height": 512
+    }, 
+    "nameID": 531013, 
+    "name": "Glacial Drift Festival Box"
+  }, 
+  "49708": {
+    "descriptionID": 543128, 
+    "typeID": 49708, 
+    "lootTable": {
+      "byType": {}
+    }, 
+    "description": "This sealed containment crate holds a Calm Abyssal Filament of a random weather type that can transport you to an Abyssal Deadspace pocket.", 
+    "lootPresentation": {
+      "fixed": {
+        "descriptionID": 543130, 
+        "description": ""
+      }
+    }, 
+    "nameID": 543129, 
+    "name": "Calm Abyssal Filaments Crate"
+  }
+}

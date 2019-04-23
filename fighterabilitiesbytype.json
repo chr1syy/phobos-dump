@@ -1,0 +1,1130 @@
+{
+  "40346": {
+    "abilitySlot0": {
+      "abilityID": 10
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40347": {
+    "abilitySlot0": {
+      "abilityID": 2
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40555": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 30
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40345": {
+    "abilitySlot0": {
+      "abilityID": 12
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40553": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 32
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40552": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 29
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40556": {
+    "abilitySlot2": {
+      "abilityID": 33, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 22
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40559": {
+    "abilitySlot2": {
+      "abilityID": 36, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 26
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40558": {
+    "abilitySlot2": {
+      "abilityID": 34, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 24
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47123": {
+    "abilitySlot2": {
+      "abilityID": 38
+    }, 
+    "abilitySlot0": {
+      "abilityID": 22
+    }, 
+    "abilitySlot1": {
+      "abilityID": 9, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47122": {
+    "abilitySlot2": {
+      "abilityID": 21, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 26
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47121": {
+    "abilitySlot2": {
+      "abilityID": 19, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 24
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40554": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 31
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47127": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 3, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 23
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "47126": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 2, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 25
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "47125": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 2, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 45
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "47124": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 2, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 23
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "47129": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 3, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 25
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "47128": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 3, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 45
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "47150": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 30
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47151": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 32
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40557": {
+    "abilitySlot2": {
+      "abilityID": 35, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 44
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47130": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 3, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 27
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "47131": {
+    "abilitySlot0": {
+      "abilityID": 11
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "37599": {
+    "abilitySlot0": {
+      "abilityID": 11
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47118": {
+    "abilitySlot2": {
+      "abilityID": 21, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 26
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40565": {
+    "abilitySlot2": {
+      "abilityID": 21, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 26
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47035": {
+    "abilitySlot2": {
+      "abilityID": 33, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4.0
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 22
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60.0
+    }
+  }, 
+  "32342": {
+    "abilitySlot2": {
+      "abilityID": 21, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 26
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47037": {
+    "abilitySlot0": {
+      "abilityID": 10
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60.0
+    }
+  }, 
+  "47036": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 32
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60.0
+    }
+  }, 
+  "47138": {
+    "abilitySlot2": {
+      "abilityID": 35, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 44
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47139": {
+    "abilitySlot2": {
+      "abilityID": 34, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 24
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "32344": {
+    "abilitySlot2": {
+      "abilityID": 20, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 44
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47134": {
+    "abilitySlot0": {
+      "abilityID": 11
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47135": {
+    "abilitySlot0": {
+      "abilityID": 12
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47136": {
+    "abilitySlot0": {
+      "abilityID": 10
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47137": {
+    "abilitySlot0": {
+      "abilityID": 2
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47039": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 2, 
+        "rearmTimeSeconds": 20.0
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 27
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90.0
+    }
+  }, 
+  "47038": {
+    "abilitySlot2": {
+      "abilityID": 20, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6.0
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 44
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60.0
+    }
+  }, 
+  "47132": {
+    "abilitySlot0": {
+      "abilityID": 12
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47133": {
+    "abilitySlot0": {
+      "abilityID": 2
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47148": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 29
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47120": {
+    "abilitySlot2": {
+      "abilityID": 20, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 44
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40364": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 2, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 25
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "40365": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 2, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 27
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "40360": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 30
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40361": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 32
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40362": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 2, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 23
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "40363": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 2, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 45
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "47149": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 31
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40571": {
+    "abilitySlot0": {
+      "abilityID": 2
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "2948": {
+    "abilitySlot2": {
+      "abilityID": 38
+    }, 
+    "abilitySlot0": {
+      "abilityID": 22
+    }, 
+    "abilitySlot1": {
+      "abilityID": 9, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47141": {
+    "abilitySlot2": {
+      "abilityID": 33, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 22
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40570": {
+    "abilitySlot0": {
+      "abilityID": 10
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47143": {
+    "abilitySlot2": {
+      "abilityID": 34, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 24
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47142": {
+    "abilitySlot2": {
+      "abilityID": 35, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 44
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47145": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 29
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47144": {
+    "abilitySlot2": {
+      "abilityID": 36, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 26
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47147": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 30
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47146": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 31
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "23059": {
+    "abilitySlot2": {
+      "abilityID": 34, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 24
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "23055": {
+    "abilitySlot2": {
+      "abilityID": 33, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 22
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "23057": {
+    "abilitySlot2": {
+      "abilityID": 35, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 44
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40359": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 31
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40358": {
+    "abilitySlot2": {
+      "abilityID": 16
+    }, 
+    "abilitySlot0": {
+      "abilityID": 29
+    }, 
+    "abilitySlot1": {
+      "abilityID": 13, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47116": {
+    "abilitySlot2": {
+      "abilityID": 18, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 22
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47117": {
+    "abilitySlot2": {
+      "abilityID": 19, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 24
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40568": {
+    "abilitySlot0": {
+      "abilityID": 11
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40569": {
+    "abilitySlot0": {
+      "abilityID": 12
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "47140": {
+    "abilitySlot2": {
+      "abilityID": 36, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 26
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40562": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 3, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 25
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "40563": {
+    "abilitySlot2": {
+      "abilityID": 19, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 24
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40560": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 3, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 23
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "40561": {
+    "abilitySlot2": {
+      "abilityID": 18, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 22
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "32325": {
+    "abilitySlot2": {
+      "abilityID": 19, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 24
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40567": {
+    "abilitySlot2": {
+      "abilityID": 20, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 44
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40564": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 3, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 27
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "47119": {
+    "abilitySlot2": {
+      "abilityID": 18, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 22
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "32340": {
+    "abilitySlot2": {
+      "abilityID": 18, 
+      "charges": {
+        "chargeCount": 6, 
+        "rearmTimeSeconds": 6
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 22
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }, 
+  "40566": {
+    "abilitySlot2": {
+      "abilityID": 7, 
+      "charges": {
+        "chargeCount": 3, 
+        "rearmTimeSeconds": 20
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 45
+    }, 
+    "abilitySlot1": {
+      "abilityID": 5, 
+      "cooldownSeconds": 90
+    }
+  }, 
+  "23061": {
+    "abilitySlot2": {
+      "abilityID": 36, 
+      "charges": {
+        "chargeCount": 12, 
+        "rearmTimeSeconds": 4
+      }
+    }, 
+    "abilitySlot0": {
+      "abilityID": 26
+    }, 
+    "abilitySlot1": {
+      "abilityID": 4, 
+      "cooldownSeconds": 60
+    }
+  }
+}

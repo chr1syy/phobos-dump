@@ -1,0 +1,38 @@
+[
+  {
+    "completedStatusTextID": 66850, 
+    "description": "", 
+    "completedStatus": 0, 
+    "completedStatusText": "Failed"
+  }, 
+  {
+    "completedStatusTextID": 66851, 
+    "description": "", 
+    "completedStatus": 1, 
+    "completedStatusText": "Delivered"
+  }, 
+  {
+    "completedStatusTextID": 66852, 
+    "description": "", 
+    "completedStatus": 2, 
+    "completedStatusText": "Aborted"
+  }, 
+  {
+    "completedStatusTextID": 66853, 
+    "description": "", 
+    "completedStatus": 3, 
+    "completedStatusText": "GM aborted"
+  }, 
+  {
+    "completedStatusTextID": 66854, 
+    "description": "", 
+    "completedStatus": 4, 
+    "completedStatusText": "Unanchored"
+  }, 
+  {
+    "completedStatusTextID": 66855, 
+    "description": "", 
+    "completedStatus": 5, 
+    "completedStatusText": "Destroyed"
+  }
+]

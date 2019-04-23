@@ -1,0 +1,478 @@
+[
+  {
+    "dataID": 66453381, 
+    "schematicID": 65, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66748, 
+    "schematicName": "Superconductors"
+  }, 
+  {
+    "dataID": 16547612, 
+    "schematicID": 66, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66711, 
+    "schematicName": "Coolant"
+  }, 
+  {
+    "dataID": 16547645, 
+    "schematicID": 67, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66744, 
+    "schematicName": "Rocket Fuel"
+  }, 
+  {
+    "dataID": 16547652, 
+    "schematicID": 68, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66751, 
+    "schematicName": "Synthetic Oil"
+  }, 
+  {
+    "dataID": 16547634, 
+    "schematicID": 69, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66733, 
+    "schematicName": "Oxides"
+  }, 
+  {
+    "dataID": 16547646, 
+    "schematicID": 70, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66745, 
+    "schematicName": "Silicate Glass"
+  }, 
+  {
+    "dataID": 16547657, 
+    "schematicID": 71, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66756, 
+    "schematicName": "Transmitter"
+  }, 
+  {
+    "dataID": 16547662, 
+    "schematicID": 72, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66761, 
+    "schematicName": "Water-Cooled CPU"
+  }, 
+  {
+    "dataID": 16547627, 
+    "schematicID": 73, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66726, 
+    "schematicName": "Mechanical Parts"
+  }, 
+  {
+    "dataID": 16547610, 
+    "schematicID": 74, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66709, 
+    "schematicName": "Construction Blocks"
+  }, 
+  {
+    "dataID": 16547616, 
+    "schematicID": 75, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66715, 
+    "schematicName": "Enriched Uranium"
+  }, 
+  {
+    "dataID": 16547611, 
+    "schematicID": 76, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66710, 
+    "schematicName": "Consumer Electronics"
+  }, 
+  {
+    "dataID": 16547629, 
+    "schematicID": 77, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66728, 
+    "schematicName": "Miniature Electronics"
+  }, 
+  {
+    "dataID": 16547630, 
+    "schematicID": 78, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66729, 
+    "schematicName": "Nanites"
+  }, 
+  {
+    "dataID": 16547603, 
+    "schematicID": 79, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66702, 
+    "schematicName": "Biocells"
+  }, 
+  {
+    "dataID": 16547628, 
+    "schematicID": 80, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66727, 
+    "schematicName": "Microfiber Shielding"
+  }, 
+  {
+    "dataID": 16547660, 
+    "schematicID": 81, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66759, 
+    "schematicName": "Viral Agent"
+  }, 
+  {
+    "dataID": 16547617, 
+    "schematicID": 82, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66716, 
+    "schematicName": "Fertilizer"
+  }, 
+  {
+    "dataID": 16547619, 
+    "schematicID": 83, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66718, 
+    "schematicName": "Genetically Enhanced Livestock"
+  }, 
+  {
+    "dataID": 16547626, 
+    "schematicID": 84, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66725, 
+    "schematicName": "Livestock"
+  }, 
+  {
+    "dataID": 16547640, 
+    "schematicID": 85, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66739, 
+    "schematicName": "Polytextiles"
+  }, 
+  {
+    "dataID": 16547654, 
+    "schematicID": 86, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66753, 
+    "schematicName": "Test Cultures"
+  }, 
+  {
+    "dataID": 16547651, 
+    "schematicID": 87, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66750, 
+    "schematicName": "Supertensile Plastics"
+  }, 
+  {
+    "dataID": 16547639, 
+    "schematicID": 88, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66738, 
+    "schematicName": "Polyaramids"
+  }, 
+  {
+    "dataID": 74309064, 
+    "schematicID": 89, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66757, 
+    "schematicName": "Ukomi Superconductor"
+  }, 
+  {
+    "dataID": 16547609, 
+    "schematicID": 90, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66708, 
+    "schematicName": "Condensates"
+  }, 
+  {
+    "dataID": 16547607, 
+    "schematicID": 91, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66706, 
+    "schematicName": "Camera Drones"
+  }, 
+  {
+    "dataID": 16547653, 
+    "schematicID": 92, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66752, 
+    "schematicName": "Synthetic Synapses"
+  }, 
+  {
+    "dataID": 16547623, 
+    "schematicID": 94, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66722, 
+    "schematicName": "High-Tech Transmitter"
+  }, 
+  {
+    "dataID": 16547618, 
+    "schematicID": 95, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66717, 
+    "schematicName": "Gel-Matrix Biopaste"
+  }, 
+  {
+    "dataID": 16547650, 
+    "schematicID": 96, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66749, 
+    "schematicName": "Supercomputers"
+  }, 
+  {
+    "dataID": 16547644, 
+    "schematicID": 97, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66743, 
+    "schematicName": "Robotics"
+  }, 
+  {
+    "dataID": 16547648, 
+    "schematicID": 98, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66747, 
+    "schematicName": "Smartfab Units"
+  }, 
+  {
+    "dataID": 16547633, 
+    "schematicID": 99, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66732, 
+    "schematicName": "Nuclear Reactors"
+  }, 
+  {
+    "dataID": 16547620, 
+    "schematicID": 100, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66719, 
+    "schematicName": "Guidance Systems"
+  }, 
+  {
+    "dataID": 16547632, 
+    "schematicID": 102, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66731, 
+    "schematicName": "Neocoms"
+  }, 
+  {
+    "dataID": 16547637, 
+    "schematicID": 103, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66736, 
+    "schematicName": "Planetary Vehicles"
+  }, 
+  {
+    "dataID": 16547606, 
+    "schematicID": 104, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66705, 
+    "schematicName": "Biotech Research Reports"
+  }, 
+  {
+    "dataID": 16547659, 
+    "schematicID": 105, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66758, 
+    "schematicName": "Vaccines"
+  }, 
+  {
+    "dataID": 16547624, 
+    "schematicID": 106, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66723, 
+    "schematicName": "Industrial Explosives"
+  }, 
+  {
+    "dataID": 16547622, 
+    "schematicID": 107, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66721, 
+    "schematicName": "Hermetic Membranes"
+  }, 
+  {
+    "dataID": 16547656, 
+    "schematicID": 108, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66755, 
+    "schematicName": "Transcranial Microcontroller"
+  }, 
+  {
+    "dataID": 16547614, 
+    "schematicID": 109, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66713, 
+    "schematicName": "Data Chips"
+  }, 
+  {
+    "dataID": 16547621, 
+    "schematicID": 110, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66720, 
+    "schematicName": "Hazmat Detection Systems"
+  }, 
+  {
+    "dataID": 16547613, 
+    "schematicID": 111, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66712, 
+    "schematicName": "Cryoprotectant Solution"
+  }, 
+  {
+    "dataID": 16547666, 
+    "schematicID": 112, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66765, 
+    "schematicName": "Organic Mortar Applicators"
+  }, 
+  {
+    "dataID": 16547669, 
+    "schematicID": 113, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66768, 
+    "schematicName": "Sterile Conduits"
+  }, 
+  {
+    "dataID": 16547631, 
+    "schematicID": 114, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66730, 
+    "schematicName": "Nano-Factory"
+  }, 
+  {
+    "dataID": 16547668, 
+    "schematicID": 115, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66767, 
+    "schematicName": "Self-Harmonizing Power Core"
+  }, 
+  {
+    "dataID": 16547667, 
+    "schematicID": 116, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66766, 
+    "schematicName": "Recursive Computing Module"
+  }, 
+  {
+    "dataID": 16547664, 
+    "schematicID": 117, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66763, 
+    "schematicName": "Broadcast Node"
+  }, 
+  {
+    "dataID": 16547665, 
+    "schematicID": 118, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66764, 
+    "schematicName": "Integrity Response Drones"
+  }, 
+  {
+    "dataID": 16547663, 
+    "schematicID": 119, 
+    "cycleTime": 3600, 
+    "schematicNameID": 66762, 
+    "schematicName": "Wetware Mainframe"
+  }, 
+  {
+    "dataID": 16547661, 
+    "schematicID": 121, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66760, 
+    "schematicName": "Water"
+  }, 
+  {
+    "dataID": 16547638, 
+    "schematicID": 122, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66737, 
+    "schematicName": "Plasmoids"
+  }, 
+  {
+    "dataID": 16547615, 
+    "schematicID": 123, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66714, 
+    "schematicName": "Electrolytes"
+  }, 
+  {
+    "dataID": 16547636, 
+    "schematicID": 124, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66735, 
+    "schematicName": "Oxygen"
+  }, 
+  {
+    "dataID": 16547635, 
+    "schematicID": 125, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66734, 
+    "schematicName": "Oxidizing Compound"
+  }, 
+  {
+    "dataID": 16547643, 
+    "schematicID": 126, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66742, 
+    "schematicName": "Reactive Metals"
+  }, 
+  {
+    "dataID": 16547641, 
+    "schematicID": 127, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66740, 
+    "schematicName": "Precious Metals"
+  }, 
+  {
+    "dataID": 16547655, 
+    "schematicID": 128, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66754, 
+    "schematicName": "Toxic Metals"
+  }, 
+  {
+    "dataID": 16547608, 
+    "schematicID": 129, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66707, 
+    "schematicName": "Chiral Structures"
+  }, 
+  {
+    "dataID": 16547647, 
+    "schematicID": 130, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66746, 
+    "schematicName": "Silicon"
+  }, 
+  {
+    "dataID": 16547602, 
+    "schematicID": 131, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66701, 
+    "schematicName": "Bacteria"
+  }, 
+  {
+    "dataID": 16547605, 
+    "schematicID": 132, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66704, 
+    "schematicName": "Biomass"
+  }, 
+  {
+    "dataID": 16547642, 
+    "schematicID": 133, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66741, 
+    "schematicName": "Proteins"
+  }, 
+  {
+    "dataID": 16547604, 
+    "schematicID": 134, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66703, 
+    "schematicName": "Biofuels"
+  }, 
+  {
+    "dataID": 16547625, 
+    "schematicID": 135, 
+    "cycleTime": 1800, 
+    "schematicNameID": 66724, 
+    "schematicName": "Industrial Fibers"
+  }
+]

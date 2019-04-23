@@ -1,0 +1,1604 @@
+{
+  "164": {
+    "materialSetID": 192, 
+    "displayName": "YC119", 
+    "displayNameID": 525403, 
+    "skinMaterialID": 164
+  }, 
+  "224": {
+    "materialSetID": 286, 
+    "displayName": "Glacial Drift", 
+    "displayNameID": 530720, 
+    "skinMaterialID": 224
+  }, 
+  "8": {
+    "materialSetID": 8, 
+    "displayName": "Kaalakiota", 
+    "displayNameID": 505352, 
+    "skinMaterialID": 8
+  }, 
+  "121": {
+    "materialSetID": 162, 
+    "displayName": "Rosada Dawn", 
+    "displayNameID": 521953, 
+    "skinMaterialID": 121
+  }, 
+  "123": {
+    "materialSetID": 154, 
+    "displayName": "Amarr Industrial Livery", 
+    "displayNameID": 522181, 
+    "skinMaterialID": 123
+  }, 
+  "124": {
+    "materialSetID": 155, 
+    "displayName": "Caldari Industrial Livery", 
+    "displayNameID": 522183, 
+    "skinMaterialID": 124
+  }, 
+  "125": {
+    "materialSetID": 156, 
+    "displayName": "Gallente Industrial Livery", 
+    "displayNameID": 522184, 
+    "skinMaterialID": 125
+  }, 
+  "126": {
+    "materialSetID": 157, 
+    "displayName": "Minmatar Industrial Livery", 
+    "displayNameID": 522186, 
+    "skinMaterialID": 126
+  }, 
+  "127": {
+    "materialSetID": 158, 
+    "displayName": "Angel Industrial Livery", 
+    "displayNameID": 522188, 
+    "skinMaterialID": 127
+  }, 
+  "128": {
+    "materialSetID": 159, 
+    "displayName": "Blood Raider Industrial Livery", 
+    "displayNameID": 522189, 
+    "skinMaterialID": 128
+  }, 
+  "129": {
+    "materialSetID": 160, 
+    "displayName": "Guristas Industrial Livery", 
+    "displayNameID": 522192, 
+    "skinMaterialID": 129
+  }, 
+  "298": {
+    "materialSetID": 371, 
+    "displayName": "Quantum Potential", 
+    "displayNameID": 538699, 
+    "skinMaterialID": 298
+  }, 
+  "299": {
+    "materialSetID": 369, 
+    "displayName": "DED 'Master-at-Arms' Recruiter", 
+    "displayNameID": 538710, 
+    "skinMaterialID": 299
+  }, 
+  "296": {
+    "materialSetID": 98, 
+    "displayName": "IGC", 
+    "displayNameID": 538674, 
+    "skinMaterialID": 296
+  }, 
+  "297": {
+    "materialSetID": 381, 
+    "displayName": "Triglavian Victory", 
+    "displayNameID": 538692, 
+    "skinMaterialID": 297
+  }, 
+  "294": {
+    "materialSetID": 365, 
+    "displayName": "Ultra Jungle (Ladar)", 
+    "displayNameID": 538667, 
+    "skinMaterialID": 294
+  }, 
+  "295": {
+    "materialSetID": 97, 
+    "displayName": "IGC", 
+    "displayNameID": 538673, 
+    "skinMaterialID": 295
+  }, 
+  "292": {
+    "materialSetID": 363, 
+    "displayName": "Dawn of Liberation", 
+    "displayNameID": 538520, 
+    "skinMaterialID": 292
+  }, 
+  "293": {
+    "materialSetID": 364, 
+    "displayName": "Ultra Jungle (Magneto)", 
+    "displayNameID": 538666, 
+    "skinMaterialID": 293
+  }, 
+  "291": {
+    "materialSetID": 362, 
+    "displayName": "Chainbreaker Khumaak", 
+    "displayNameID": 538519, 
+    "skinMaterialID": 291
+  }, 
+  "319": {
+    "materialSetID": 417, 
+    "displayName": "Cordite Blossom", 
+    "displayNameID": 540725, 
+    "skinMaterialID": 319
+  }, 
+  "318": {
+    "materialSetID": 416, 
+    "displayName": "Cordite Blossom", 
+    "displayNameID": 540724, 
+    "skinMaterialID": 318
+  }, 
+  "199": {
+    "materialSetID": 243, 
+    "displayName": "Kairiola's Sacrifice", 
+    "displayNameID": 529068, 
+    "skinMaterialID": 199
+  }, 
+  "198": {
+    "materialSetID": 239, 
+    "displayName": "Steel Cardinal", 
+    "displayNameID": 528435, 
+    "skinMaterialID": 198
+  }, 
+  "313": {
+    "materialSetID": 393, 
+    "displayName": "Sovereign Claim", 
+    "displayNameID": 539798, 
+    "skinMaterialID": 313
+  }, 
+  "194": {
+    "materialSetID": 227, 
+    "displayName": "Battlescar", 
+    "displayNameID": 527459, 
+    "skinMaterialID": 194
+  }, 
+  "197": {
+    "materialSetID": 231, 
+    "displayName": "IGC", 
+    "displayNameID": 528333, 
+    "skinMaterialID": 197
+  }, 
+  "196": {
+    "materialSetID": 230, 
+    "displayName": "IGC", 
+    "displayNameID": 528170, 
+    "skinMaterialID": 196
+  }, 
+  "191": {
+    "materialSetID": 224, 
+    "displayName": "Sunburst", 
+    "displayNameID": 527452, 
+    "skinMaterialID": 191
+  }, 
+  "190": {
+    "materialSetID": 207, 
+    "displayName": "Firewatch", 
+    "displayNameID": 527446, 
+    "skinMaterialID": 190
+  }, 
+  "193": {
+    "materialSetID": 226, 
+    "displayName": "Skyliner", 
+    "displayNameID": 527457, 
+    "skinMaterialID": 193
+  }, 
+  "192": {
+    "materialSetID": 225, 
+    "displayName": "Nightfire", 
+    "displayNameID": 527455, 
+    "skinMaterialID": 192
+  }, 
+  "270": {
+    "materialSetID": 323, 
+    "displayName": "Capsuleer Elite XV", 
+    "displayNameID": 533795, 
+    "skinMaterialID": 270
+  }, 
+  "271": {
+    "materialSetID": 321, 
+    "displayName": "Capsuleer Elite XV", 
+    "displayNameID": 533796, 
+    "skinMaterialID": 271
+  }, 
+  "272": {
+    "materialSetID": 319, 
+    "displayName": "Capsuleer Elite XV", 
+    "displayNameID": 533797, 
+    "skinMaterialID": 272
+  }, 
+  "273": {
+    "materialSetID": 320, 
+    "displayName": "Capsuleer Elite XV", 
+    "displayNameID": 533798, 
+    "skinMaterialID": 273
+  }, 
+  "274": {
+    "materialSetID": 322, 
+    "displayName": "Capsuleer Elite XV", 
+    "displayNameID": 533799, 
+    "skinMaterialID": 274
+  }, 
+  "275": {
+    "materialSetID": 351, 
+    "displayName": "Capsuleer Elite XV", 
+    "displayNameID": 533800, 
+    "skinMaterialID": 275
+  }, 
+  "276": {
+    "materialSetID": 345, 
+    "displayName": "Capsuleer Networker XV", 
+    "displayNameID": 533841, 
+    "skinMaterialID": 276
+  }, 
+  "277": {
+    "materialSetID": 327, 
+    "displayName": "SARO 'Black Troop'", 
+    "displayNameID": 533924, 
+    "skinMaterialID": 277
+  }, 
+  "278": {
+    "materialSetID": 302, 
+    "displayName": "Sarpati's Revenge - Igil", 
+    "displayNameID": 536645, 
+    "skinMaterialID": 278
+  }, 
+  "279": {
+    "materialSetID": 301, 
+    "displayName": "Sarpati's Revenge - Virge", 
+    "displayNameID": 536646, 
+    "skinMaterialID": 279
+  }, 
+  "3": {
+    "materialSetID": 3, 
+    "displayName": "Quafe", 
+    "displayNameID": 505345, 
+    "skinMaterialID": 3
+  }, 
+  "312": {
+    "materialSetID": 401, 
+    "displayName": "Caldari Union Day", 
+    "displayNameID": 539752, 
+    "skinMaterialID": 312
+  }, 
+  "108": {
+    "materialSetID": 122, 
+    "displayName": "Cold Iron", 
+    "displayNameID": 518748, 
+    "skinMaterialID": 108
+  }, 
+  "102": {
+    "materialSetID": 121, 
+    "displayName": "Purity of the Throne", 
+    "displayNameID": 518369, 
+    "skinMaterialID": 102
+  }, 
+  "100": {
+    "materialSetID": 102, 
+    "displayName": "Imperial Armaments", 
+    "displayNameID": 516612, 
+    "skinMaterialID": 100
+  }, 
+  "106": {
+    "materialSetID": 115, 
+    "displayName": "Digmaster Blazon", 
+    "displayNameID": 518487, 
+    "skinMaterialID": 106
+  }, 
+  "107": {
+    "materialSetID": 116, 
+    "displayName": "Paydirt Prospector", 
+    "displayNameID": 518576, 
+    "skinMaterialID": 107
+  }, 
+  "104": {
+    "materialSetID": 114, 
+    "displayName": "Morphite Shine", 
+    "displayNameID": 518446, 
+    "skinMaterialID": 104
+  }, 
+  "38": {
+    "materialSetID": 79, 
+    "displayName": "EoM", 
+    "displayNameID": 506830, 
+    "skinMaterialID": 38
+  }, 
+  "31": {
+    "materialSetID": 31, 
+    "displayName": "Nocx Rush", 
+    "displayNameID": 505659, 
+    "skinMaterialID": 31
+  }, 
+  "30": {
+    "materialSetID": 30, 
+    "displayName": "Vherokior", 
+    "displayNameID": 505375, 
+    "skinMaterialID": 30
+  }, 
+  "34": {
+    "materialSetID": 34, 
+    "displayName": "Sanctuary", 
+    "displayNameID": 505881, 
+    "skinMaterialID": 34
+  }, 
+  "338": {
+    "materialSetID": 437, 
+    "displayName": "Abyssal Thunderstorm", 
+    "displayNameID": 543444, 
+    "skinMaterialID": 338
+  }, 
+  "335": {
+    "materialSetID": 426, 
+    "displayName": "Serenity Twirl SKIN (Cynabal)", 
+    "displayNameID": 542460, 
+    "skinMaterialID": 335
+  }, 
+  "334": {
+    "materialSetID": 425, 
+    "displayName": "Serenity Circle SKIN (Moa)", 
+    "displayNameID": 542459, 
+    "skinMaterialID": 334
+  }, 
+  "337": {
+    "materialSetID": 436, 
+    "displayName": "Abyssal Firestorm", 
+    "displayNameID": 543443, 
+    "skinMaterialID": 337
+  }, 
+  "336": {
+    "materialSetID": 435, 
+    "displayName": "Abyssal Afterglow", 
+    "displayNameID": 543442, 
+    "skinMaterialID": 336
+  }, 
+  "331": {
+    "materialSetID": 422, 
+    "displayName": "Serenity Electric SKIN (Omen)", 
+    "displayNameID": 542456, 
+    "skinMaterialID": 331
+  }, 
+  "330": {
+    "materialSetID": 421, 
+    "displayName": "Serenity Water SKIN (Caracal)", 
+    "displayNameID": 542455, 
+    "skinMaterialID": 330
+  }, 
+  "333": {
+    "materialSetID": 424, 
+    "displayName": "Serenity Splatter SKIN (Ashimmu)", 
+    "displayNameID": 542458, 
+    "skinMaterialID": 333
+  }, 
+  "332": {
+    "materialSetID": 423, 
+    "displayName": "Serenity Splatter SKIN (Thorax)", 
+    "displayNameID": 542457, 
+    "skinMaterialID": 332
+  }, 
+  "60": {
+    "materialSetID": 78, 
+    "displayName": "Umbral", 
+    "displayNameID": 507523, 
+    "skinMaterialID": 60
+  }, 
+  "258": {
+    "materialSetID": 350, 
+    "displayName": "Ace of Podhunters", 
+    "displayNameID": 532995, 
+    "skinMaterialID": 258
+  }, 
+  "259": {
+    "materialSetID": 303, 
+    "displayName": "Glittering Dream", 
+    "displayNameID": 533059, 
+    "skinMaterialID": 259
+  }, 
+  "67": {
+    "materialSetID": 75, 
+    "displayName": "Raata Sunset", 
+    "displayNameID": 508187, 
+    "skinMaterialID": 67
+  }, 
+  "252": {
+    "materialSetID": 300, 
+    "displayName": "Empyrean Dragons", 
+    "displayNameID": 532635, 
+    "skinMaterialID": 252
+  }, 
+  "69": {
+    "materialSetID": 76, 
+    "displayName": "Valklear Glory", 
+    "displayNameID": 508280, 
+    "skinMaterialID": 69
+  }, 
+  "250": {
+    "materialSetID": 331, 
+    "displayName": "Spirit", 
+    "displayNameID": 532402, 
+    "skinMaterialID": 250
+  }, 
+  "251": {
+    "materialSetID": 324, 
+    "displayName": "Shakim Warlord", 
+    "displayNameID": 532632, 
+    "skinMaterialID": 251
+  }, 
+  "256": {
+    "materialSetID": 348, 
+    "displayName": "Hunter's Quiver", 
+    "displayNameID": 532993, 
+    "skinMaterialID": 256
+  }, 
+  "257": {
+    "materialSetID": 349, 
+    "displayName": "Hunter's Quiver", 
+    "displayNameID": 532994, 
+    "skinMaterialID": 257
+  }, 
+  "254": {
+    "materialSetID": 346, 
+    "displayName": "Hunter's Quiver", 
+    "displayNameID": 532991, 
+    "skinMaterialID": 254
+  }, 
+  "255": {
+    "materialSetID": 347, 
+    "displayName": "Hunter's Quiver", 
+    "displayNameID": 532992, 
+    "skinMaterialID": 255
+  }, 
+  "6": {
+    "materialSetID": 6, 
+    "displayName": "Tash-Murkon", 
+    "displayNameID": 505350, 
+    "skinMaterialID": 6
+  }, 
+  "99": {
+    "materialSetID": 111, 
+    "displayName": "Palatine", 
+    "displayNameID": 516565, 
+    "skinMaterialID": 99
+  }, 
+  "98": {
+    "materialSetID": 110, 
+    "displayName": "Upwell", 
+    "displayNameID": 516564, 
+    "skinMaterialID": 98
+  }, 
+  "91": {
+    "materialSetID": 95, 
+    "displayName": "Nova", 
+    "displayNameID": 511273, 
+    "skinMaterialID": 91
+  }, 
+  "90": {
+    "materialSetID": 94, 
+    "displayName": "Nova", 
+    "displayNameID": 511272, 
+    "skinMaterialID": 90
+  }, 
+  "93": {
+    "materialSetID": 85, 
+    "displayName": "Matigu Seabeast", 
+    "displayNameID": 514281, 
+    "skinMaterialID": 93
+  }, 
+  "92": {
+    "materialSetID": 86, 
+    "displayName": "Tronhadar Ink", 
+    "displayNameID": 513932, 
+    "skinMaterialID": 92
+  }, 
+  "160": {
+    "materialSetID": 187, 
+    "displayName": "Sapphire Sungrazer", 
+    "displayNameID": 525384, 
+    "skinMaterialID": 160
+  }, 
+  "94": {
+    "materialSetID": 98, 
+    "displayName": "IGC Victory", 
+    "displayNameID": 514585, 
+    "skinMaterialID": 94
+  }, 
+  "96": {
+    "materialSetID": 106, 
+    "displayName": "Valkyrie", 
+    "displayNameID": 515783, 
+    "skinMaterialID": 96
+  }, 
+  "41": {
+    "materialSetID": 43, 
+    "displayName": "Serenity", 
+    "displayNameID": 507424, 
+    "skinMaterialID": 41
+  }, 
+  "238": {
+    "materialSetID": 315, 
+    "displayName": "\"Blaze\" Squadron", 
+    "displayNameID": 531359, 
+    "skinMaterialID": 238
+  }, 
+  "239": {
+    "materialSetID": 316, 
+    "displayName": "\"Blaze\" Squadron", 
+    "displayNameID": 531360, 
+    "skinMaterialID": 239
+  }, 
+  "234": {
+    "materialSetID": 306, 
+    "displayName": "Serene Tu", 
+    "displayNameID": 531310, 
+    "skinMaterialID": 234
+  }, 
+  "235": {
+    "materialSetID": 307, 
+    "displayName": "Serene Rou", 
+    "displayNameID": 531311, 
+    "skinMaterialID": 235
+  }, 
+  "236": {
+    "materialSetID": 313, 
+    "displayName": "\"Blaze\" Squadron", 
+    "displayNameID": 531357, 
+    "skinMaterialID": 236
+  }, 
+  "237": {
+    "materialSetID": 314, 
+    "displayName": "\"Blaze\" Squadron", 
+    "displayNameID": 531358, 
+    "skinMaterialID": 237
+  }, 
+  "230": {
+    "materialSetID": 294, 
+    "displayName": "King's Ransom – Darouen", 
+    "displayNameID": 531103, 
+    "skinMaterialID": 230
+  }, 
+  "231": {
+    "materialSetID": 296, 
+    "displayName": "Serene Hao", 
+    "displayNameID": 531307, 
+    "skinMaterialID": 231
+  }, 
+  "232": {
+    "materialSetID": 297, 
+    "displayName": "Serene Mang", 
+    "displayNameID": 531308, 
+    "skinMaterialID": 232
+  }, 
+  "233": {
+    "materialSetID": 305, 
+    "displayName": "Serene Song", 
+    "displayNameID": 531309, 
+    "skinMaterialID": 233
+  }, 
+  "1": {
+    "materialSetID": 1, 
+    "displayName": "Ardishapur", 
+    "displayNameID": 505346, 
+    "skinMaterialID": 1
+  }, 
+  "9": {
+    "materialSetID": 9, 
+    "displayName": "Lai Dai", 
+    "displayNameID": 505353, 
+    "skinMaterialID": 9
+  }, 
+  "147": {
+    "materialSetID": 129, 
+    "displayName": "", 
+    "displayNameID": 523770, 
+    "skinMaterialID": 147
+  }, 
+  "142": {
+    "materialSetID": 169, 
+    "displayName": "SOE Gold Cell (Archaeology)", 
+    "displayNameID": 523734, 
+    "skinMaterialID": 142
+  }, 
+  "140": {
+    "materialSetID": 167, 
+    "displayName": "SOE Fire Cell (Defense)", 
+    "displayNameID": 523732, 
+    "skinMaterialID": 140
+  }, 
+  "141": {
+    "materialSetID": 168, 
+    "displayName": "SOE Blue Cell (Surveillance)", 
+    "displayNameID": 523733, 
+    "skinMaterialID": 141
+  }, 
+  "148": {
+    "materialSetID": 130, 
+    "displayName": "", 
+    "displayNameID": 523771, 
+    "skinMaterialID": 148
+  }, 
+  "149": {
+    "materialSetID": 142, 
+    "displayName": "", 
+    "displayNameID": 523772, 
+    "skinMaterialID": 149
+  }, 
+  "326": {
+    "materialSetID": 433, 
+    "displayName": "Deathglow Hunters", 
+    "displayNameID": 542440, 
+    "skinMaterialID": 326
+  }, 
+  "216": {
+    "materialSetID": 283, 
+    "displayName": "Headhunter", 
+    "displayNameID": 530452, 
+    "skinMaterialID": 216
+  }, 
+  "217": {
+    "materialSetID": 273, 
+    "displayName": "Octopus Red Flight", 
+    "displayNameID": 530480, 
+    "skinMaterialID": 217
+  }, 
+  "214": {
+    "materialSetID": 281, 
+    "displayName": "Headhunter", 
+    "displayNameID": 530450, 
+    "skinMaterialID": 214
+  }, 
+  "215": {
+    "materialSetID": 282, 
+    "displayName": "Headhunter", 
+    "displayNameID": 530451, 
+    "skinMaterialID": 215
+  }, 
+  "212": {
+    "materialSetID": 270, 
+    "displayName": "Fleet Ordnance Spike", 
+    "displayNameID": 530092, 
+    "skinMaterialID": 212
+  }, 
+  "213": {
+    "materialSetID": 280, 
+    "displayName": "Headhunter", 
+    "displayNameID": 530449, 
+    "skinMaterialID": 213
+  }, 
+  "210": {
+    "materialSetID": 262, 
+    "displayName": "Military Stockpile Captain", 
+    "displayNameID": 530090, 
+    "skinMaterialID": 210
+  }, 
+  "211": {
+    "materialSetID": 269, 
+    "displayName": "Strategic Materiel Defender", 
+    "displayNameID": 530091, 
+    "skinMaterialID": 211
+  }, 
+  "218": {
+    "materialSetID": 274, 
+    "displayName": "Lodestrike", 
+    "displayNameID": 530504, 
+    "skinMaterialID": 218
+  }, 
+  "219": {
+    "materialSetID": 275, 
+    "displayName": "Lodestrike", 
+    "displayNameID": 530505, 
+    "skinMaterialID": 219
+  }, 
+  "133": {
+    "materialSetID": 133, 
+    "displayName": "Star Captain", 
+    "displayNameID": 523424, 
+    "skinMaterialID": 133
+  }, 
+  "132": {
+    "materialSetID": 166, 
+    "displayName": "Claim Foreman", 
+    "displayNameID": 523054, 
+    "skinMaterialID": 132
+  }, 
+  "130": {
+    "materialSetID": 161, 
+    "displayName": "Sansha Industrial Livery", 
+    "displayNameID": 522193, 
+    "skinMaterialID": 130
+  }, 
+  "137": {
+    "materialSetID": 171, 
+    "displayName": "Glacial Drift", 
+    "displayNameID": 523617, 
+    "skinMaterialID": 137
+  }, 
+  "136": {
+    "materialSetID": 173, 
+    "displayName": "Glacial Drift", 
+    "displayNameID": 523616, 
+    "skinMaterialID": 136
+  }, 
+  "135": {
+    "materialSetID": 170, 
+    "displayName": "Glacial Drift", 
+    "displayNameID": 523615, 
+    "skinMaterialID": 135
+  }, 
+  "139": {
+    "materialSetID": 174, 
+    "displayName": "Glacial Drift", 
+    "displayNameID": 523619, 
+    "skinMaterialID": 139
+  }, 
+  "138": {
+    "materialSetID": 172, 
+    "displayName": "Glacial Drift", 
+    "displayNameID": 523618, 
+    "skinMaterialID": 138
+  }, 
+  "24": {
+    "materialSetID": 24, 
+    "displayName": "Thukker Tribe", 
+    "displayNameID": 505368, 
+    "skinMaterialID": 24
+  }, 
+  "25": {
+    "materialSetID": 25, 
+    "displayName": "Blood Raiders", 
+    "displayNameID": 505369, 
+    "skinMaterialID": 25
+  }, 
+  "26": {
+    "materialSetID": 26, 
+    "displayName": "Guristas", 
+    "displayNameID": 505370, 
+    "skinMaterialID": 26
+  }, 
+  "27": {
+    "materialSetID": 27, 
+    "displayName": "ORE Development", 
+    "displayNameID": 505371, 
+    "skinMaterialID": 27
+  }, 
+  "20": {
+    "materialSetID": 20, 
+    "displayName": "Justice", 
+    "displayNameID": 505364, 
+    "skinMaterialID": 20
+  }, 
+  "21": {
+    "materialSetID": 21, 
+    "displayName": "Nefantar", 
+    "displayNameID": 505365, 
+    "skinMaterialID": 21
+  }, 
+  "22": {
+    "materialSetID": 22, 
+    "displayName": "Krusual", 
+    "displayNameID": 505366, 
+    "skinMaterialID": 22
+  }, 
+  "23": {
+    "materialSetID": 23, 
+    "displayName": "Sebiestor", 
+    "displayNameID": 505367, 
+    "skinMaterialID": 23
+  }, 
+  "28": {
+    "materialSetID": 53, 
+    "displayName": "Serenity", 
+    "displayNameID": 505373, 
+    "skinMaterialID": 28
+  }, 
+  "29": {
+    "materialSetID": 29, 
+    "displayName": "Serpentis", 
+    "displayNameID": 505374, 
+    "skinMaterialID": 29
+  }, 
+  "289": {
+    "materialSetID": 360, 
+    "displayName": "Luminaire Zenith", 
+    "displayNameID": 536847, 
+    "skinMaterialID": 289
+  }, 
+  "288": {
+    "materialSetID": 359, 
+    "displayName": "Luminaire Zenith", 
+    "displayNameID": 536846, 
+    "skinMaterialID": 288
+  }, 
+  "4": {
+    "materialSetID": 4, 
+    "displayName": "Khanid", 
+    "displayNameID": 505348, 
+    "skinMaterialID": 4
+  }, 
+  "281": {
+    "materialSetID": 361, 
+    "displayName": "Dos Rouvenor's Bequest", 
+    "displayNameID": 536839, 
+    "skinMaterialID": 281
+  }, 
+  "280": {
+    "materialSetID": 295, 
+    "displayName": "Ghostbird", 
+    "displayNameID": 536716, 
+    "skinMaterialID": 280
+  }, 
+  "283": {
+    "materialSetID": 354, 
+    "displayName": "Luminaire Rising", 
+    "displayNameID": 536841, 
+    "skinMaterialID": 283
+  }, 
+  "282": {
+    "materialSetID": 353, 
+    "displayName": "Luminaire Rising", 
+    "displayNameID": 536840, 
+    "skinMaterialID": 282
+  }, 
+  "285": {
+    "materialSetID": 356, 
+    "displayName": "Luminaire Rising", 
+    "displayNameID": 536843, 
+    "skinMaterialID": 285
+  }, 
+  "284": {
+    "materialSetID": 355, 
+    "displayName": "Luminaire Rising", 
+    "displayNameID": 536842, 
+    "skinMaterialID": 284
+  }, 
+  "287": {
+    "materialSetID": 358, 
+    "displayName": "Luminaire Zenith", 
+    "displayNameID": 536845, 
+    "skinMaterialID": 287
+  }, 
+  "286": {
+    "materialSetID": 357, 
+    "displayName": "Luminaire Zenith", 
+    "displayNameID": 536844, 
+    "skinMaterialID": 286
+  }, 
+  "263": {
+    "materialSetID": 124, 
+    "displayName": "Silver Racer", 
+    "displayNameID": 533134, 
+    "skinMaterialID": 263
+  }, 
+  "262": {
+    "materialSetID": 147, 
+    "displayName": "Versus Blueforce", 
+    "displayNameID": 533103, 
+    "skinMaterialID": 262
+  }, 
+  "261": {
+    "materialSetID": 146, 
+    "displayName": "Versus Redforce", 
+    "displayNameID": 533102, 
+    "skinMaterialID": 261
+  }, 
+  "260": {
+    "materialSetID": 337, 
+    "displayName": "Sariel's Flames", 
+    "displayNameID": 533099, 
+    "skinMaterialID": 260
+  }, 
+  "267": {
+    "materialSetID": 343, 
+    "displayName": "Capsuleer Day XV", 
+    "displayNameID": 533757, 
+    "skinMaterialID": 267
+  }, 
+  "266": {
+    "materialSetID": 342, 
+    "displayName": "Capsuleer Day XV", 
+    "displayNameID": 533756, 
+    "skinMaterialID": 266
+  }, 
+  "265": {
+    "materialSetID": 341, 
+    "displayName": "Capsuleer Day XV", 
+    "displayNameID": 533755, 
+    "skinMaterialID": 265
+  }, 
+  "264": {
+    "materialSetID": 304, 
+    "displayName": "Octopus Orange Flight", 
+    "displayNameID": 533728, 
+    "skinMaterialID": 264
+  }, 
+  "268": {
+    "materialSetID": 344, 
+    "displayName": "Capsuleer Day XV", 
+    "displayNameID": 533758, 
+    "skinMaterialID": 268
+  }, 
+  "59": {
+    "materialSetID": 82, 
+    "displayName": "Golden", 
+    "displayNameID": 507517, 
+    "skinMaterialID": 59
+  }, 
+  "58": {
+    "materialSetID": 81, 
+    "displayName": "Golden", 
+    "displayNameID": 507516, 
+    "skinMaterialID": 58
+  }, 
+  "55": {
+    "materialSetID": 51, 
+    "displayName": "Serenity", 
+    "displayNameID": 507432, 
+    "skinMaterialID": 55
+  }, 
+  "54": {
+    "materialSetID": 50, 
+    "displayName": "Serenity", 
+    "displayNameID": 507431, 
+    "skinMaterialID": 54
+  }, 
+  "56": {
+    "materialSetID": 52, 
+    "displayName": "Serenity", 
+    "displayNameID": 507433, 
+    "skinMaterialID": 56
+  }, 
+  "51": {
+    "materialSetID": 47, 
+    "displayName": "Serenity", 
+    "displayNameID": 507428, 
+    "skinMaterialID": 51
+  }, 
+  "50": {
+    "materialSetID": 46, 
+    "displayName": "Serenity", 
+    "displayNameID": 507427, 
+    "skinMaterialID": 50
+  }, 
+  "53": {
+    "materialSetID": 49, 
+    "displayName": "Serenity", 
+    "displayNameID": 507430, 
+    "skinMaterialID": 53
+  }, 
+  "52": {
+    "materialSetID": 48, 
+    "displayName": "Serenity", 
+    "displayNameID": 507429, 
+    "skinMaterialID": 52
+  }, 
+  "68": {
+    "materialSetID": 74, 
+    "displayName": "Blue Tiger", 
+    "displayNameID": 508276, 
+    "skinMaterialID": 68
+  }, 
+  "88": {
+    "materialSetID": 92, 
+    "displayName": "Nova", 
+    "displayNameID": 511270, 
+    "skinMaterialID": 88
+  }, 
+  "89": {
+    "materialSetID": 93, 
+    "displayName": "Nova", 
+    "displayNameID": 511271, 
+    "skinMaterialID": 89
+  }, 
+  "253": {
+    "materialSetID": 308, 
+    "displayName": "One Eden", 
+    "displayNameID": 532638, 
+    "skinMaterialID": 253
+  }, 
+  "82": {
+    "materialSetID": 84, 
+    "displayName": "Raata Sunset", 
+    "displayNameID": 510184, 
+    "skinMaterialID": 82
+  }, 
+  "83": {
+    "materialSetID": 87, 
+    "displayName": "Valimor Legacy", 
+    "displayNameID": 510318, 
+    "skinMaterialID": 83
+  }, 
+  "80": {
+    "materialSetID": 53, 
+    "displayName": "Serenity", 
+    "displayNameID": 508997, 
+    "skinMaterialID": 80
+  }, 
+  "119": {
+    "materialSetID": 117, 
+    "displayName": "Blood Raider Victory", 
+    "displayNameID": 520545, 
+    "skinMaterialID": 119
+  }, 
+  "118": {
+    "materialSetID": 123, 
+    "displayName": "Ironblood", 
+    "displayNameID": 520541, 
+    "skinMaterialID": 118
+  }, 
+  "84": {
+    "materialSetID": 89, 
+    "displayName": "Waschi Uprising 'Combat'", 
+    "displayNameID": 510773, 
+    "skinMaterialID": 84
+  }, 
+  "85": {
+    "materialSetID": 90, 
+    "displayName": "Waschi Uprising 'Parade'", 
+    "displayNameID": 510774, 
+    "skinMaterialID": 85
+  }, 
+  "7": {
+    "materialSetID": 7, 
+    "displayName": "Ishukone", 
+    "displayNameID": 505351, 
+    "skinMaterialID": 7
+  }, 
+  "308": {
+    "materialSetID": 376, 
+    "displayName": "Emergency Response Squad", 
+    "displayNameID": 539732, 
+    "skinMaterialID": 308
+  }, 
+  "309": {
+    "materialSetID": 377, 
+    "displayName": "Emergency Response Squad", 
+    "displayNameID": 539733, 
+    "skinMaterialID": 309
+  }, 
+  "300": {
+    "materialSetID": 370, 
+    "displayName": "DED 'Alpha Plus' Taskforce", 
+    "displayNameID": 538711, 
+    "skinMaterialID": 300
+  }, 
+  "301": {
+    "materialSetID": 392, 
+    "displayName": "Singularity Storm", 
+    "displayNameID": 539508, 
+    "skinMaterialID": 301
+  }, 
+  "302": {
+    "materialSetID": 398, 
+    "displayName": "Hadean Horror", 
+    "displayNameID": 539535, 
+    "skinMaterialID": 302
+  }, 
+  "303": {
+    "materialSetID": 382, 
+    "displayName": "Planetary Extraction (Upwell)", 
+    "displayNameID": 539542, 
+    "skinMaterialID": 303
+  }, 
+  "304": {
+    "materialSetID": 372, 
+    "displayName": "Combat Medic Section", 
+    "displayNameID": 539728, 
+    "skinMaterialID": 304
+  }, 
+  "305": {
+    "materialSetID": 373, 
+    "displayName": "Combat Medic Section", 
+    "displayNameID": 539729, 
+    "skinMaterialID": 305
+  }, 
+  "306": {
+    "materialSetID": 374, 
+    "displayName": "Combat Medic Section", 
+    "displayNameID": 539730, 
+    "skinMaterialID": 306
+  }, 
+  "307": {
+    "materialSetID": 375, 
+    "displayName": "Combat Medic Section", 
+    "displayNameID": 539731, 
+    "skinMaterialID": 307
+  }, 
+  "245": {
+    "materialSetID": 334, 
+    "displayName": "Eros Blossom", 
+    "displayNameID": 532370, 
+    "skinMaterialID": 245
+  }, 
+  "244": {
+    "materialSetID": 333, 
+    "displayName": "Eros Blossom", 
+    "displayNameID": 532369, 
+    "skinMaterialID": 244
+  }, 
+  "247": {
+    "materialSetID": 336, 
+    "displayName": "Eros Blossom", 
+    "displayNameID": 532372, 
+    "skinMaterialID": 247
+  }, 
+  "246": {
+    "materialSetID": 335, 
+    "displayName": "Eros Blossom", 
+    "displayNameID": 532371, 
+    "skinMaterialID": 246
+  }, 
+  "241": {
+    "materialSetID": 299, 
+    "displayName": "Bloody Hands", 
+    "displayNameID": 531580, 
+    "skinMaterialID": 241
+  }, 
+  "240": {
+    "materialSetID": 317, 
+    "displayName": "\"Blaze\" Squadron", 
+    "displayNameID": 531361, 
+    "skinMaterialID": 240
+  }, 
+  "243": {
+    "materialSetID": 332, 
+    "displayName": "Eros Blossom", 
+    "displayNameID": 532368, 
+    "skinMaterialID": 243
+  }, 
+  "242": {
+    "materialSetID": 298, 
+    "displayName": "Crystal Blast", 
+    "displayNameID": 531764, 
+    "skinMaterialID": 242
+  }, 
+  "249": {
+    "materialSetID": 330, 
+    "displayName": "Spirit", 
+    "displayNameID": 532401, 
+    "skinMaterialID": 249
+  }, 
+  "248": {
+    "materialSetID": 329, 
+    "displayName": "Spirit", 
+    "displayNameID": 532399, 
+    "skinMaterialID": 248
+  }, 
+  "179": {
+    "materialSetID": 205, 
+    "displayName": "Hazard Control", 
+    "displayNameID": 526413, 
+    "skinMaterialID": 179
+  }, 
+  "178": {
+    "materialSetID": 197, 
+    "displayName": "Guristas Victory", 
+    "displayNameID": 526407, 
+    "skinMaterialID": 178
+  }, 
+  "175": {
+    "materialSetID": 198, 
+    "displayName": "Hostile Takeover", 
+    "displayNameID": 526305, 
+    "skinMaterialID": 175
+  }, 
+  "174": {
+    "materialSetID": 199, 
+    "displayName": "YC119 Capsuleer Day", 
+    "displayNameID": 526159, 
+    "skinMaterialID": 174
+  }, 
+  "173": {
+    "materialSetID": 201, 
+    "displayName": "CONCORD Aerospace 'Prototype'", 
+    "displayNameID": 526153, 
+    "skinMaterialID": 173
+  }, 
+  "195": {
+    "materialSetID": 188, 
+    "displayName": "IGC", 
+    "displayNameID": 527922, 
+    "skinMaterialID": 195
+  }, 
+  "180": {
+    "materialSetID": 186, 
+    "displayName": "Ruby Sungrazer", 
+    "displayNameID": 526422, 
+    "skinMaterialID": 180
+  }, 
+  "181": {
+    "materialSetID": 223, 
+    "displayName": "Angel's Hex", 
+    "displayNameID": 526690, 
+    "skinMaterialID": 181
+  }, 
+  "186": {
+    "materialSetID": 212, 
+    "displayName": "Exoplanets Hunter", 
+    "displayNameID": 526898, 
+    "skinMaterialID": 186
+  }, 
+  "187": {
+    "materialSetID": 214, 
+    "displayName": "Exoplanets Hunter", 
+    "displayNameID": 526899, 
+    "skinMaterialID": 187
+  }, 
+  "184": {
+    "materialSetID": 215, 
+    "displayName": "Exoplanets Hunter", 
+    "displayNameID": 526896, 
+    "skinMaterialID": 184
+  }, 
+  "185": {
+    "materialSetID": 210, 
+    "displayName": "Exoplanets Hunter", 
+    "displayNameID": 526897, 
+    "skinMaterialID": 185
+  }, 
+  "188": {
+    "materialSetID": 213, 
+    "displayName": "Exoplanets Hunter", 
+    "displayNameID": 526900, 
+    "skinMaterialID": 188
+  }, 
+  "189": {
+    "materialSetID": 217, 
+    "displayName": "Firewall Breach", 
+    "displayNameID": 527433, 
+    "skinMaterialID": 189
+  }, 
+  "311": {
+    "materialSetID": 379, 
+    "displayName": "Emergency Response Squad", 
+    "displayNameID": 539735, 
+    "skinMaterialID": 311
+  }, 
+  "310": {
+    "materialSetID": 378, 
+    "displayName": "Emergency Response Squad", 
+    "displayNameID": 539734, 
+    "skinMaterialID": 310
+  }, 
+  "317": {
+    "materialSetID": 415, 
+    "displayName": "Cordite Blossom", 
+    "displayNameID": 540723, 
+    "skinMaterialID": 317
+  }, 
+  "316": {
+    "materialSetID": 414, 
+    "displayName": "Cordite Blossom", 
+    "displayNameID": 540722, 
+    "skinMaterialID": 316
+  }, 
+  "315": {
+    "materialSetID": 403, 
+    "displayName": "Storm Bear", 
+    "displayNameID": 540687, 
+    "skinMaterialID": 315
+  }, 
+  "229": {
+    "materialSetID": 293, 
+    "displayName": "King's Ransom – Luecin", 
+    "displayNameID": 531102, 
+    "skinMaterialID": 229
+  }, 
+  "228": {
+    "materialSetID": 290, 
+    "displayName": "Glacial Drift", 
+    "displayNameID": 530724, 
+    "skinMaterialID": 228
+  }, 
+  "227": {
+    "materialSetID": 289, 
+    "displayName": "Glacial Drift", 
+    "displayNameID": 530723, 
+    "skinMaterialID": 227
+  }, 
+  "226": {
+    "materialSetID": 288, 
+    "displayName": "Glacial Drift", 
+    "displayNameID": 530722, 
+    "skinMaterialID": 226
+  }, 
+  "225": {
+    "materialSetID": 287, 
+    "displayName": "Glacial Drift", 
+    "displayNameID": 530721, 
+    "skinMaterialID": 225
+  }, 
+  "314": {
+    "materialSetID": 402, 
+    "displayName": "Storm Bear", 
+    "displayNameID": 540686, 
+    "skinMaterialID": 314
+  }, 
+  "223": {
+    "materialSetID": 285, 
+    "displayName": "Glacial Drift", 
+    "displayNameID": 530719, 
+    "skinMaterialID": 223
+  }, 
+  "222": {
+    "materialSetID": 278, 
+    "displayName": "Lodestrike", 
+    "displayNameID": 530508, 
+    "skinMaterialID": 222
+  }, 
+  "221": {
+    "materialSetID": 277, 
+    "displayName": "Lodestrike", 
+    "displayNameID": 530507, 
+    "skinMaterialID": 221
+  }, 
+  "220": {
+    "materialSetID": 276, 
+    "displayName": "Lodestrike", 
+    "displayNameID": 530506, 
+    "skinMaterialID": 220
+  }, 
+  "11": {
+    "materialSetID": 11, 
+    "displayName": "Sukuuvestaa", 
+    "displayNameID": 505355, 
+    "skinMaterialID": 11
+  }, 
+  "10": {
+    "materialSetID": 10, 
+    "displayName": "Nugoeihuvi", 
+    "displayNameID": 505354, 
+    "skinMaterialID": 10
+  }, 
+  "13": {
+    "materialSetID": 13, 
+    "displayName": "Aliastra", 
+    "displayNameID": 505357, 
+    "skinMaterialID": 13
+  }, 
+  "12": {
+    "materialSetID": 12, 
+    "displayName": "Wiyrkomi", 
+    "displayNameID": 505356, 
+    "skinMaterialID": 12
+  }, 
+  "15": {
+    "materialSetID": 15, 
+    "displayName": "Inner Zone Shipping", 
+    "displayNameID": 505359, 
+    "skinMaterialID": 15
+  }, 
+  "14": {
+    "materialSetID": 14, 
+    "displayName": "Duvolle", 
+    "displayNameID": 505358, 
+    "skinMaterialID": 14
+  }, 
+  "17": {
+    "materialSetID": 17, 
+    "displayName": "InterBus", 
+    "displayNameID": 505361, 
+    "skinMaterialID": 17
+  }, 
+  "16": {
+    "materialSetID": 16, 
+    "displayName": "Intaki Syndicate", 
+    "displayNameID": 505360, 
+    "skinMaterialID": 16
+  }, 
+  "19": {
+    "materialSetID": 19, 
+    "displayName": "Roden", 
+    "displayNameID": 505363, 
+    "skinMaterialID": 19
+  }, 
+  "18": {
+    "materialSetID": 18, 
+    "displayName": "Police", 
+    "displayNameID": 505362, 
+    "skinMaterialID": 18
+  }, 
+  "116": {
+    "materialSetID": 120, 
+    "displayName": "Ironblood", 
+    "displayNameID": 520485, 
+    "skinMaterialID": 116
+  }, 
+  "151": {
+    "materialSetID": 177, 
+    "displayName": "Convergence - Nova", 
+    "displayNameID": 523860, 
+    "skinMaterialID": 151
+  }, 
+  "150": {
+    "materialSetID": 143, 
+    "displayName": "", 
+    "displayNameID": 523773, 
+    "skinMaterialID": 150
+  }, 
+  "153": {
+    "materialSetID": 97, 
+    "displayName": "IGC Victory", 
+    "displayNameID": 523942, 
+    "skinMaterialID": 153
+  }, 
+  "152": {
+    "materialSetID": 125, 
+    "displayName": "Midnight", 
+    "displayNameID": 523864, 
+    "skinMaterialID": 152
+  }, 
+  "155": {
+    "materialSetID": 185, 
+    "displayName": "Spirit", 
+    "displayNameID": 524572, 
+    "skinMaterialID": 155
+  }, 
+  "154": {
+    "materialSetID": 184, 
+    "displayName": "Spirit", 
+    "displayNameID": 524573, 
+    "skinMaterialID": 154
+  }, 
+  "157": {
+    "materialSetID": 188, 
+    "displayName": "IGC Victory", 
+    "displayNameID": 525368, 
+    "skinMaterialID": 157
+  }, 
+  "42": {
+    "materialSetID": 44, 
+    "displayName": "Serenity", 
+    "displayNameID": 507425, 
+    "skinMaterialID": 42
+  }, 
+  "43": {
+    "materialSetID": 45, 
+    "displayName": "Serenity", 
+    "displayNameID": 507426, 
+    "skinMaterialID": 43
+  }, 
+  "40": {
+    "materialSetID": 42, 
+    "displayName": "Serenity", 
+    "displayNameID": 505373, 
+    "skinMaterialID": 40
+  }, 
+  "87": {
+    "materialSetID": 91, 
+    "displayName": "Nova", 
+    "displayNameID": 511269, 
+    "skinMaterialID": 87
+  }, 
+  "322": {
+    "materialSetID": 432, 
+    "displayName": "Cryptic Mimesis", 
+    "displayNameID": 540905, 
+    "skinMaterialID": 322
+  }, 
+  "323": {
+    "materialSetID": 163, 
+    "displayName": "Cryptic Mimesis", 
+    "displayNameID": 540906, 
+    "skinMaterialID": 323
+  }, 
+  "321": {
+    "materialSetID": 165, 
+    "displayName": "Cryptic Mimesis", 
+    "displayNameID": 540904, 
+    "skinMaterialID": 321
+  }, 
+  "5": {
+    "materialSetID": 5, 
+    "displayName": "Sarum", 
+    "displayNameID": 505349, 
+    "skinMaterialID": 5
+  }, 
+  "327": {
+    "materialSetID": 434, 
+    "displayName": "Deathglow Hunters", 
+    "displayNameID": 542441, 
+    "skinMaterialID": 327
+  }, 
+  "324": {
+    "materialSetID": 431, 
+    "displayName": "Cryptic Mimesis", 
+    "displayNameID": 540907, 
+    "skinMaterialID": 324
+  }, 
+  "325": {
+    "materialSetID": 94, 
+    "displayName": "Absent Heroes", 
+    "displayNameID": 542147, 
+    "skinMaterialID": 325
+  }, 
+  "328": {
+    "materialSetID": 418, 
+    "displayName": "Serenity Flame SKIN (Vexor)", 
+    "displayNameID": 542453, 
+    "skinMaterialID": 328
+  }, 
+  "329": {
+    "materialSetID": 420, 
+    "displayName": "Serenity Cloud SKIN (Rupture)", 
+    "displayNameID": 542454, 
+    "skinMaterialID": 329
+  }, 
+  "201": {
+    "materialSetID": 248, 
+    "displayName": "Valkyrie", 
+    "displayNameID": 529429, 
+    "skinMaterialID": 201
+  }, 
+  "200": {
+    "materialSetID": 247, 
+    "displayName": "Valkyrie", 
+    "displayNameID": 529427, 
+    "skinMaterialID": 200
+  }, 
+  "203": {
+    "materialSetID": 259, 
+    "displayName": "Kopis Edge", 
+    "displayNameID": 529479, 
+    "skinMaterialID": 203
+  }, 
+  "202": {
+    "materialSetID": 249, 
+    "displayName": "Valkyrie", 
+    "displayNameID": 529431, 
+    "skinMaterialID": 202
+  }, 
+  "205": {
+    "materialSetID": 266, 
+    "displayName": "Imperial Jubilee", 
+    "displayNameID": 529807, 
+    "skinMaterialID": 205
+  }, 
+  "204": {
+    "materialSetID": 195, 
+    "displayName": "Spectral Shift", 
+    "displayNameID": 529786, 
+    "skinMaterialID": 204
+  }, 
+  "207": {
+    "materialSetID": 236, 
+    "displayName": "Serpentis Victory (Gallente Hulls)", 
+    "displayNameID": 530023, 
+    "skinMaterialID": 207
+  }, 
+  "206": {
+    "materialSetID": 240, 
+    "displayName": "Forgemaster", 
+    "displayNameID": 529848, 
+    "skinMaterialID": 206
+  }, 
+  "209": {
+    "materialSetID": 246, 
+    "displayName": "War Reserves Lieutenant", 
+    "displayNameID": 530089, 
+    "skinMaterialID": 209
+  }, 
+  "208": {
+    "materialSetID": 237, 
+    "displayName": "Serpentis Victory (Angel Hulls)", 
+    "displayNameID": 530029, 
+    "skinMaterialID": 208
+  }, 
+  "74": {
+    "materialSetID": 88, 
+    "displayName": "Victory", 
+    "displayNameID": 508635, 
+    "skinMaterialID": 74
+  }, 
+  "70": {
+    "materialSetID": 77, 
+    "displayName": "Blue Tiger", 
+    "displayNameID": 508281, 
+    "skinMaterialID": 70
+  }, 
+  "2": {
+    "materialSetID": 2, 
+    "displayName": "Kador", 
+    "displayNameID": 505347, 
+    "skinMaterialID": 2
+  }
+}
